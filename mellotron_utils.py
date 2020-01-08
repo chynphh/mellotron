@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from text import text_to_sequence, get_arpabet, cmudict
 
 
-CMUDICT_PATH = "data/cmu_dictionary"
+CMUDICT_PATH = "/home/chenghao03/tts/mellotron/data/cmu_dictionary"
 CMUDICT = cmudict.CMUDict(CMUDICT_PATH)
 PHONEME2GRAPHEME = {
     'AA': ['a', 'o', 'ah'],

@@ -1,2 +1,1 @@
-data/example1.wav|exploring the expanses of space to keep our planet safe|1
-data/example2.wav|and all the species that call it home|1
+/data/aidatatang_200zh/corpus/test/G1450/T0055G1450S0439.wav|na4 ni3 kan4 kan4 ni3 de zhao4 pian1|517

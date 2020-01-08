@@ -40,7 +40,7 @@ def cumulativeMeanNormalizedDifferenceFunction(df, N):
     :return: cumulative mean normalized difference function
     :rtype: list
     """
-
+    # print(np.cumsum(df[1:]).astype(float))
     cmndf = df[1:] * range(1, N) / np.cumsum(df[1:]).astype(float) #scipy method
     return np.insert(cmndf, 0, 1)
 

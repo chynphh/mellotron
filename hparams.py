@@ -19,22 +19,23 @@ def create_hparams(hparams_string=None, verbose=False):
         dist_url="tcp://localhost:54321",
         cudnn_enabled=True,
         cudnn_benchmark=False,
-        ignore_layers=['speaker_embedding.weight'],
+        # ignore_layers=['speaker_embedding.weight'],
+        ignore_layers=['fark'],
 
         ################################
         # Data Parameters             #
         ################################
-        training_files='filelists/ljs_audiopaths_text_sid_train_filelist.txt',
-        validation_files='filelists/ljs_audiopaths_text_sid_val_filelist.txt',
-        text_cleaners=['english_cleaners'],
-        p_arpabet=1.0,
+        training_files='filelists/aidatatang_train_filelist.txt',
+        validation_files='filelists/aidatatang_small_val_filelist.txt',
+        text_cleaners=['basic_cleaners'],
+        p_arpabet=0.0,
         cmudict_path="data/cmu_dictionary",
 
         ################################
         # Audio Parameters             #
         ################################
         max_wav_value=32768.0,
-        sampling_rate=22050,
+        sampling_rate=16000,
         filter_length=1024,
         hop_length=256,
         win_length=1024,
@@ -85,7 +86,7 @@ def create_hparams(hparams_string=None, verbose=False):
         postnet_n_convolutions=5,
 
         # Speaker embedding
-        n_speakers=123,
+        n_speakers=600,
         speaker_embedding_dim=128,
 
         # Reference encoder
@@ -110,7 +111,8 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate_anneal=50000,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=32,
+        batch_size=24,
+        val_batch_size=128,
         mask_padding=True,  # set model's padded outputs to padded values
 
     )

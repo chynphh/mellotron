@@ -15,7 +15,7 @@ from data_utils import TextMelLoader, TextMelCollate
 from loss_function import Tacotron2Loss
 from logger import Tacotron2Logger
 from hparams import create_hparams
-
+from tqdm import tqdm
 
 def reduce_tensor(tensor, n_gpus):
     rt = tensor.clone()
@@ -111,6 +111,7 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, filepath):
 def validate(model, criterion, valset, iteration, batch_size, n_gpus,
              collate_fn, logger, distributed_run, rank):
     """Handles all the validation scoring and printing"""
+    print("Start to validate...")
     model.eval()
     with torch.no_grad():
         val_sampler = DistributedSampler(valset) if distributed_run else None
@@ -119,7 +120,7 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus,
                                 pin_memory=False, collate_fn=collate_fn)
 
         val_loss = 0.0
-        for i, batch in enumerate(val_loader):
+        for i, batch in enumerate(tqdm(val_loader)):
             x, y = model.parse_batch(batch)
             y_pred = model(x)
             loss = criterion(y_pred, y)
@@ -176,7 +177,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
     train_loader, valset, collate_fn, train_sampler = prepare_dataloaders(hparams)
 
     # Load checkpoint if one exists
-    iteration = 0
+    iteration = 1
     epoch_offset = 0
     if checkpoint_path is not None:
         if warm_start:
@@ -189,11 +190,14 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                 learning_rate = _learning_rate
             iteration += 1  # next iteration is iteration + 1
             epoch_offset = max(0, int(iteration / len(train_loader)))
-
+            validate(model, criterion, valset, iteration,
+                    hparams.val_batch_size, n_gpus, collate_fn, logger,
+                    hparams.distributed_run, rank)
     model.train()
     is_overflow = False
     # ================ MAIN TRAINNIG LOOP! ===================
     for epoch in range(epoch_offset, hparams.epochs):
+        print("-"*15)
         print("Epoch: {}".format(epoch))
         if train_sampler is not None:
             train_sampler.set_epoch(epoch)
@@ -230,7 +234,6 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                     model.parameters(), hparams.grad_clip_thresh)
 
             optimizer.step()
-
             if not is_overflow and rank == 0:
                 duration = time.perf_counter() - start
                 print("Train loss {} {:.6f} Grad Norm {:.6f} {:.2f}s/it".format(
@@ -239,14 +242,15 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                     reduced_loss, grad_norm, learning_rate, duration, iteration)
 
             if not is_overflow and (iteration % hparams.iters_per_checkpoint == 0):
-                validate(model, criterion, valset, iteration,
-                        hparams.batch_size, n_gpus, collate_fn, logger,
-                        hparams.distributed_run, rank)
                 if rank == 0:
                     checkpoint_path = os.path.join(
                         output_directory, "checkpoint_{}".format(iteration))
                     save_checkpoint(model, optimizer, learning_rate, iteration,
                                     checkpoint_path)
+                # validate(model, criterion, valset, iteration,
+                #         hparams.val_batch_size, n_gpus, collate_fn, logger,
+                #         hparams.distributed_run, rank)
+
 
             iteration += 1
 
@@ -284,3 +288,9 @@ if __name__ == '__main__':
 
     train(args.output_directory, args.log_directory, args.checkpoint_path,
           args.warm_start, args.n_gpus, args.rank, args.group_name, hparams)
+
+
+
+    # python -m multiproc train.py --output_directory=/data/experiments/mellotron/output --log_directory=/data/experiments/mellotron/log --checkpoint_path /data/experiments/mellotron/output/checkpoint_500  --hparams=distributed_run=True
+    # python train.py --output_directory=/data/experiments/mellotron/output --log_directory=/data/experiments/mellotron/log --checkpoint_path /data/experiments/mellotron/output/checkpoint_500 
+    

@@ -39,15 +39,21 @@ def text_to_sequence(text, cleaner_names, dictionary=None, p_arpabet=1.0):
 
   space = _symbols_to_sequence(' ')
   # Check for curly braces and treat their contents as ARPAbet:
+  # print("Text: ", text)
+  # print("SymbolToId: ", _symbol_to_id)
   while len(text):
+    # print("Sequence1: ", sequence)
     m = _curly_re.match(text)
+    # print("M: ", m)
     if not m:
       clean_text = _clean_text(text, cleaner_names)
+      # print("Clean Text: ", clean_text)
       if cmudict is not None:
+        # print("Cmudict:", cmudict)
         clean_text = [get_arpabet(w, dictionary) 
                       if random.random() < p_arpabet else w 
                       for w in clean_text.split(" ")]
-
+        # print("Deal Clean Text: ", clean_text)
         for i in range(len(clean_text)):
             t = clean_text[i]
             if t.startswith("{"):
@@ -58,14 +64,15 @@ def text_to_sequence(text, cleaner_names, dictionary=None, p_arpabet=1.0):
       else:
         sequence += _symbols_to_sequence(clean_text)
       break
-
+    # print("Sequence2: ", sequence)
     clean_text = _clean_text(text, cleaner_names)
     sequence += _symbols_to_sequence(_clean_text(m.group(1), cleaner_names))
     sequence += _arpabet_to_sequence(m.group(2))
     text = m.group(3)
-
   # remove trailing space
+  # print("Sequence3: ", sequence)
   sequence = sequence[:-1] if sequence[-1] == space[0] else sequence
+  # print("Sequence4: ", sequence)
   return sequence
 
 

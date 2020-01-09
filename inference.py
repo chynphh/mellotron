@@ -44,7 +44,7 @@ def plot_mel_f0_alignment(mel_source, mel_outputs_postnet, f0s, alignments, figs
     axes[1].set_title("Predicted Mel")
     axes[2].set_title("Source pitch contour")
     axes[3].set_title("Source rhythm")
-    plt.savefig('plot_mel_f0_alignment.png', bbox_inches='tight', pad_inches=0, dpi=150)
+    plt.savefig('output/plot_mel_f0_alignment.png', bbox_inches='tight', pad_inches=0, dpi=150)
     # plt.tight_layout()
 
 
@@ -73,7 +73,7 @@ stft = TacotronSTFT(hparams.filter_length, hparams.hop_length, hparams.win_lengt
 
 
 # ## Load Models
-checkpoint_path = "/data/experiments/mellotron/output/checkpoint_2500"
+checkpoint_path = "/data/experiments/mellotron/output/checkpoint_47500"
 mellotron = load_model(hparams).cuda().eval()
 mellotron.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 
@@ -121,7 +121,7 @@ male_speakers = cycle(
 # print(female_speakers, male_speakers)
 
 trans_speaker_id = next(female_speakers) if np.random.randint(2) else next(male_speakers)
-trans_speaker_id = torch.LongTensor([517]).cuda()
+trans_speaker_id = torch.LongTensor([559]).cuda()
 print(trans_speaker_id)
 print(x)
 raw_speaker_id = x[5]
@@ -131,7 +131,10 @@ print(raw_speaker_id)
 with torch.no_grad():
     # get rhythm (alignment map) using tacotron 2
     mel_outputs, mel_outputs_postnet, gate_outputs, rhythm = mellotron.forward(x)
+    print(rhythm.shape)
     rhythm = rhythm.permute(1, 0, 2)
+    # temperature=1.0
+    # rhythm = torch.nn.functional.softmax(rhythm/ temperature)
 
 speaker_id = trans_speaker_id
 
@@ -149,7 +152,7 @@ plot_mel_f0_alignment(x[2].data.cpu().numpy()[0],
 with torch.no_grad():
     audio = denoiser(waveglow.infer(mel_outputs_postnet, sigma=0.8), 0.01)[:, 0]
 
-librosa.output.write_wav(f'{file_idx}-{speaker_id.item()}.wav', audio[0].data.cpu().numpy(), hparams.sampling_rate)
+librosa.output.write_wav(f'output/{file_idx}-{speaker_id.item()}.wav', audio[0].data.cpu().numpy(), hparams.sampling_rate)
 # ipd.Audio(audio[0].data.cpu().numpy(), rate=hparams.sampling_rate)
 
 

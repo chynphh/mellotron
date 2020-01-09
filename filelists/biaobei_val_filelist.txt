@@ -1,0 +1,1000 @@
+/data/bznsyp/Wave/006105.wav|zhang1 xu4 jie3 shi4 bu4 qing1 zen3 me5 fan1 zi4 dian3 cou4 qiao3 rang4 san1 zi4 tuan2 ju4 le5|600
+/data/bznsyp/Wave/008012.wav|er2 dao4 er4 ling2 jiu3 ling2 nian2 zhe4 yi4 ke3 neng2 xing4 ze2 jiang1 gao1 da2 bai3 fen1 zhi1 jiu3 shi2|600
+/data/bznsyp/Wave/006312.wav|gu3 shi4 die1 zhe4 me5 can3 wo3 bu4 xiang3 huo2 le5|600
+/data/bznsyp/Wave/000421.wav|tu2 wei2 da4 yun2 shan1 cuo4 yin2 bian1 qing4 tong2 ju4 shou4 zuo4|600
+/data/bznsyp/Wave/001009.wav|liang2 jian4 hong2 ji3 fu4 jing1 cheng2 ti4 er2 tao3 xin1|600
+/data/bznsyp/Wave/007964.wav|ta1 ti2 chu1 zhen3 duan4 dan1 biao3 shi4 zi4 ji3 de5 zuo3 xi1 you4 shou2 zhou3 dou1 cuo4 shang1|600
+/data/bznsyp/Wave/000350.wav|jin1 tian1 dan4 yun2 zhe1 ri4 geng4 xian3 men1 re4|600
+/data/bznsyp/Wave/008546.wav|chi1 chi1 jiu4 zhi1 dao4 chi1 zhuan4 duo1 shao3 qian2 gou4 ni3 chi1 de5|600
+/data/bznsyp/Wave/001861.wav|you2 yu2 zao1 yu4 luan4 liu2 fei1 ji1 fa1 sheng1 jiao4 da4 dian1 bo3 feng2 yu4 gan3 jue2 xia4 shen1 yi2 zhen4 liang2 yi4|600
+/data/bznsyp/Wave/003031.wav|yao4 shi4 tui2 ruan3 le5 dou1 hui4 zai1 xia4 lai5|600
+/data/bznsyp/Wave/009089.wav|yi4 zhi1 can1 sai4 gong1 ji1 zhua3 zi5 shang4 zhuang1 zhe5 xiao3 dao1|600
+/data/bznsyp/Wave/000058.wav|jin1 you3 zhuang1 man2 er2 xia4 zhou1 juan1 shen4|600
+/data/bznsyp/Wave/002537.wav|jiang1 jiu4 jue2 yi4 zhan3 kai1 yan2 jiu1|600
+/data/bznsyp/Wave/006273.wav|zhi4 yu2 hou4 qi1 mei2 ti3 de5 bao4 dao4 zhi3 shi4 yi4 zhong2 chuai3 ce4 er2 yi3|600
+/data/bznsyp/Wave/008080.wav|hai2 yao4 jiao4 ta1 qi3 chuang2 ne5 zen3 me5 hui4 bu4 zao2 qi3|600
+/data/bznsyp/Wave/008680.wav|zai4 yi2 ce4 tie2 gui3 xia4 dao4 zha3 shang4 reng2 neng2 kan4 jian4 xue4 ji4|600
+/data/bznsyp/Wave/001783.wav|zhe4 zhong3 jiang1 chi2 wu2 yi2 rang4 mian4 fen2 chang3 zui4 wei2 zuo3 you4 wei2 nan2|600
+/data/bznsyp/Wave/007313.wav|he2 bei2 sheng3 tang2 shan1 shi4 ren2|600
+/data/bznsyp/Wave/004992.wav|qing1 zao2 qi3 lai2 qi4 wei4 da4 de5 qiang4 bi2 zi5|600
+/data/bznsyp/Wave/005481.wav|tian2 dan1 de5 xiao3 zhuo1 ke2 fou3 duo1 she4 ji3 chu4|600
+/data/bznsyp/Wave/004501.wav|zuo2 wan3 di4 qiu2 yi4 xiao3 shi2 huo2 dong4 qian2 guo2 mao4 san1 qi1 ye4 se4 cui3 can4|600
+/data/bznsyp/Wave/009666.wav|beng4 fang2 xia4 bu4 zhu2 ti3 jie2 gou4 yi3 wan2 cheng2|600
+/data/bznsyp/Wave/008369.wav|hao3 zai4 ta1 chu1 yan3 le5 mi2 er3 ke4|600
+/data/bznsyp/Wave/006321.wav|nian4 de5 zhen1 hao3 ting1 gan3 mingr2 jiao1 jiao1 wo3|600
+/data/bznsyp/Wave/001311.wav|wo3 da4 er2 zi5 xiao3 ming2 jiu4 jiao4 han1 han5 xie2 yin1|600
+/data/bznsyp/Wave/008841.wav|wo3 gang1 gang1 guo4 wan2 shi2 ba1 sui4 sheng1 ri4|600
+/data/bznsyp/Wave/009554.wav|liu4 yue4 er4 shi2 qi1 ri4 jiao1 long2 hao4 shua1 xin1 ji4 lu4 xia4 qian2 zhi4 qi1 qian1 ling2 liu4 shi2 er4 mi3|600
+/data/bznsyp/Wave/000595.wav|ka2 bi2 li3 lai2 zi4 wa2 er3 zha1 gan1 xian4 de5 ji1 wei3 cun1|600
+/data/bznsyp/Wave/007627.wav|zhao4 zhong1 xiang2 de5 tuan2 dui4 na2 zhe5 ni2 ping2 de5 lao3 lao5 yu3 lu4 pai2 dui4 qing3 ta1 qian1 ming2|600
+/data/bznsyp/Wave/002928.wav|meng4 jing1 hui1 hui2 yi4 qi3 guo1 tao1 de5 yi2 jian4 qiu3 shi4|600
+/data/bznsyp/Wave/003796.wav|yu4 yuan2 jing3 se4 hen2 mei3 shi4 shang4 hai3 shi4 qu1 wei2 yi1 liu2 cun2 wan2 hao3 de5 jiang1 nan2 gu2 dian3 yuan2 lin2|600
+/data/bznsyp/Wave/005632.wav|yi2 hui4 you4 shuo1 yi2 yu3 xu2 yun1 duan4 jue2 le5 fu4 nv3 guan1 xi5 yan3 xia4 bu4 zhi1 nv3 er2 xia4 luo4|600
+/data/bznsyp/Wave/008167.wav|qin1 shu3 men5 mang2 zhe5 gei3 ta1 qia1 ren2 zhong1 lu1 shou2 zhi3|600
+/data/bznsyp/Wave/002492.wav|wei4 le5 mi2 bu3 kui1 kong1 man3 xin1 kai3 chai1 dong1 qiang2 bu3 xi1 qiang2 zui4 zhong1 qian4 xia4 ju4 kuan3|600
+/data/bznsyp/Wave/007316.wav|xing4 hao3 mei2 niang4 cheng2 can3 ju4|600
+/data/bznsyp/Wave/003099.wav|xia4 wu3 di4 yi1 ge5 jiang2 yan2 zhu3 ti2 shi4 er2 tong2 zhi2 ye4 ti3 yan4 guan3|600
+/data/bznsyp/Wave/005684.wav|tie3 guan4 shang4 fang2 le5 ren2 yingr3 you4 luo4 dao4 le5 di4 shang4|600
+/data/bznsyp/Wave/003476.wav|ran2 hou4 sheng1 huo2 fang1 mian4 ye2 hen3 zhe1 teng5|600
+/data/bznsyp/Wave/008024.wav|ta1 zhu4 shi4 xiao3 mei4 gan3 dao4 ta1 yi2 fu4 yu4 zui4 de5 yang4 zi5 dan3 geng4 da4 le5 ce4 shen1 ba3 tou2 tan4 guo4 qu4|600
+/data/bznsyp/Wave/008103.wav|ji3 tian1 hou4 yuan2 nv3 shi4 zai4 yi1 yuan4 zuo4 le5 fu4 qiang1 jing4 xia4 luan3 chao2 you4 fu4 jian4 qie1 chu2 shu4|600
+/data/bznsyp/Wave/003270.wav|dao4 pian1 qiao2 di3 cun1 kan4 le5 hou4 qing2 kuang4 hai2 bu2 shi4 zhe4 yang4|600
+/data/bznsyp/Wave/005202.wav|bing4 bu2 shi4 mei3 yi4 can1 dou1 bi4 xu1 da2 dao4 re4 liang4 yao1 qiu2|600
+/data/bznsyp/Wave/005826.wav|ci3 shi2 de5 chang3 fang2 bu2 shi4 bei4 di4 zhen4 qiang2 li4 yao1 zhan3 jiu4 shi4 bei4 zhen4 sui4|600
+/data/bznsyp/Wave/001274.wav|er2 zhe4 xie1 jia4 shi3 yuan2 dou1 fei1 che1 zhu3 quan2 bu4 you2 zhuan1 ye4 chuang2 gang3 si1 ji1 lai2 wan2 cheng2|600
+/data/bznsyp/Wave/009086.wav|tong2 yang4 de5 hou4 xuan2 chi3 cun4 ye3 jin4 xing2 le5 suo1 duan3|600
+/data/bznsyp/Wave/005852.wav|dang1 jiu1 cha2 ren2 yuan2 qu3 zheng4 shi2 xie4 mou3 tai4 du4 man2 heng4 qiang2 xing2 zu3 lan2 qu3 zheng4 bing4 qiang2 zou3 xiang4 ji1|600
+/data/bznsyp/Wave/007636.wav|che1 nei4 zuo4 zhe5 yi4 gao1 yi4 ai2 liang3 ming2 nan2 zi3|600
+/data/bznsyp/Wave/000331.wav|qie4 fei3 yu4 qiao4 jia1 wan4 shi2 chu4 dong4 jing3 zhong1 ji2 xie2 zang1 wu4 yan2 zao2 qiang2 lu4 tao2 zou3|600
+/data/bznsyp/Wave/008553.wav|gao1 di4 jia4 xiang4 mu4 de5 lei2 lei2 fu4 zhai4 dui4 qi3 ye4 de5 ying2 shou1 xing2 cheng2 zhong4 ya1|600
+/data/bznsyp/Wave/009943.wav|wo3 nu4 hou3 yi4 sheng1 chong1 shang4 qu4 ju2 qi3 zhuan1 tou5 za2 le5 guo4 qu4|600
+/data/bznsyp/Wave/003471.wav|jie2 zhi4 zhou1 san1 shou1 pan2 gai1 gong1 si1 shi4 zhi2 wei2 er4 dian2 wu3 yi1 qi1 er4 yi4 mei3 yuan2|600
+/data/bznsyp/Wave/003538.wav|chou2 xiao3 ya1 hen3 kuai4 xian3 chu1 bai2 tian1 e2 de5 mu2 yang4|600
+/data/bznsyp/Wave/000674.wav|yue4 nan2 fang1 mian4 ye3 yun2 xu3 mai2 shou3 zhi2 jie1 dao4 lin2 qu1 xuan3 cai2|600
+/data/bznsyp/Wave/003382.wav|di4 er4 tian1 wo3 chang2 shi4 na4 zhong3 zhuang4 tai4 cir2 yi2 yang4 jinr4 bu4 yi2 yang4 le5|600
+/data/bznsyp/Wave/004141.wav|bu4 fu2 yao2 wo3 a5|600
+/data/bznsyp/Wave/005187.wav|shi4 hou4 jing3 fang1 zheng4 shi2 gai1 an4 xi4 zong4 huo3 an4|600
+/data/bznsyp/Wave/002961.wav|ming4 ling4 shi4 bu4 ke3 wei2 kang4 de5|600
+/data/bznsyp/Wave/004178.wav|xiao2 nv3 hair2 yi3 jing1 can3 bu4 ren2 du3 wei2 guan1 qun2 zhong4 bu4 jin1 ai1 tan4 dao4 tai4 can3 le5 tai4 can3 le5|600
+/data/bznsyp/Wave/009794.wav|chun1 yun4 qi1 jian1 guang2 tie3 ji2 tuan2 ri4 kai1 xing2 dong4 che1 zu3 lie4 che1 er4 bai2 wu3 shi2 liu4 dui4|600
+/data/bznsyp/Wave/007378.wav|wei4 ci3 ta1 te4 di4 yan2 jiu1 le5 yi4 hai1 de5 zu1 che1 he2 tong5|600
+/data/bznsyp/Wave/004974.wav|xue2 hui4 lao2 yi4 jie2 he2|600
+/data/bznsyp/Wave/005643.wav|kao3 wan2 shi4 yi3 hou4 wo3 tu1 ran2 dui4 ren2 sheng1 shi1 qu4 le5 xin4 xin1|600
+/data/bznsyp/Wave/004203.wav|hai2 di3 lao1 ceng4 wu3 fan4 mei2 cheng2 gong1 cong2 xuan2 wu3 men2 chu1 lai5 hou4 wu3 fan4 de5 shi2 jian1 dao4 le5|600
+/data/bznsyp/Wave/000173.wav|yang2 kai2 ku3 xiao4 zhe5 ji4 xu4 wang3 jia1 nuo2|600
+/data/bznsyp/Wave/009791.wav|ta1 zuo4 de5 cai4 te4 bie2 hao3 chi1 tong2 shi4 xi3 huan1 lai2 ceng4 dun4 fan4 chi1|600
+/data/bznsyp/Wave/006546.wav|shi4 qing2 bai4 lu4 hou4 hui4 pu3 bian4 cheng2 le5 ci4 tan4 yin3 si1 de5 qin1 quan2 zhe3|600
+/data/bznsyp/Wave/007745.wav|xian4 zai4 you2 pin2 zhu3 yao4 shi4 chu1 xian4 shan2 dian3 he2 leng3 lv4 dian3 zhe4 liang3 xiang4 bu4 he2 ge2|600
+/data/bznsyp/Wave/008851.wav|shi4 bu2 shi4 jiao1 bu2 shang4 fang2 zu1 wo3 men5 jiu4 yao4 wu2 jia1 ke3 gui1 le5 zhu3 ren2|600
+/data/bznsyp/Wave/003179.wav|da2 xiao3 cai4 an3 die1 jiu4 shi4 bei4 wo2 da3 can2 de5|600
+/data/bznsyp/Wave/008856.wav|hui4 shuo1 san1 guo2 yu3 yan2 de5 jia1 li4 zai4 jue2 sai4 ji2 xing4 wen4 da2 huan2 jie2 biao3 xian4 you2 qi2 chu1 se4|600
+/data/bznsyp/Wave/009197.wav|cong2 di4 er4 tian1 kai1 shi3 ta1 tian1 tian1 shang4 shan1 pei2 nv3 er2 shuo1 huir4 hua4|600
+/data/bznsyp/Wave/005464.wav|xing4 kui1 ta1 mei2 jian4 guo4 luo2 tian1 cheng2 niao3 fei1 tu4 zou3 zhi1 lei4 de5 ming2 yan2 fou3 ze2 yao4 fa1 hui1 ban4 tian1|600
+/data/bznsyp/Wave/004404.wav|lin2 fen2 shi4 jiang1 mu4 guang1 miao2 zhun3 le5 zhong1 guan1 cun1|600
+/data/bznsyp/Wave/007156.wav|ling4 yi4 ming2 yu4 jing3 xu2 mou3 ze2 bei4 qiang2 zou2 jing3 fu2 bing4 bei4 kun2 bang3|600
+/data/bznsyp/Wave/009815.wav|hua1 yuan2 kou2 yu3 jiang1 jun5 ba4 dao4 zheng4 zhou1 kan4 huang2 he2 bi4 ran2 xian1 dao4 hua1 yuan2 kou3|600
+/data/bznsyp/Wave/001096.wav|shuang1 fang1 yin1 wei4 wei4 zhi5 da4 xiao3 de5 shir4 jiu4 ni3 yi4 yan2 wo3 yi4 yu3 de5 zheng1 chao2 qi3 lai2|600
+/data/bznsyp/Wave/004540.wav|yong4 ta1 men5 shou1 cang2 zhe3 de5 hang2 hua4 gai1 qian2 bi4 jiao4 meng3 jiang1 wu3 qian1|600
+/data/bznsyp/Wave/007580.wav|zai4 zhe4 yang4 de5 bei4 jing3 xia4 bao1 rong2 xing4 zeng1 zhang3 ji1 cheng2 she1 wang4|600
+/data/bznsyp/Wave/006977.wav|dai4 dao4 jiu2 dian3 si4 ge5 ren2 gai1 shuo1 de5 hua4 dou1 shuo1 wan2 le5 hun1 ran2 yu4 shui4|600
+/data/bznsyp/Wave/005794.wav|yang2 yu3 zuo4 de5 wei4 zhi4 bu4 hao3 zhi2 dei3 qu1 shen1 gei2 liang3 ren2 zuo4 you2 chai1|600
+/data/bznsyp/Wave/002414.wav|gong1 yuan2 li3 ye2 you2 hen3 duo1 bie2 de5 xiao3 peng2 you5 dan4 xi3 que4 yi2 ge5 ye3 mei2 kan4 shang4|600
+/data/bznsyp/Wave/006191.wav|ta1 leng4 zhu4 le5 hao3 yi2 huir4 tou2 nao2 li3 cai2 fan3 ying4 chu1 bu4 ming2 fei1 xing2 wu4 zhe4 ge5 gai4 nian4|600
+/data/bznsyp/Wave/000769.wav|na4 wan2 dian2 ni3 zai4 zhao2 wo3 ba5|600
+/data/bznsyp/Wave/007902.wav|jin4 men2 shun4 jian1 nv3 hai2 ceng2 shen1 shou3 la1 zhu4 men2 kuang4 shi4 tu2 zheng4 tuo1|600
+/data/bznsyp/Wave/006677.wav|lu4 man4 man4 qi2 xiu1 yuan3 xi1 shui2 lai2 bang1 ni3 liang2 ju4 li2|600
+/data/bznsyp/Wave/008947.wav|zi3 gong4 shu2 mai3 le5 yi2 ge4 nu2 li4 dan4 ta1 fa1 yang2 feng1 ge2 ju4 jue2 le5 bu3 chang2|600
+/data/bznsyp/Wave/001128.wav|sui1 you3 zuo4 lao2 jing1 li4 dan4 leng2 mou3 yue4 bing4 wu2 hui2 gai3 zhi1 yi4|600
+/data/bznsyp/Wave/006698.wav|zhe4 zhong2 ti3 yan4 yi4 dianr2 ye3 bu4 zhi2 guan1|600
+/data/bznsyp/Wave/005021.wav|zai4 he2 nan2 wei4 le5 xi1 yin2 kao3 sheng1 you3 de5 pei2 xun4 ban1 da3 chu1 le5 wan4 yuan2 bao1 guo4 de5 zhao1 pai2|600
+/data/bznsyp/Wave/003301.wav|ci3 shi2 de5 ma2 lao3 yi3 lian2 yi2 ju4 wan2 zheng3 de5 hua4 dou1 bu4 neng2 jiang3 le5|600
+/data/bznsyp/Wave/004535.wav|pan1 yao4 ming2 kan4 guo4 cha2 chuan2 ne4 de5 hua4 jue2 de5 ta1 hua4 de5 hen2 you3 ling2 qi4|600
+/data/bznsyp/Wave/008391.wav|yi2 ci4 ou3 ran2 de5 ji1 hui4 yi4 zhang1 li4 ta3 hong2 zai4 nang2 bing3 tan1 qian2 de5 zhao4 pian4 bao4 hong2 wang3 luo4|600
+/data/bznsyp/Wave/008757.wav|zui4 jing1 cai3 de5 huan2 jie2 dang1 shu2 chang3 nei4 hu4 dong4|600
+/data/bznsyp/Wave/004198.wav|ta1 bian4 hu1 yu4 ma3 bu2 yao4 zai4 shen1 xian4 bian2 ma3 qing2 jie2|600
+/data/bznsyp/Wave/006824.wav|ni3 kan4 kan4 ji2 dian3 le5 hai2 bu4 gun3 hui2 lai5|600
+/data/bznsyp/Wave/007640.wav|you3 shi2 zai4 shang1 quan1 qing3 ge5 bang4 bang5 dou1 nan2|600
+/data/bznsyp/Wave/004857.wav|wo3 zai4 pang2 bian1 han3 qia1 ren2 zhong1 qia1 ren2 zhong1|600
+/data/bznsyp/Wave/003187.wav|ta1 ken3 zhe5 shou3 shang4 de5 nen4 zhu2 shi2 bu4 shi2 niu3 tou2 chou2 chou3 huan1 song4 de5 dui4 wu5|600
+/data/bznsyp/Wave/000810.wav|ge3 bin1 bin1 kan4 lai2 bie1 zhe5 bu4 shao3 yuan4 qi4|600
+/data/bznsyp/Wave/006648.wav|jian1 cha2 bu4 men2 ying1 gai1 cha2 cha2|600
+/data/bznsyp/Wave/006559.wav|bie2 gen1 wo2 qiang3 nan2 peng2 you5|600
+/data/bznsyp/Wave/003407.wav|gong1 zuo4 ren2 yuan2 mang2 zhe5 shou1 qian2 piao3 dou1 bu4 piao3 yi4 yan3 zi1 liao4 geng4 bu2 yong4 shuo1 he2 shi2 shen1 fen4|600
+/data/bznsyp/Wave/005713.wav|pie1 kai1 fei4 yong4 wen4 ti2 jun1 bu4 jiang4 mi4 mi5 sou1 suo3 fang2 zhi3 fa1 sheng1 mao2 dun4|600
+/data/bznsyp/Wave/000263.wav|bing4 qie3 ba2 wo2 da3 shang1 le5 zao4 cheng2 zuo2 er2 er3 mo2 chuan1 kong3 you4 er2 you3 yu1 xue4|600
+/data/bznsyp/Wave/006342.wav|gu4 zhang4 che1 liang4 jiu4 yuan2 fu2 wu4 shou1 fei4 shi2 xing2 zheng4 fu3 ding4 jia4 guan2 li3|600
+/data/bznsyp/Wave/008380.wav|che1 xing2 zhi4 zao3 lin2 qian2 jie1 shi2 ma3 shi1 fu5 ba3 che1 ting2 xia4 zi4 cheng1 bie1 bu2 zhu4 le5 yao4 qu4 sa1 niao4|600
+/data/bznsyp/Wave/004391.wav|cha2 zhao3 wen4 ti2 geng4 mei2 you3 tun1 tun1 tu2 tu3 duo2 duo3 shan2 shan3 er2 shi4 zhi2 jie1 liao3 dang4|600
+/data/bznsyp/Wave/001933.wav|chen2 bing1 yi2 xia4 zi5 huo3 le5 da4 hou2 qi3 lai2|600
+/data/bznsyp/Wave/006734.wav|jiao2 cai3 gao1 gen1 xie2 si4 hu1 ye3 you2 dian3 li4 bu4 cong2 xin1 bu4 shi2 fu2 zhe5 lan2 gan1 zou3 lu4|600
+/data/bznsyp/Wave/003274.wav|sheng1 ming2 chong2 shen1 dui4 e4 yi4 zhong4 shang1 yu2 mo3 hei1 de5 yan2 lun4 yu3 bao4 dao4 bao3 liu2 fa3 lv4 zhui1 jiu1|600
+/data/bznsyp/Wave/001642.wav|ta1 zui4 zao3 jiang1 ji1 yin1 yi4 ci2 dai4 ru4 zhong1 wen2 bei4 yu4 wei2 zhong1 guo2 de5 mo2 er3 gen1|600
+/data/bznsyp/Wave/005656.wav|cheng2 ke4 tu2 bu4 rao4 guo4 che1 huo4 xian4 chang2 zhuan3 cheng2|600
+/data/bznsyp/Wave/001071.wav|er2 gan1 su4 ji2 lin2 deng2 sheng3 ye3 fa1 xian4 le5 san1 ju4 qing2 an4 chao1 biao1 nai2 fen3|600
+/data/bznsyp/Wave/006353.wav|lao4 guo4 zhi1 hou4 yi1 ran2 kang4 han4|600
+/data/bznsyp/Wave/004825.wav|jiu4 ru2 fu1 xiao3 ji1 de5 lao2 mu3 ji1 yi2 yang4 wen1 nuan3|600
+/data/bznsyp/Wave/006635.wav|qiang2 shang4 gao4 shi4 wei4 neng2 shuo1 ming2 ma2 tong3 de5 shang4 shu4 hua1 shao4 gong1 neng2 hui4 xiao1 hao4 duo1 shao3 dian4 liang4|600
+/data/bznsyp/Wave/001288.wav|pang4 pang4 de5 sun1 zhuo2 hen3 zhao1 ren2 xi3 ai4|600
+/data/bznsyp/Wave/006363.wav|er2 tong2 ai2 xiao3 zheng4 ying1 zao3 fa1 xian4 zao3 zhi4 liao2 ji2 shi2 gan1 yu4 cai2 neng2 cheng2 jiu4 meng4 xiang3 de5 gao1 du4|600
+/data/bznsyp/Wave/005357.wav|zui4 hou4 chang3 jia1 biao3 shi4 ke2 yi2 gei3 liu2 mou3 ling4 huan4 bao1 zhi4 liang4 hao3 de5 suan1 nai3|600
+/data/bznsyp/Wave/003630.wav|jing1 ci3 yi2 yi4 lian2 shu3 zai4 shi4 min2 zhong1 de5 wei1 wang4 da4 zeng1|600
+/data/bznsyp/Wave/004243.wav|lao3 zi4 hao4 dong1 lai2 shun4 hun2 tun5 hou2 hu4 guo2 si4 xiao3 chi1 cha2 tang1 li3 qi2 ju4 di4 tan2|600
+/data/bznsyp/Wave/004684.wav|liang3 nian2 qian2 zai4 xi1 ban1 ya2 sai4 wei2 ya3 de5 bi3 sai4 zhong1 mei2 xi1 ceng2 huo4 de2 yin2 pai2|600
+/data/bznsyp/Wave/007284.wav|wo3 de5 xin1 zhi2 shu3 yu2 ni3 o5|600
+/data/bznsyp/Wave/007716.wav|yao4 bi4 mian3 lve4 deng3 yu2 wu2 shi4 de5 gan1 ga4 chong2 yan3 ji2 xu1 dui4 xiang1 guan1 gui1 ding4 da2 bu3 ding1|600
+/data/bznsyp/Wave/006091.wav|yu3 ju4 chang3 huan1 teng2 re4 nao5 de5 chang3 mian4 xiang1 fan3 ci3 ke4 hou4 tai2 li3 que4 yi2 pian4 su4 mu4|600
+/data/bznsyp/Wave/004695.wav|you3 qi1 ba1 ge5 mao4 si4 wu2 suo3 shi4 shi4 de5 nan2 ren5 zai4 chang3 fang2 wai4 qun1 xun2|600
+/data/bznsyp/Wave/003462.wav|dang4 tian1 yin3 en1 hui4 shen1 chuan1 fen3 hong2 shang4 yi1 hei1 se4 ba1 lei2 wu3 qun2 mu2 yang4 shi2 fen1 tian2 mei3|600
+/data/bznsyp/Wave/000194.wav|jiu2 jing3 fa2 zi3 xi1 du2 an4 zhen4 jing1 yan3 yi4 quan1|600
+/data/bznsyp/Wave/007688.wav|qi2 zao3 nian2 sang4 fu4 mu3 qin1 yi4 ren2 xin1 ku3 jiang1 ta1 la1 che3 da4 mei2 xiang3 dao4 jing4 ying1 nian2 zao3 shi4|600
+/data/bznsyp/Wave/008426.wav|ta1 shuo1 zi4 ji2 you3 qian2 bu4 xiang3 dang1 lao3 bie1 yi1|600
+/data/bznsyp/Wave/003975.wav|suo2 jing3 feng1 shui3 ji1 hu1 yao4 shen2 me5 you3 shen2 me5|600
+/data/bznsyp/Wave/005977.wav|ta1 yan3 qian2 ran2 qi3 yi4 zhan3 deng1|600
+/data/bznsyp/Wave/004129.wav|zhe4 ge5 tu2 shu1 shen2 tou1 ceng2 shi4 xie2 shou3|600
+/data/bznsyp/Wave/004123.wav|hai2 zi5 de5 lian2 can3 bai2 zhe1 teng5 huai4 le5|600
+/data/bznsyp/Wave/005676.wav|chen4 ci3 ji1 hui4 mei3 ri4 dian4 xun4 bao4 pan2 dian3 le5 chu1 guo4 lei4 si4 qiu3 shi4 de5 ling2 dao3 ren2|600
+/data/bznsyp/Wave/002171.wav|kan4 na4 teng2 kong1 er2 qi3 de5 tiao4 ban3|600
+/data/bznsyp/Wave/004092.wav|bu4 guan2 za3 wen4 jiu4 shi4 bu4 fa2 ni3 le5|600
+/data/bznsyp/Wave/002575.wav|ke2 yi3 bao1 tang1 he1 ya5 tui1 jian4 fen3 si1 dou4 fu5 tang1 mei3 rong2 you4 jian4 wei4|600
+/data/bznsyp/Wave/009407.wav|xiang1 gang3 hui2 gui1 yi4 zhou1 nian2 de5 ji4 nian4 ri4 ji2 jiang1 lai2 lin2|600
+/data/bznsyp/Wave/008416.wav|tong2 shi2 liu2 yu4 biao1 ye3 cheng2 ren4 dui4 ci3 shi4 xue2 xiao4 you3 xiang1 ying4 de5 ze2 ren4|600
+/data/bznsyp/Wave/008807.wav|gai1 zhong1 xin1 mei2 you3 tou4 lu4 pei1 tai1 gan4 xi4 bao1 ju4 ti3 lai2 zi4 na3 xie1 san1 jia3 yi1 yuan4|600
+/data/bznsyp/Wave/000576.wav|gan1 ju2 ye2 xu3 dui4 ni2 you3 bang1 zhu4 o5|600
+/data/bznsyp/Wave/000158.wav|jiu3 yang2 dou4 jiang1 ji1 wo3 dao4 shi5 hui4 yong4|600
+/data/bznsyp/Wave/007876.wav|yin1 wei4 shi4 guan1 ke3 er2 bu2 yuan4 chu4 ji2 de5 yin3 si1 zhe4 li3 bu2 bian4 jie3 shi4|600
+/data/bznsyp/Wave/005231.wav|mian4 lin2 jin4 tui4 gan1 ga4 de5 kun4 jing4|600
+/data/bznsyp/Wave/000164.wav|ling4 yi4 ming2 yu4 nan4 zhe3 qin2 ping2 feng4 shi4 chong2 ming2 yao2 nan2 cun1 ren2|600
+/data/bznsyp/Wave/009509.wav|you2 ni3 zai4 shen1 bian1 pei2 ban4 de5 ri4 zi5 gan3 jue2 mei3 tian1 dou1 xiang4 du4 jia4 yi2 yang4 kai1 xin1 ne5|600
+/data/bznsyp/Wave/000719.wav|zha2 kua1 wei1 ye3 shi4 ku4 da2 ma3 fu1 fu4 hun1 yin1 de5 jie4 shao4 ren2|600
+/data/bznsyp/Wave/003912.wav|suan1 yu3 wu1 ran3 shi4 ge5 qu1 yu4 xing4 de5 wen4 ti2|600
+/data/bznsyp/Wave/004892.wav|meng4 xiang3 yi2 ding4 yao4 you3 wan4 yi1 shi2 xian4 le5 ne5|600
+/data/bznsyp/Wave/004124.wav|dao3 zhi4 hang2 ban1 yan2 wu4 yi4 bai3 si4 shi5 ba1 ge4 zhi4 liu2 lv3 ke4 jin4 wan4 ren2|600
+/data/bznsyp/Wave/002799.wav|er2 de2 guo2 shi4 zhong1 ou1 guan1 xi5 de5 zhong4 yao4 ling2 pao2 zhe3|600
+/data/bznsyp/Wave/005572.wav|jin4 chu1 sou1 zhu2 yi4 ni3 shi4 xiang3 cheng2 fa2 ta1 hai2 shi4 cheng2 fa2 wo3 ya5|600
+/data/bznsyp/Wave/009878.wav|wo3 bu4 chi1 ni3 na4 tao4|600
+/data/bznsyp/Wave/004881.wav|you2 xi3 yi1 ji1 wo3 jiu4 tou1 hui4 lan3 ba5|600
+/data/bznsyp/Wave/002535.wav|qiu2 mang3 yi2 ge5 yue4 yao4 wei4 shi2 liang3 ci4 ta1 zong3 shi4 zao2 zao3 ti2 xing2 wo3 gai1 gei3 qiu2 mang2 mai3 chi1 de5 le5|600
+/data/bznsyp/Wave/001248.wav|ta1 hai2 jiang1 wu3 ming2 shang1 yuan2 song4 wang3 si4 yao1 liu4 yi1 yuan4 jiu4 zhi4|600
+/data/bznsyp/Wave/003254.wav|zhe4 shi4 yi4 chang2 yu2 si3 shen2 bi3 su4 du4 yu3 shi2 jian1 qiang3 sheng1 ming4 de5 jin3 ji2 da4 kong1 yun4|600
+/data/bznsyp/Wave/000071.wav|er4 jing4 jia1 zhu4 bei2 wu3 huan2 wai4 shang4 ban1 yao4 qu4 ya4 yun4 cun1 hua2 tang2 shang1 chang3|600
+/data/bznsyp/Wave/001808.wav|en4 ba1 gua4 xin1 wen2 zong3 shi4 hen3 duo1|600
+/data/bznsyp/Wave/006886.wav|ji4 xiang3 rang4 ma3 er2 pao3 you4 bu4 gei2 ma3 er2 zu2 gou4 de5 cao3 qi2 jie2 guo2 ye3 jiu4 zai4 yi4 liao4 zhi1 zhong1|600
+/data/bznsyp/Wave/001966.wav|cun2 zai4 yan1 jing2 yin3 huan4 de5 kuang4 jing3 bao4 yu3 qi1 jian1 yi2 lv4 yan2 jin4 jing3 xia4 zuo4 ye4|600
+/data/bznsyp/Wave/002293.wav|you4 po4 you4 ai3 de5 wa3 fang2 bian4 cheng2 xin1 lou2 yi4 yu4 qing1 he2 hai2 zi5 men5 dun4 shi2 kan4 dao4 le5 xi1 wang4|600
+/data/bznsyp/Wave/005637.wav|shen1 chuan1 zhi4 fu2 de5 yang2 fang2 dian4 pai4 chu1 suo3 min2 jing3 sun1 yao2 zheng4 zai4 cun2 qu2 kuan3 ji1 pang2 xun2 shi4|600
+/data/bznsyp/Wave/007691.wav|mo4 ni2 le4 sheng1 de5 xiao1 sa3 ying1 jun4 cheng2 le5 na4 xie1 fei1 zi5 lie4 qu3 de5 dui4 xiang4|600
+/data/bznsyp/Wave/009301.wav|li4 wei2 fou3 ren4 le5 zhe4 yi2 bao4 dao4|600
+/data/bznsyp/Wave/002634.wav|geng3 liu2 shuan1 ren4 wei2 si1 kao3 de5 nan2 dian3 zai4 yu2 shi2 jian4|600
+/data/bznsyp/Wave/004003.wav|lao3 po2 guo4 qu5 an1 wei4 shuo1 bie2 ku1 le5 zhe4 you3 shen2 me5 teng2 de5|600
+/data/bznsyp/Wave/001188.wav|zhe4 shi4 sai4 er2 bi3 duo2 guan4 hou4 shou2 peng2 jiang3 bei1|600
+/data/bznsyp/Wave/001841.wav|you3 cun1 min2 cheng1 zhang1 xiao2 wei2 hen3 xiao4 shun4 chu1 yu4 hou4 yu2 mu3 qin1 yi4 qi3 ju1 zhu4|600
+/data/bznsyp/Wave/004847.wav|jia3 ru2 zhen1 you3 zhe4 zhong3 ren2 wo3 ning4 yuan4 qu4 chang2 ta1 dao3 dan4 de5 zi1 wei4|600
+/data/bznsyp/Wave/000443.wav|gu2 yu3 yun2 bu2 huan4 gua3 er2 huan4 bu4 jun1|600
+/data/bznsyp/Wave/003961.wav|dui4 ni3 shuo1 yi4 bai3 bian4 wo3 ai4 ni3|600
+/data/bznsyp/Wave/001000.wav|hui4 chu1 xian4 zhe4 zhong2 qiang3 tai2 ci2 bei4 cuo4 tai2 ci2 de5 cuo4 wu4 ma5|600
+/data/bznsyp/Wave/004390.wav|gong1 shui3 she4 shi1 dong4 huai4 yin3 fa1 pao2 shui3 ying2 xiang3 dao4 yong4 hu4 de5 zheng4 chang2 yong4 shui3|600
+/data/bznsyp/Wave/000480.wav|wo3 de5 xiao2 nao3 gua1 you2 dian3 bu2 gou4 yong4 la5|600
+/data/bznsyp/Wave/002478.wav|ni3 men5 dao4 di2 you3 wan2 mei2 wan2|600
+/data/bznsyp/Wave/008902.wav|shen2 me5 yang4 de5 nei4 rong2 cai2 neng2 zhen1 zheng4 xi1 yin3 ren2 men5 shang4 wang3 ne5|600
+/data/bznsyp/Wave/000744.wav|kai2 er3 sheng1 yu2 de2 ke4 sa4 si1 zhou1 xi1 bu4|600
+/data/bznsyp/Wave/008824.wav|yi4 tou2 de5 chang2 fa4 pu1 xia4 lai2 kuai4 gai4 zhu4 le5 bei1 bao1|600
+/data/bznsyp/Wave/005664.wav|she1 chi3 lang4 fei4 jiao4 yan2 zhong4|600
+/data/bznsyp/Wave/001622.wav|pi2 chong2 ye3 jiao4 bi4 shi1 su2 cheng1 cao3 ba1 zi5 gou3 bie1 cao3 bie2 zi5 niu2 shi1 deng3|600
+/data/bznsyp/Wave/008817.wav|zhong1 guo2 zhu4 tan3 sang1 ni2 ya4 da4 shi2 guan3 zheng4 zai4 xie2 zhu4 tan2 jing3 fang1 diao4 cha2 ci3 an4|600
+/data/bznsyp/Wave/001891.wav|ta1 de5 sun1 nv3 hou4 lai2 si3 yu2 ke4 yao4|600
+/data/bznsyp/Wave/005047.wav|qi2 qian2 yue4 fu4 jian4 zhuang4 shang4 qian2 qiang3 duo2 da2 huo3 ji1|600
+/data/bznsyp/Wave/002118.wav|ye4 shen1 le5 miao2 jun4 ming2 jiang1 shu2 shui4 de5 chuan1 chuan1 lou3 zai4 huai2 li3 hun1 hun1 yu4 shui4|600
+/data/bznsyp/Wave/000565.wav|cao2 guan4 che1 guan4 ti3 bei4 gang1 jin1 zha1 po4 dao3 zhi4 yan2 suan1 xie4 lou4|600
+/data/bznsyp/Wave/007535.wav|zhi1 hou4 you3 bao4 dao4 cheng1 zhe4 pian1 bo2 wen2 chun2 shu3 nie1 zao4 bing4 mei2 you3 xia4 wen2|600
+/data/bznsyp/Wave/000919.wav|gai4 ang2 chong2 shen1 bi4 xu1 huo2 zhuo1|600
+/data/bznsyp/Wave/005774.wav|zhe4 yi4 mao2 dun4 dao3 zhi4 le5 yin2 hang2 yin2 chi1 mao3 liang2 de5 xian4 zhuang4|600
+/data/bznsyp/Wave/007833.wav|yi1 shi4 ji1 chu3 yang2 lao3 jin1 tai4 di1|600
+/data/bznsyp/Wave/004872.wav|na4 ni3 hai2 xiang3 kan4 duo1 yuan3|600
+/data/bznsyp/Wave/005168.wav|yi1 lang2 shi3 zhong1 fou3 ren4 mi4 mi4 yan2 zhi4 he2 wu3 qi4 de5 zhi3 kong4|600
+/data/bznsyp/Wave/004115.wav|guo4 qu4 wu3 nian2 shi2 jian1 li3 ya2 hu2 gu3 piao4 jia4 ge2 yi3 suo1 shui3 yi2 ban4|600
+/data/bznsyp/Wave/008265.wav|ju4 diao4 cha2 ge2 wu1 ran3 yuan2 lai2 zi4 chang2 sha1 xiang1 he2 hua4 gong1 chang3|600
+/data/bznsyp/Wave/007449.wav|zhe4 yi4 nian2 chen2 xing1 luan2 bei4 xuan3 ba2 wei2 dong1 ying2 qu1 ke1 ji4 fu4 qu1 zhang3|600
+/data/bznsyp/Wave/008805.wav|sui1 ran2 te4 bie2 xiang2 yao3 na4 kuai4 rou4 dan4 hai2 shi4 xian1 ren3 zhu4 ba3 zhou1 wei2 de5 pi2 chi1 wan2|600
+/data/bznsyp/Wave/003234.wav|ta1 zui2 li3 de5 wo3 er2 shuo1 de5 shi4 gu1 ye5|600
+/data/bznsyp/Wave/009307.wav|ta1 mei2 xia4 che1 you4 kan4 jian4 wai4 guo2 ren2 chao2 lu4 ren2 rang1 rang5|600
+/data/bznsyp/Wave/006631.wav|zai4 dui4 wu3 zui4 qian2 mian4 de5 shi4 shen1 chuan1 ling2 ling2 yi1 hao4 qiu2 fu2 de5 zhao4 feng4 lin2|600
+/data/bznsyp/Wave/009733.wav|chuan1 shang4 xi4 zhuang1 shi4 yan3 yuan2 tuo1 xia4 xi4 zhuang1 shi4 nong2 min2|600
+/data/bznsyp/Wave/000378.wav|dang4 tian1 da4 feng1 ba3 yang2 yang2 yi4 shen1 lv4 qun2 chui1 qi3 yang2 yang2 hai2 pi1 zhe5 zeng1 yi4 ke3 de5 wai4 tao4|600
+/data/bznsyp/Wave/002174.wav|xiong1 di4 lia3 zheng4 zhuo2 mo2 zen3 yang4 ba3 zhe4 ge5 xiao3 yuan4 gui1 hua4 hao3|600
+/data/bznsyp/Wave/005566.wav|ran2 er2 hai2 shi4 you2 hen3 duo1 ren2 wu2 bing4 shen1 yin2 shi3 jin4 dou1 yao4 che2 dian3 gu4 shi4|600
+/data/bznsyp/Wave/003001.wav|ni3 mei2 che1 mei2 fang2 mei2 cun2 kuan3 hai2 gan3 lai2 xiang1 qin1|600
+/data/bznsyp/Wave/000260.wav|ying1 jie4 bi4 ye4 sheng1 fang4 kuan1 zhi4 er4 shi2 er4 zhou1 sui4|600
+/data/bznsyp/Wave/007437.wav|ta1 na4 lian2 xi3 le5 hou4 zhen1 jiao4 liang4|600
+/data/bznsyp/Wave/009697.wav|chuang1 wai4 wan3 feng1 chui1 fu2 shu4 ye4 you3 le5 huo2 li4 hua1 la1 la1 de5 xiang3 xiang4 zai4 su4 shuo1 zhe5 shen2 me5|600
+/data/bznsyp/Wave/005460.wav|zhe4 neng2 shuo1 ta1 men5 shi4 ren3 ma5|600
+/data/bznsyp/Wave/007744.wav|xiao4 zhe5 ye3 shi4 yi4 zhong3 xing4 gan3 lou5|600
+/data/bznsyp/Wave/001017.wav|shua1 piao4 jin4 zha2 hou4 jiu4 shi4 an1 jian2 kou3|600
+/data/bznsyp/Wave/006694.wav|jian4 qiang4 shui3 yan2 zhong4 ta1 men5 wei4 huang2 tian1 zuo4 le5 ren2 gong1 hu1 xi1|600
+/data/bznsyp/Wave/002050.wav|ku3 se4 de5 sha1 chui1 tong4 lian3 pang2 de5 gan3 jue2|600
+/data/bznsyp/Wave/009387.wav|ba4 ba5 duan1 xiang2 yi2 hui4 shuo1 wo3 fa1 shi4 zhe4 shi4 wo3 jian4 guo4 de5 zui4 shuai4 de5 guang1 tou2|600
+/data/bznsyp/Wave/008215.wav|yi3 shi4 shen1 qiu1 de5 gu3 du1 luo2 ma3 que4 hao2 wu2 han2 yi4|600
+/data/bznsyp/Wave/006710.wav|zhui1 shang4 hou4 zhao4 tao1 yi4 ba2 lou3 zhu4 nan2 zi3 de5 bo2 zi5 dan4 mei2 la1 hao3 nan2 zi3 you4 pao3 le5|600
+/data/bznsyp/Wave/003549.wav|feng3 ci4 zong3 shi4 jian1 rui4 de5 ran2 er2 you1 mo4 de5 feng3 ci4 que4 chu1 yu2 ku2 kou3 po2 xin1 de5 shan4 yi4|600
+/data/bznsyp/Wave/006773.wav|di1 ge1 shun4 jian1 cheng2 le5 fen3 ren2 qiang4 de5 gan2 jin3 bi4 zui2 zhuan3 shen1 li2 kai1|600
+/data/bznsyp/Wave/000825.wav|zai4 gai1 chao1 shi4 de5 cu4 xiao1 hai3 bao4 shang4 shuang1 hui4 zhou3 hua1 huo2 tui3 ye3 he4 ran2 zai4 lie4|600
+/data/bznsyp/Wave/003745.wav|ke1 mu4 lang3 ao4 tou2 cun1 nei4 lin2 ci4 zhi4 bi3 de5 xin1 jian4 zhu5|600
+/data/bznsyp/Wave/005884.wav|zhe4 xia4 xuan4 feng1 man3 yi4 de5 diao1 zhe5 yao2 ba3 yi4 yao2 yi4 bai3 hui2 dao4 shi2 zhong1 le4 shen1 bian1|600
+/data/bznsyp/Wave/002811.wav|jie1 wan2 zhe4 ge5 dian4 hua4 you3 xie1 xiang3 bu4 tong1 de5 weng1 mie4 da3 dian4 hua4 wen4 yi1 lai2|600
+/data/bznsyp/Wave/009975.wav|suan4 ming4 qi2 shi2 zhi3 shi4 ren2 men5 de5 yi4 zhong3 zi4 wo3 an1 wei4 he2 zi4 wo3 an4 shi4 er2 yi3 wo3 men5 hai2 shi4 yao4 xiang1 xin4 ke1 xue2 cai2 hao3|600
+/data/bznsyp/Wave/002140.wav|zuo2 tian1 de5 zhong1 shan1 da4 xue2 liang2 qiu2 ju1 tang2 nei4 zuo4 wu2 xu1 xi2|600
+/data/bznsyp/Wave/004385.wav|wo3 shi4 tai4 ai4 an2 lao3 po5 hai4 pa4 ta1 bu2 yao4 wo3|600
+/data/bznsyp/Wave/008847.wav|xiang1 xin4 da4 jia1 yi2 ding4 shou4 yi4 fei2 qian3|600
+/data/bznsyp/Wave/002645.wav|zai4 jing1 shen2 jie1 jin4 beng1 kui4 shi2 ta1 ceng2 yong4 ti4 xu1 dao1 pian4 ge1 xia4 le5 zi4 ji3 de5 yi4 zhi1 er3 duo5|600
+/data/bznsyp/Wave/003148.wav|jin2 guan3 ti2 yi4 jian4 wo3 hui4 gai3 zheng4 da5|600
+/data/bznsyp/Wave/002640.wav|zhao4 xian1 sheng5 ren4 wei2 wo1 wo1 tuan2 ci2 ju3 bu2 gou4 tuo3 dang4|600
+/data/bznsyp/Wave/009980.wav|yi2 jin4 ka1 fei1 dian4 ta1 jiu4 yu4 jian4 yi4 zhang1 shu2 xi5 de5 lian3|600
+/data/bznsyp/Wave/006043.wav|bo1 he4 she4 er3 jin4 yi2 bu4 jie4 shao4 shuo1 qiao4 pai2 yu3 zhong1 guo2 de5 he2 zuo4 yi3 jing5 fei1 chang2 guang3 fan4|600
+/data/bznsyp/Wave/004751.wav|che4 hui2 ye3 de2 dao4 le5 fa3 yuan4 de5 zhun2 xu3|600
+/data/bznsyp/Wave/006998.wav|lai2 gang3 sheng1 zi3 shi4 wei4 le5 gei3 chao1 sheng1 de5 bao3 bao5 piao3 bai2|600
+/data/bznsyp/Wave/000887.wav|mai3 bu4 liao3 zhi1 shi5 wei4 sha2 hai2 shou1 xue2 fei4 a5|600
+/data/bznsyp/Wave/008022.wav|wo3 bai2 fei4 le5 li4 qi5 hai2 ai2 le5 ba4 ba5 de5 pi1 ping5|600
+/data/bznsyp/Wave/003982.wav|zhi2 dao4 zhe4 shi2 wu2 tan2 gan3 jue2 che1 liang4 dian1 bo3 shi2 zai4 you2 dian3 da4 le5|600
+/data/bznsyp/Wave/007145.wav|yuan2 lai2 ni2 ye3 zai4 wan2 zhe4 ge5 ya5 ha1 ha1|600
+/data/bznsyp/Wave/009719.wav|wang2 qi2 gu1 shen1 yi4 ren2 wu2 er2 wu2 nv3 kao4 zheng4 fu2 bu3 zhu4 he2 shi2 huang1 du4 ri4|600
+/data/bznsyp/Wave/007978.wav|di4 yi1 lei4 shi4 tou2 zi1 ke4 zai4 xin1 fang2 kai1 pan2 shi2 ji2 gou4 ru4 de5 fang2 chan3|600
+/data/bznsyp/Wave/007513.wav|qu4 nian2 wo3 men5 guang1 huo4 ge4 zhong2 jiang3 de5 tu2 shu1 jiu4 da2 er4 bai3 duo1 zhong3|600
+/data/bznsyp/Wave/000801.wav|yin4 du4 su4 you3 jia4 nv3 er2 pei2 song4 jia4 zhuang1 de5 chuan2 tong3|600
+/data/bznsyp/Wave/003853.wav|ye3 xing4 wei4 xun4 de5 chi4 bang3 yi4 hui1 ji1 hu1 jiu4 neng2 ba3 ta1 sang3 ge5 gen1 dou5|600
+/data/bznsyp/Wave/006941.wav|dong4 zai4 bo1 li2 wai4 ce4 qing1 xi1 ke3 jian4 bo1 li2 li3 ce4 ze2 shi4 niu3 kou4 da4 xiao3 de5 ao1 cao2|600
+/data/bznsyp/Wave/004882.wav|yi2 dao4 bei3 ping2 bian4 xian4 ru4 ying4 chou5 de5 xuan2 wo1|600
+/data/bznsyp/Wave/008017.wav|dan4 ye4 nei4 fen1 xi1 shi1 ye3 dui4 zheng4 ce4 xiao1 xi5 dui4 zi1 ben3 shi4 chang3 de5 ci4 ji1 chi2 jin3 shen4 tai4 du4|600
+/data/bznsyp/Wave/006910.wav|long2 xia1 de5 yuan2 zui4 ye3 bei4 jie1 lu4 le5 chu1 lai2|600
+/data/bznsyp/Wave/002265.wav|ying1 su4 shi4 ti2 lian4 du2 pin2 hai3 luo4 yin1 de5 yuan2 liao4|600
+/data/bznsyp/Wave/000242.wav|li3 jia1 ding3 yi4 ti2 qi3 yang2 si1 qi2 you4 bao4 cu1|600
+/data/bznsyp/Wave/006607.wav|che1 liang4 chong1 guan1 wan2 le5 hou4 shou1 fei4 yuan2 cai2 gan3 chu1 gang3 ting2 jiang1 tong1 dao4 de5 lan2 gan1 fu2 zheng4|600
+/data/bznsyp/Wave/001749.wav|yi4 xie1 tian1 ran2 shi2 feng1 bei4 guan4 yi3 feng1 dong4 shi2 wu1 sha1 mao4 da4 dong4 tian1 he2 pu2 sa5 dong4 deng2 mei3 ming2|600
+/data/bznsyp/Wave/000804.wav|er2 zhong1 guo2 bing4 fei1 hao2 fa4 wu2 sun3|600
+/data/bznsyp/Wave/004278.wav|guo4 qu4 li3 kui2 shi4 ban4 diao4 zi5 zai4 xi4 li2 zhi3 neng2 chong1 dang1 da3 ha1 ha5 cou4 qu4 de5 xiao4 ju4 ren2 wu4|600
+/data/bznsyp/Wave/007521.wav|hen3 duo1 ren2 wen4 wo3 men5 gan4 sha2 de5 qi3 chu1 zhen1 shi4 bu4 hao3 yi4 si5 sa1 huang3|600
+/data/bznsyp/Wave/008056.wav|zhe4 xie1 qi2 wen2 yi4 shi4 zi4 ran2 shi4 lin2 da4 ge1 qin1 kou3 gao4 su4 de5 zhen1 jia3 nan2 bian4|600
+/data/bznsyp/Wave/002980.wav|zhe4 zhong3 yuan1 yuan1 xiang1 bao4 he2 shi2 you3 ge5 liao3|600
+/data/bznsyp/Wave/001946.wav|ta1 jin4 yu4 gang1 de5 shi2 hou4 wang4 ji4 tuo1 wa4 zi5 le5|600
+/data/bznsyp/Wave/003010.wav|shu1 zhu4 fu2 niu1 yong2 yuan3 xing4 fu2 kuai4 le4|600
+/data/bznsyp/Wave/005293.wav|bei1 nan2 you3 shi2 ta1 xian1 lie2 zui3 yi2 xiao4 shao1 shao1 wan1 yao1|600
+/data/bznsyp/Wave/006719.wav|ai2 ma4 jiu4 ai2 ma4 zhi4 shao3 neng2 ting1 dian3 xin1 xian1 de5|600
+/data/bznsyp/Wave/003815.wav|yin1 wei4 zhe4 yang4 ke2 yi3 shao2 yin3 fa1 xin1 xue4 guan3 ji2 bing4|600
+/data/bznsyp/Wave/009501.wav|mu4 qian2 xiao1 fang2 dui4 yuan2 zhi3 neng2 tan4 shen1 shui3 ni2 guan3 yi4 dian2 dian3 pao2 jue2|600
+/data/bznsyp/Wave/004267.wav|shen1 zhen4 kuang2 feng1 da4 zuo4 bao4 yu3 pang1 tuo2|600
+/data/bznsyp/Wave/006193.wav|ying1 gai1 shuo1 you3 shi2 fa1 cai2 ji1 yu4 wang2 wang2 ye3 qing1 lai4 na4 xie1 xin1 huai2 po3 ce4 de5 tou2 ji1 zhe3|600
+/data/bznsyp/Wave/002631.wav|shen1 ti3 yao2 huang4 zhe5 ji2 li4 xiang3 rang4 zi4 ji3 zhan4 wen2 jiao3 gen1|600
+/data/bznsyp/Wave/009744.wav|weng1 mei3 ling2 zi4 sha1 de5 zui4 zhu3 yao4 yuan2 yin1 shi4 gong1 zuo4 ya1 li4|600
+/data/bznsyp/Wave/009963.wav|lu4 shang4 guan1 qia2 hen3 duo1 wei4 le5 fang1 bian4 che4 li2 zhi2 hao3 qing1 zhuang1 qian2 jin4|600
+/data/bznsyp/Wave/005945.wav|suo2 yi3 zhe4 xie1 yun4 dong4 yuan2 zhen1 de5 hen3 nan2|600
+/data/bznsyp/Wave/001800.wav|dang1 ran2 ye2 you3 ren2 ren4 wei2 ge1 qu2 you3 di1 su2 zhi1 xian2|600
+/data/bznsyp/Wave/004712.wav|wei4 shen2 me5 ni3 hui2 wei1 xiao4 er4 zi4 shou3 ji1 dang3 shang1 bu4 qi3|600
+/data/bznsyp/Wave/006145.wav|xing2 dong4 jie2 shu4 hou4 bu4 dui4 yong4 tui1 tu3 ji1 tui1 dao3 bang2 fei3 cang2 shen1 de5 fang2 wu1|600
+/data/bznsyp/Wave/007274.wav|ou3 zai4 he2 ni3 liao2 tian1 a5|600
+/data/bznsyp/Wave/006724.wav|wo3 yao4 jie1 lu4 na4 xie1 ang1 zang1 de5 jiao1 yi4|600
+/data/bznsyp/Wave/004425.wav|ta1 zai4 dai4 biao3 lv4 shi1 wen4 hua4 xia4 jiao1 dai4 jie1 shou4 nv3 bing1 pan2 wen4 de5 jing1 li4|600
+/data/bznsyp/Wave/008739.wav|ca1 zui3 ba1 na2 lai2 ca1 zui3 ba5 de5|600
+/data/bznsyp/Wave/003275.wav|wei4 shen2 me5 wang2 mou3 pa4 zhang4 fu5 shang1 hai4 zi4 ji3 fei1 yao4 jin4 jian1 yu4 tao2 bi4 ne5|600
+/data/bznsyp/Wave/007230.wav|bu2 guo4 zui4 pa4 qing1 wa1 de5 yu2 wen2 le4 que4 bu4 xiao3 xin1 zhen1 zheng4 tian3 dao4 le5 rang4 ta1 da4 han3 beng1 kui4|600
+/data/bznsyp/Wave/001240.wav|shui2 you4 liao2 jie2 wo3 xin1 li3 de5 ku3 ne5|600
+/data/bznsyp/Wave/008889.wav|liu2 qiu2 cong2 ci3 bei4 ri4 ben3 tun1 bing4|600
+/data/bznsyp/Wave/008419.wav|shang4 hai2 guang3 zhou1 ye2 you3 gou2 zai3 dan4 shi4 hai2 mei2 cheng2 qi4 hou4|600
+/data/bznsyp/Wave/007271.wav|ni3 bie2 kua1 wo3 wo3 zhi1 dao4 ni3 yi4 kua1 wo3 jiu4 yao4 chi1 da4 kui1 le5|600
+/data/bznsyp/Wave/008718.wav|hao3 de5 dian4 hua4 jie1 tong1 zhong1|600
+/data/bznsyp/Wave/008013.wav|yu3 xiang2 ku3 xiao4 shuo1 ni2 xie3 de5 gan4 ma2 rang4 wo3 kan4|600
+/data/bznsyp/Wave/007853.wav|bu2 hui4 ye5 zhu3 ren2 ke2 yi3 jiao1 jiao1 wo3 ma5|600
+/data/bznsyp/Wave/002175.wav|ruan2 nv3 shi4 xiang4 you4 er2 yuan2 ti2 chu1 le5 pei2 chang2|600
+/data/bznsyp/Wave/009154.wav|dao4 hun2 chun1 shou3 xian1 gan3 shou4 dao4 de5 shi4 hun2 chun1 ren2 de5 na4 fen4 zi4 hao2 gan3 shi3 ming4 gan3|600
+/data/bznsyp/Wave/004420.wav|tai2 bei3 jian1 yu4 zhu2 guan2 biao3 shi4 chen2 shui2 bian3 ba3 fan4 cai4 dou1 chi1 wan2|600
+/data/bznsyp/Wave/002331.wav|qi2 ci4 yao4 jiang1 jiao1 nang2 jin4 xing2 wei1 bo1 xiao1 jie3|600
+/data/bznsyp/Wave/000123.wav|zhe4 yao4 wen4 wen5 huo3 xing1 shang4 de5 yu2 la5|600
+/data/bznsyp/Wave/009887.wav|wu1 ya1 de5 si3 shi4 zi4 ji3 zao4 cheng2 de5 yuan2 yin1 zhi3 zai4 yu2 ta1 mei2 you3 zuo4 diao4 cha2 shi4 tan4 huo2 dong4|600
+/data/bznsyp/Wave/009390.wav|xi3 huan1 mei3 yi2 ge4 ai4 sheng1 huo2 de5 ren2 ne5|600
+/data/bznsyp/Wave/000638.wav|liang2 shi5 bian4 neng2 yuan2 shi3 de2 yin1 zai1 jian2 chan3 de5 liang2 shi5 gong1 ying4 xue3 shang4 jia1 shuang1|600
+/data/bznsyp/Wave/001696.wav|er2 cun1 min2 men5 ren4 wei2 fa1 bing4 yuan2 yin1 yu3 di4 xia4 shui3 shou4 dao4 wu1 ran2 you3 guan1|600
+/data/bznsyp/Wave/006505.wav|jiu3 ling2 yao1 shi4 de5 huo3 zao2 yi3 bei4 pu1 mie4|600
+/data/bznsyp/Wave/004064.wav|me1 me1 wo2 ye3 ai4 ni3|600
+/data/bznsyp/Wave/000570.wav|ling4 yi4 zhong3 ze2 shi4 shui2 xue3 yu2 shou4 mai4 shang1 pin3 bao1 kuo4 bian2 xue3 qie1 pian4 xue3 yu2 ba1|600
+/data/bznsyp/Wave/000124.wav|zhong1 zhen4 tao1 yu2 nv3 er2 qian1 shou3 guang4 jie1|600
+/data/bznsyp/Wave/001704.wav|qing1 nian2 yan3 yuan2 yang2 ming2 na4 ban4 yan3 nuan2 nuan3 liu2 xiao3 feng1 shi4 yan3 nuan2 nuan3 de5 ai4 ren5|600
+/data/bznsyp/Wave/006096.wav|xie4 tong2 xue2 na2 zhe5 da4 nian2 yu2 xiao4 bu5 long2 zui3|600
+/data/bznsyp/Wave/000473.wav|wei4 qing4 nian2 li4 gai1 cun1 wei3 qing3 lai2 tuo1 yi1 wu3 niang2 zhu4 xing4|600
+/data/bznsyp/Wave/006874.wav|xie4 ting2 feng1 zuo2 dan1 ren4 zhou1 jie2 lun2 yan3 chang4 hui4 jia1 bin1 pie3 bu4 he2 chuan2 wen2|600
+/data/bznsyp/Wave/005630.wav|ke4 long2 xiang2 xi4 tan2 lun4 le5 tai4 le4 yi2 shi4|600
+/data/bznsyp/Wave/007296.wav|tong1 yong4 qi4 che1 pai2 zai4 di4 san1 wei2 jiu2 dian3 er4 si4 liu4 yi4 mei3 yuan2|600
+/data/bznsyp/Wave/003763.wav|er2 yao1 he5 zhong1 jiu1 shi4 shou3 duan4 ru2 guo2 jiu3 bu4 hao3 yue4 yao1 he5 yue4 zao1|600
+/data/bznsyp/Wave/009633.wav|ta1 zai4 pa1 xia4 zhi1 hou4 jiu4 mei2 xing3 le5|600
+/data/bznsyp/Wave/007973.wav|zhang1 xian1 sheng5 de5 wo4 shi4 bing4 bu4 kuan1 chang3 dian4 nao3 zhuo1 he2 chuang2 li2 de5 hen3 jin4|600
+/data/bznsyp/Wave/009755.wav|ke2 yi3 qu4 jiu4 jin4 de5 zhu2 guan3 shui4 wu5 ju2 shen1 bao4 ru2 guo2 you3 jiao1 yi4 ping2 zheng4 ke2 yi3 xie2 dai4|600
+/data/bznsyp/Wave/005986.wav|tai4 gao3 xiao4 le5 zhi3 neng2 shuo1 shi4 xian1 lian2 gua2 chi3 er2 you3 hai4 she4 hui4 de5 chao3 zuo4|600
+/data/bznsyp/Wave/004526.wav|wo3 cha2 le5 yi2 xia4 shi4 ai4 xin1 jue2 luo2 pu3 yi2|600
+/data/bznsyp/Wave/002622.wav|er2 xuan4 dou4 ye3 hui4 jin3 kuai4 hui1 fu4 zheng4 chang2 de5 yi4 neng2 gong1 zuo4|600
+/data/bznsyp/Wave/003093.wav|yang2 hong2 jie4 shao4 zhong1 guo2 gu3 dai4 li4 shi3 shang5 you3 mie4 fo2 yun4 dong4 he2 fo2 xiang4 cuo2 mai2 zhi4 du4|600
+/data/bznsyp/Wave/009540.wav|xu2 li4 chang4 de5 hen3 tou2 ru4 guan1 zhong4 gen1 zhe5 chang4 de5 ye2 hen3 tou2 ru4 xian4 chang3 hai1 cheng2 yi2 pian4|600
+/data/bznsyp/Wave/001942.wav|yong3 zhou1 chen1 zhou1 shi4 jia1 qiang2 le5 qiang2 jiang4 yu3 fang2 yu4 gong1 zuo4 ji1 ji2 ying4 dui4|600
+/data/bznsyp/Wave/000835.wav|zhou1 yan2 di4 er4 hu2 zhi2 jie1 liu1 diao4|600
+/data/bznsyp/Wave/000552.wav|wang3 ri4 pi1 san3 de5 tou2 fa5 ye3 shu1 wan3 cheng2 ji4 kan4 shang4 qu4 bie2 you3 yun4 wei4|600
+/data/bznsyp/Wave/009291.wav|ta1 shuo1 wai4 di4 ru2 qi3 ke2 yi3 dao4 shuang1 cheng2 jing1 ying2 can1 yu4 jing4 zheng1|600
+/data/bznsyp/Wave/007238.wav|yi1 di4 yi1 fu1 ren5 shi4 cong2 mei3 guo2 xing1 qi3 de5|600
+/data/bznsyp/Wave/005276.wav|lai2 shi4 ping2 bei4 yu2 xiong2 suo2 gan3 dong4 da3 po4 chen2 mo4 yi2 ge5 jin4 zhui1 wen4 yu2 xiong2 de5 shen1 shi4|600
+/data/bznsyp/Wave/005811.wav|wo3 bu2 shi4 te4 bie2 dong3 lan2 qiu2|600
+/data/bznsyp/Wave/004044.wav|mu4 qian2 qiao2 di4 yin1 bao4 jia2 jing3 zao1 dao4 dai4 bu3|600
+/data/bznsyp/Wave/002019.wav|qian1 yue1 yi2 shi4 zai4 la1 ne4 lei2 shi4 zheng4 ting1 ju3 xing2|600
+/data/bznsyp/Wave/008358.wav|fei1 lai2 heng4 huo4 can3 bu4 ren2 du3|600
+/data/bznsyp/Wave/002202.wav|xue2 sheng1 geng4 jia1 xiang1 xin4 yan3 qian2 si4 hu1 yong3 shang4 le5 xu3 duo1 yin3 zheng4 yong4 de5 shu1 ming2 hao4|600
+/data/bznsyp/Wave/002995.wav|wo3 men5 yu4 ji4 dang1 dang1 wang3 er4 ling2 yi1 si4 nian2 de5 yun4 ying2 li4 run4 e2 wei2 bai3 fen1 zhi1 er4|600
+/data/bznsyp/Wave/007222.wav|she4 ying3 shi1 mei2 you2 shou3 jiu4 xiang4 sai4 pao2 zhe3 mei2 you2 jiao3 ling4 ren2 qi4 nei3|600
+/data/bznsyp/Wave/004530.wav|ji4 ran2 shi4 sheng1 ri4 yan4 hui4 qi2 qin2 zi4 ran2 ye3 mei2 you3 han2 hu5|600
+/data/bznsyp/Wave/001423.wav|wo3 men5 bu4 xiang3 dang1 wang2 guo2 nu2|600
+/data/bznsyp/Wave/002592.wav|gong1 zuo4 ren2 yuan2 bu2 wang4 zai4 xiang1 zi5 wai4 yong4 ji4 hao4 bi3 xie3 shang4 ren2 da4 er4 zi4|600
+/data/bznsyp/Wave/004184.wav|ta1 zhou1 bian1 de5 peng2 you5 ye3 shuo1 ta1 zhe4 shi4 de4 se5 guan4 le5|600
+/data/bznsyp/Wave/007878.wav|cong2 qian1 yue1 dan1 shang4 ke2 yi3 kan4 dao4 yi2 chuan4 chuan4 zhi1 ming2 qi3 ye4 de5 shen1 ying3|600
+/data/bznsyp/Wave/004478.wav|wo3 dui4 ta1 shuo1 ni2 ba2 zui2 guan3 de5 yan2 yi4 dianr3|600
+/data/bznsyp/Wave/007561.wav|shui2 za3 shuo1 za3 shuo1 fa1 zhan3 zhong1 yi1 ken3 ding4 you3 bu4 tong2 de5 sheng1 yin1|600
+/data/bznsyp/Wave/000871.wav|diao4 cha2 zu2 ning3 duan4 tie3 si1 hou4 zai4 hou4 mian4 fa1 xian4 you2 tie3 men2 deng3|600
+/data/bznsyp/Wave/000251.wav|yu2 yue4 hai3 ju3 bao4 de5 da4 si4 cun1 shi2 er4 zu3 lian2 yun4 zhan4 ji2 dong1 ce4 geng1 di4|600
+/data/bznsyp/Wave/007689.wav|zai4 xian4 chang2 you3 yi2 ge4 xi1 gua1 zhang3 de5 kai1 lie4 le5 qing1 qing1 da3 kai1 fa1 xian4 gai1 gua1 pi2 bao2 rang2 hong2|600
+/data/bznsyp/Wave/002573.wav|ling4 yi4 fang1 mian4 luo2 ya4 er3 ye3 shi4 zuo3 yi4 she4 hui4 dang3 de5 yi2 ge5 yi4 lei4|600
+/data/bznsyp/Wave/003791.wav|cun1 zhuang1 li4 shi3 zui4 zao3 ji4 zai3 jian4 yu2 yi1 si4 liu4 yi1 nian2|600
+/data/bznsyp/Wave/004508.wav|xiao3 wen1 rou2 zui4 xi3 huan1 de5 ren2 shi4 lin2 ze2 nan2|600
+/data/bznsyp/Wave/002148.wav|ta1 men5 reng2 wei4 tao3 gong1 qian2 er2 lai2|600
+/data/bznsyp/Wave/005263.wav|mu4 qian2 long2 mou3 yin1 she4 xian2 nuo2 yong4 zi1 jin1 zui4 bei4 yi1 fa3 xing2 shi4 ju1 liu2|600
+/data/bznsyp/Wave/008696.wav|wen4 zhe4 wen4 ti2 de5 ren2 zui4|600
+/data/bznsyp/Wave/008963.wav|dan4 shi4 tou1 gong1 jian3 liao4 de5 guang3 gao4 pai2 gen1 ben3 kang2 bu2 zhu4 tai2 feng1|600
+/data/bznsyp/Wave/000728.wav|cui1 qiu1 lian2 ye3 jiang1 zi4 ji2 nv3 er2 de5 xiang4 pian4 song4 gei3 bo1 xi1 wa3 tai4 tai5|600
+/data/bznsyp/Wave/001081.wav|zhe4 zheng4 shi5 gai1 an4 heng2 gen4 yu2 fa3 lv4 yu3 liao2 xiao4 zhi1 jian1 de5 kun4 huo4|600
+/data/bznsyp/Wave/007841.wav|hen4 bu4 de5 ba2 wu3 da4 hu2 dai4 guo4 lai5 kai1 shang4 hai3 ren2 de5 yan3 jie4|600
+/data/bznsyp/Wave/001442.wav|you2 yu2 ya2 shua1 tai4 chang2 qia3 zai4 le5 you1 men2 kou3|600
+/data/bznsyp/Wave/007739.wav|wan3 can1 shi4 bei3 jing1 zha2 jiang4 mian4 da4 jia1 xi1 wang4 hai2 zi5 men5 chang2 chang5 lao2 bei3 jing1 de5 yin3 shi2|600
+/data/bznsyp/Wave/004798.wav|ji1 chang3 gong1 zuo4 ren2 yuan2 he2 zhu4 chang3 wu2 jing3 lian2 ye4 zai4 ji1 chang2 pao3 dao4 shang5 sao2 xue3 chu2 bing1|600
+/data/bznsyp/Wave/000416.wav|shang4 wen2 jie2 ding3 sao4 ba5 tou2 liang4 xiang4 yi4 shen1 hei1 zhuang1 lei2 ren2 yi1 jiu4|600
+/data/bznsyp/Wave/005406.wav|gao1 lian2 jun1 yi4 ting1 shuo1 wang2 jun1 wei3 yao4 dai4 zhe5 liang3 ge5 di4 xiong5 lai2 tou2 an4 ma3 shang4 jin4 xing2 zu3 lan2|600
+/data/bznsyp/Wave/007677.wav|shi1 wa3 xin1 ge2 ceng2 kua1 zan4 qi1 zi3 shi4 na4 me5 cong1 ming5 shi4 ta1 xin1 mu4 zhong1 de5 li2 xiang2 nv3 xing4|600
+/data/bznsyp/Wave/002255.wav|wa1 you3 lin2 you4 kan4 jian4 ni3|600
+/data/bznsyp/Wave/005058.wav|wo3 gang1 lai2 ye3 hui4 zhe4 yang4 mei2 wan3 ban4 ye4 liang3 san1 dian3 cai2 hui4 shui4 de5 zhao2|600
+/data/bznsyp/Wave/001909.wav|ben3 bao4 zhai1 deng1 bu4 fen5 yi2 xiang3 du2 zhe3|600
+/data/bznsyp/Wave/007252.wav|xian1 na2 chu1 ni3 de5 cheng2 yi4 lai2|600
+/data/bznsyp/Wave/008099.wav|xian4 zai4 de5 ren2 gong1 zhen1 zhu1 ye3 zheng4 shi4 li4 yong4 ge2 bang4 de5 zhe4 yi4 xi2 xing4 lai2 jin4 xing2 pei2 yu4 de5|600
+/data/bznsyp/Wave/005392.wav|zhe4 li3 bu4 fang2 ba2 you3 guan1 dang1 shi4 ren2 de5 qing2 kuang4 na2 chu1 lai2 shai4 shai5|600
+/data/bznsyp/Wave/001445.wav|dan4 wo2 ye3 zhi1 dao4 zhong1 guo2 zheng4 fu3 bu2 shi4 tie2 ban3 yi2 kuai4|600
+/data/bznsyp/Wave/006405.wav|jiao4 lian4 yi4 jie2 yi4 jie2 yi2 ge5 jie2 pai1 yi2 ge5 jie2 pai1 de5 gei2 wo3 men5 kou1 dong4 zuo4|600
+/data/bznsyp/Wave/006302.wav|mei2 liang3 gao1 guan1 lian2 fang4 hen3 hua4 zhan4 yun2 si4 hu1 zheng4 zai4 hai3 wan1 shang4 kong1 zhou4 ju4|600
+/data/bznsyp/Wave/004490.wav|yin4 du4 ni2 xi1 ya4 de5 a1 er2 bi3 he2 rui4 dian3 de5 sun1 xiao3 qing1 fen1 lie4 nan2 nv3 qiu2 yuan2 bang2 shou3|600
+/data/bznsyp/Wave/006054.wav|you3 de5 di4 qu1 jiao4 wei2 qiang2 shou3 you3 de5 di4 qu1 he2 wei4 zhi4 jiu4 bi3 jiao4 rong3 yu2|600
+/data/bznsyp/Wave/008126.wav|xian4 zai4 zhou1 wei2 ju1 min2 dui4 ni3 men5 jia1 you3 mei2 you3 te4 bie2 de5 gan3 jue2|600
+/data/bznsyp/Wave/005631.wav|zhao4 rui2 rui3 cong2 xiao2 xi3 huan5 hua4 hua4 he2 xu3 duo1 nv3 hair2 yi2 yang4 ta1 ye3 hen2 xi3 huan5 man4 hua4 shu1|600
+/data/bznsyp/Wave/009529.wav|yi3 shang4 kuan3 wu4 zhe2 he2 ren2 min2 bi4 si4 shi2 si4 dian3 si4 liu4 si4 san1 wan4 yuan2|600
+/data/bznsyp/Wave/008779.wav|er2 san1 yi1 zhong4 gong1 de5 beng4 che1 ze2 shi4 zai4 ben3 yue4 er4 shi2 er4 ri4 qi3 yun4|600
+/data/bznsyp/Wave/003378.wav|bu2 guo4 guo4 qu4 de5 er4 chuan2 dou1 shi4 ai3 ge4 zi5|600
+/data/bznsyp/Wave/004618.wav|qi2 dao4 qiao2 shang4 tu1 ran2 dian1 bo3 cha4 dian3 shuai1 dao3|600
+/data/bznsyp/Wave/008741.wav|shi4 e4 yi4 ma4 nv3 hai2 zi5 de5 la5 ni2 ke3 bu2 yao4 xue2 huai4 o5|600
+/data/bznsyp/Wave/003095.wav|shi1 lian4 de5 ren2 te4 bie2 xi3 huan1 wang3 ren2 yan1 han3 zhi4 de5 jiao3 luo4 li3 zuan1|600
+/data/bznsyp/Wave/000228.wav|zhong1 shu1 man4 pai4 re4 gou2 gei3 zhang2 zhe3|600
+/data/bznsyp/Wave/003408.wav|xin1 sheng1 bao4 yuan4 de5 wo3 du1 nang5 le5 yi2 ju4 na2 gen1 ji1 mao2 dang1 ling4 jian4|600
+/data/bznsyp/Wave/006338.wav|cong2 qi2 guo4 wang3 de5 zhong2 zhong3 xi4 jie2 zhong1 huo4 neng2 guan3 kui1 yi1 er4|600
+/data/bznsyp/Wave/001911.wav|dan4 ru2 jin1 gu3 cheng2 qiang2 que4 bei4 bo1 le5 pi2 zao2 cheng2 yao2 dong4 cheng2 zhuan1 ye3 bei4 lei3 cheng2 zhu1 wo1|600
+/data/bznsyp/Wave/009609.wav|ci3 ci4 sui1 ran2 zi1 jin1 bu4 duo1 dan4 dui4 yu2 zai4 jian4 xiang4 mu4 reng2 ran2 hen3 jie2 ke3|600
+/data/bznsyp/Wave/001364.wav|zhe4 jia1 zhang4 peng5 can1 guan3 yi3 jing1 po1 you3 ming2 qi4|600
+/data/bznsyp/Wave/005169.wav|de2 lei5 wo3 men5 suan4 ti3 yan4 hong2 jun1 guo4 cao3 di4 le5|600
+/data/bznsyp/Wave/004653.wav|mu4 qian2 hai3 kui2 you4 ji2 jiang1 deng1 lu4|600
+/data/bznsyp/Wave/009659.wav|zai4 li4 shan1 lu4 yi4 jia1 chao1 shi4 yi2 wei4 xiao1 fei4 zhe3 zheng4 zi3 xi4 duan1 xiang2 cheng2 fen4 biao3|600
+/data/bznsyp/Wave/007632.wav|chui1 niu2 ke3 bu2 tai4 hao3 ya5|600
+/data/bznsyp/Wave/000971.wav|gong1 si1 shen4 zhi4 song2 yong3 nian2 qing1 gu4 ke4 zi4 pai1 yi1 fu5 huo4 nei4 yi1 zhao4 tou2 gao3 yi3 dai4 cai3 yong4|600
+/data/bznsyp/Wave/003938.wav|ma1 de5 na3 ge5 hun2 dan4 ba3 tan2 tu3 de5 zhe4 me5 yuan2 a5|600
+/data/bznsyp/Wave/009816.wav|zai4 lin2 nv3 shi4 xin1 zhong1 xiao3 rong2 cong2 xiao3 guai1 qiao2 dong3 shi4 jiu4 xiang4 ta1 de5 tie1 xin1 xiao3 mian2 ao3|600
+/data/bznsyp/Wave/008969.wav|zhi3 ding4 de5 ri4 qi1 dao4 le5 suo2 you3 de5 niao3 dou1 yi4 qi2 lai2 dao4 zhou4 si1 mian4 qian2|600
+/data/bznsyp/Wave/007193.wav|die1 die5 sui2 shen1 dai4 zhe5 suo3 na4 he2 sheng1|600
+/data/bznsyp/Wave/001538.wav|yao4 gong3 gu4 ji1 ben3 yao4 wu4 zhi4 du4|600
+/data/bznsyp/Wave/004046.wav|er2 qie3 bai1 kai1 zhi1 hou4 li3 wai4 yan2 se5 cha1 bie2 jiao4 da4|600
+/data/bznsyp/Wave/006701.wav|ai4 er2 xin1 qie4 de5 fan2 zhi4 rong2 jiang1 ma3 mao4 jie2 lou3 zai4 huai2 li3 xi1 wang4 ta1 neng2 kang1 fu4|600
+/data/bznsyp/Wave/004445.wav|jian4 dao4 shi1 zong1 liang3 tian1 de5 wu2 mou3 can2 si2 mou3 cun1 hou4 shan1 zhang1 mou3 fu4 zi3 bei1 tong4 wan4 fen1|600
+/data/bznsyp/Wave/001252.wav|zhe4 xie1 tong2 you3 xin1 you3 jiu4 shang4 mian4 ye3 liu2 zhe5 wang2 si4 wang2 san1 deng3 biao1 ji4|600
+/data/bznsyp/Wave/002555.wav|na4 huang2 feng1 yu3 zhe4 gu1 qi3 bu2 shi4 chi1 da4 kui1 le5|600
+/data/bznsyp/Wave/000562.wav|xiao1 huo3 shuan1 mie4 huo3 qi4 jun1 yi3 pei4 qi2 dao4 wei4 xiao1 fang2 beng4 ye2 yi3 an1 zhuang1 tiao2 shi4 wan2 bi4|600
+/data/bznsyp/Wave/008979.wav|chu2 le5 shang4 zi4 ji3 zhuan1 ye4 kai1 de5 ke4 mu4 peng2 hai2 xi3 huan1 dao4 bie2 de5 zhuan1 ye4 ceng4 ke4|600
+/data/bznsyp/Wave/001180.wav|ya4 zhou1 suo2 you3 guo2 jia1 dou1 yi1 lai4 shi2 you2 jin4 kou3|600
+/data/bznsyp/Wave/001713.wav|lao3 po2 pi2 qi4 bao4 zao4 te4 bie2 ai4 guan2 wo3|600
+/data/bznsyp/Wave/005771.wav|sui2 hou4 yang2 mou3 bei4 zhuan3 dao4 beng4 bu4 shi4 di4 san1 ren2 min2 yi1 yuan4|600
+/data/bznsyp/Wave/002008.wav|tong2 xue2 yao4 wo3 bang1 ni3 pei2 yang3 zheng4 que4 san1 guan1 me5|600
+/data/bznsyp/Wave/009175.wav|di2 fu4 shuan1 dang1 ji2 jiu4 zhao3 dao4 le5 tong2 cun1 de5 guang1 gun4 han4 feng2 mou3 feng2 mou2 biao3 shi4 tong2 yi4|600
+/data/bznsyp/Wave/001999.wav|bao3 an1 qu1 jian3 ce4 dian3 she4 na3|600
+/data/bznsyp/Wave/006413.wav|wo3 dou1 zhe1 teng5 ling2 sui4 le5 ke3 bie2 zai4 zhe1 teng5 le5|600
+/data/bznsyp/Wave/004517.wav|kao3 shi4 qi1 jian1 shou2 er3 de5 bin1 guan2 lv3 dian4 bao4 man3 lian2 sang1 na2 zhong1 xin1 ye3 sheng1 yi4 xing1 long2|600
+/data/bznsyp/Wave/008690.wav|ta1 zen3 me5 bu4 pei2 wo3 wan2 le5|600
+/data/bznsyp/Wave/008775.wav|wen2 zhang1 zhi3 chu1 chen2 shui2 bian3 bu2 hui4 xiang4 you2 li3 nian4 de5 zheng4 zhi4 fan4 ning4 yuan4 e4 si2 ye3 bu4 qu1 fu2|600
+/data/bznsyp/Wave/003874.wav|shu3 shu2 shuo1 bao4 an4 ke3 bu4 neng2 bie1 zhe5 a5 gai1 bao4 jiu4 yao4 bao4 bie2 pa4 ma2 fan5 shu3 shu2|600
+/data/bznsyp/Wave/009450.wav|na4 yang4 de5 ri4 zi5 jian3 zhi2 bu4 gan2 xiang3 xiang4 na5|600
+/data/bznsyp/Wave/001109.wav|mang2 ren2 xia1 ma3 ye4 ban4 lin2 chi2|600
+/data/bznsyp/Wave/009077.wav|rao2 rang3 ban4 nian2 zui4 zhong1 bei4 pan4 fa2 kuan2 liao3 shi4|600
+/data/bznsyp/Wave/001300.wav|ju4 liao2 jie3 juan2 yu3 ti2 hu2 xi3 huan1 jie2 qun2 sheng1 huo2 you2 liang3 ge4 qian1 xi2 zhong3 qun2|600
+/data/bznsyp/Wave/006889.wav|zhe4 li3 hai2 shui3 bi4 lan2 dao3 min2 re4 qing2 hao4 ke4 qie3 cong1 ming2 ji1 zhi4|600
+/data/bznsyp/Wave/002635.wav|ma3 xiu1 shi4 zhe4 ge5 ling3 yu4 de5 quan2 wei1 ceng2 zai4 tong1 xin4 hang2 ye4 mo1 pa2 gun2 da3 duo1 nian2|600
+/data/bznsyp/Wave/008700.wav|bie2 dong4 wo3 hai2 mei2 kan4 wan2 ne5|600
+/data/bznsyp/Wave/003243.wav|lu4 jia1 rui3 de5 xian1 sheng5 pan1 xiao3 ming2 ye3 shi4 yi2 wei4 xiu4 zhen1 ren2|600
+/data/bznsyp/Wave/004815.wav|zhong1 e2 shi4 shan1 shui3 xiang1 lian2 de5 you2 hao3 lin2 bang1 zhong1 e2 liang3 guo2 ren2 min2 de5 you3 yi4 yuan2 yuan3 liu2 chang2|600
+/data/bznsyp/Wave/007979.wav|bing4 yu2 liang3 guo2 ju3 xing2 gao1 feng1 hui4 xiu1 bu3 ji2 ji2 ke3 wei1 de5 wai4 jiao1 guan1 xi5|600
+/data/bznsyp/Wave/001872.wav|chi1 sheng1 ni2 qiu5 gu4 yuan2 gao1 mei3 tian1 xue2 wei4 zhu4 she4 fu4 fang1 dang1 gui1 zhu4 she4 ye4|600
+/data/bznsyp/Wave/004717.wav|xian4 ru2 jin1 yan2 xiang2 yong1 you3 gai1 hang2 ye4 de5 guo2 ji4 ding4 jia4 quan2|600
+/data/bznsyp/Wave/000631.wav|dou1 da2 le5 man3 fen1 yao4 qing2 wo3 chi1 fan4 o5|600
+/data/bznsyp/Wave/001241.wav|yi4 xue2 lin2 chuo4 hao4 yi4 dan3 da4|600
+/data/bznsyp/Wave/003110.wav|xuan3 ba2 qi2 ta1 yi4 shu4 pin2 zhong3 de5 jie2 mu4 ye3 xu1 yao4 ba2 yan3 jie4 fang4 kuan1 xie1|600
+/data/bznsyp/Wave/007529.wav|ru2 ci3 zhe4 ban1 fan3 fu4 shu4 ci4 zai4 bai2 xing4 hei1 zui3 cao1 nong4 xia4 yu2 mou2 deng3 ren2 huo4 li4 fei2 qian3|600
+/data/bznsyp/Wave/004393.wav|zhong1 wu3 shi2 fen1 he2 mian4 shang4 chui1 yan1 liao2 rao4|600
+/data/bznsyp/Wave/005810.wav|ying2 feng1 de5 qing2 tian1 wa2 wa5|600
+/data/bznsyp/Wave/006265.wav|guan4 che4 luo4 shi2 ju4 bu4 zhi1 fu4 lao2 dong4 bao4 chou2 zui4 si1 fa2 jie3 shi4|600
+/data/bznsyp/Wave/005044.wav|ta1 mo1 dao4 yi2 ge5 ping2 zi5 ye3 mei2 zheng1 kai1 yan3 chou2 chou3 jiu4 wang3 zui2 li3 song4|600
+/data/bznsyp/Wave/007173.wav|gou4 mai3 le5 gui4 chang3 de5 yao4 pin2 liang3 he2 hui2 qu4 yi4 chi1 da4 yue1 yi2 ge4 liao2 cheng2 guo3 ran2 you3 xiao4|600
+/data/bznsyp/Wave/008611.wav|qian2 rong2 bai3 kai1 chao1 de5 jia4 shi4 dao4 yi2 ge4 si1 li4 zhong1 xue2 ha1 zhe4 yang4 zi3 de5 shi4 juan4 ye3 yao4 wo3 lai2 zuo4|600
+/data/bznsyp/Wave/004836.wav|mei2 guan1 xi5 de5 xiang3 jing4 biao1 menr2 dou1 mei2 you3|600
+/data/bznsyp/Wave/004810.wav|zhe4 xie1 dou1 rang4 zhou1 dong1 yu3 yi2 du4 jue2 de5 te4 bie2 ju3 sang4|600
+/data/bznsyp/Wave/001849.wav|a1 tang1 sao3 xiu1 xian2 da3 ban4 du2 zi4 gou4 wu4|600
+/data/bznsyp/Wave/001467.wav|yin3 chun1 lin2 jian4 zhuang4 gan2 jin3 bao4 qi3 tuan2 tuan5 bian1 ca1 yan3 lei4 bian1 hong3|600
+/data/bznsyp/Wave/002661.wav|shuang1 yu2 zuo4 yao4 hao3 hao1 de5 xing4 fu2 xia4 qu4 you5|600
+/data/bznsyp/Wave/001327.wav|ping2 bai2 wu2 gu4 sheng1 chu1 ga2 xu3 duo1 shi4 qing2 lai2|600
+/data/bznsyp/Wave/001457.wav|dan4 wo2 shi3 zhong1 wei1 xiao4 bu4 ken2 biao3 tai4|600
+/data/bznsyp/Wave/001632.wav|fan2 jian1 zhi3 sheng4 chen2 he4 yi2 ge4 she4 zhang3 qian1 xu1 dao4 wo2 xie3 bu4 hao3|600
+/data/bznsyp/Wave/002149.wav|gong1 gong5 lao3 gong1 he2 da4 gu1 jie3 dou1 zai4 feng4 gang3 yi4 jia1 wu3 jin1 chang3 wu4 gong1|600
+/data/bznsyp/Wave/008869.wav|wang3 shang4 de5 dian4 jia1 cheng1 ta1 men5 xiao1 shou4 de5 nai2 fen3 shi4 gang2 ban3 dai4 gou4|600
+/data/bznsyp/Wave/003090.wav|jiu3 er2 jiu3 zhi1 luo2 ya4 ping2 yang3 cheng2 le5 dan3 da4 po1 la4 zhuan1 heng4 ba4 dao4 wei2 suo3 yu4 wei2 de5 xing4 ge2|600
+/data/bznsyp/Wave/005668.wav|gu4 bu4 shang4 chuan2 kou3 qi4 ta1 men5 kai1 shi3 lian2 ye4 da1 jian4 zhang4 peng5|600
+/data/bznsyp/Wave/004778.wav|you2 yu2 xian4 chang3 men1 re4 bu4 shao3 guan1 zhong4 yao2 zhe5 shan4 zi5 ting1 ge1|600
+/data/bznsyp/Wave/006296.wav|yin1 wei4 zao2 qi3 de5 niao3 you3 shi2 chi1 zao3 kai1 de5 hua1 you2 shui3 he1|600
+/data/bznsyp/Wave/000847.wav|yong4 shou3 kou1 le5 kou1 mei2 nong4 diao4|600
+/data/bznsyp/Wave/005099.wav|shang1 yuan2 mu4 qian2 zai4 kong1 jun1 si4 wu3 si4 yi1 yuan4 jin3 ji2 jiu4 zhi4|600
+/data/bznsyp/Wave/001480.wav|cheng2 jun4 ba1 kai1 bei4 ru4 li3 mian4 shi4 hou4 hou4 yi4 die2 cao2 gao2 zhi3|600
+/data/bznsyp/Wave/001919.wav|jing1 ji4 ren2 huo4 wen4 xi1 ye3 fa1 wei1 bo2 dui4 chuan2 wen2 you4 biao3 shi4 fen4 nu4 cheng1 tai4 guo4 huang1 miu4|600
+/data/bznsyp/Wave/009511.wav|de2 guo2 li4 shi3 you1 jiu3 wen2 hua4 cui3 can4 su4 you3 shi1 ren2 he2 zhe2 xue2 jia1 guo2 du4 de5 mei3 yu4|600
+/data/bznsyp/Wave/005152.wav|zhua1 zhu4 da4 shu4 shao1 an2 lia3 jiu4 pa2 shang4 qu4 le5|600
+/data/bznsyp/Wave/001474.wav|yi3 gu4 che1 chen2 zhan4 di4 zhi3 hui1 guan1 ge2 la1 ye1 fu1|600
+/data/bznsyp/Wave/001340.wav|ji4 jiao4 shou4 dang1 ri4 lve4 shou4 feng1 han2 sang3 yin1 sha1 ya3 reng2 ji1 qing2 bu4 jian3|600
+/data/bznsyp/Wave/003916.wav|dui4 ci3 ci4 fang3 wen4 zhong1 mei3 shuang1 fang1 jun1 wei4 zuo4 shi4 xian1 yu4 bao4|600
+/data/bznsyp/Wave/008027.wav|wu2 pei4 yu4 shuo1 you3 ren2 wen4 wu2 meng4 chao1 shen1 ti3 na4 me5 hao3 shi4 bu2 shi4 chi1 shen2 me5 bu2 pin3 a5|600
+/data/bznsyp/Wave/003903.wav|gan1 ai2 de5 fa1 sheng1 hen3 da4 bu4 fen5 gen1 yi3 gan1 you3 guan1|600
+/data/bznsyp/Wave/005731.wav|ji1 zhang3 yang2 guang1 bian1 tai2 shang1 yuan2 bian1 jie4 shao4 zhe5 yun4 song4 shang1 yuan2 de5 guo4 cheng2|600
+/data/bznsyp/Wave/004311.wav|ling4 wai4 tao2 hua1 wei2 di1 ai3 zhi2 wu4 zhi1 ya1 jiao4 di1 ye3 bu4 fang1 bian4 xing2 ren2 chuan1 xing2|600
+/data/bznsyp/Wave/005719.wav|bu4 jin3 mian4 ji5 da4 le5 zhu4 fang2 de5 gong1 neng2 ye3 geng4 wan2 shan4 zhi4 liang4 geng4 lao2 kao4 huan2 jing4 geng4 you1 mei3|600
+/data/bznsyp/Wave/003096.wav|tie3 jiang4 zai4 gei3 zhan4 ma3 ding4 zhang3 shi2 yin1 que1 shao2 ji3 ke1 ding1 zi5 you3 yi4 zhi1 ma2 zhang3 mei2 you3 ding4 lao2|600
+/data/bznsyp/Wave/007359.wav|he2 bi4 yao4 gao3 zhe4 zhong3 fei4 li4 bu4 tao2 hao3 de5 gui1 zhang1 jiao4 yu4 ne5|600
+/data/bznsyp/Wave/001365.wav|li3 ao2 zuo2 ri4 shang4 jie2 ma3 chen2 wen2 xi1 jie2 mu4|600
+/data/bznsyp/Wave/001206.wav|rang4 lei2 jun1 po1 gan3 kuan1 wei4 de5 shi4 yong1 dun3 dui4 xiao2 mi2 you3 zhe5 yi4 zhong3 zong1 jiao4 ban1 de5 re4 qing2|600
+/data/bznsyp/Wave/000059.wav|wo2 wo3 wo2 wo3 wo2 wo3 he2 pang4 zi5 yi4 qi3|600
+/data/bznsyp/Wave/006000.wav|li2 yu3 chun1 tou4 lu4 ta1 de5 ge1 fu4 qin5 dou1 hui4 heng1 heng5|600
+/data/bznsyp/Wave/006442.wav|jie3 jue2 da2 er3 fu4 er3 wen4 ti5 mu4 qian2 de5 kun4 nan2 he2 zai4|600
+/data/bznsyp/Wave/004764.wav|hou4 lai2 nv2 you2 tang3 zai4 chuang2 tou2 bu2 dong4 le5 zui2 li3 zhi2 chuan3 cu1 qi4|600
+/data/bznsyp/Wave/006846.wav|xiao2 ma3 zai4 shang4 hai3 shang4 ban1 zhao4 gu1 niang5 zai4 hang2 zhou1 zan4 zhu4 jiang3 cun1|600
+/data/bznsyp/Wave/000920.wav|yan2 bing1 mu2 yang4 jun4 qiao4 shi4 cun1 li3 de5 mei2 nv3|600
+/data/bznsyp/Wave/007119.wav|kan1 cha2 xian4 chang3 de5 min2 jing2 gan3 dao4 hou4 xia4 bo1 shou2 li3 hai2 zuan4 zhe5 ji2 liu3 tou2 fa4|600
+/data/bznsyp/Wave/009422.wav|dang1 shi2 yi3 shi4 shi4 ren2 da4 dai4 biao3 de5 xiao1 you4 mei3 tie1 chu1 jing4 xuan2 hai3 bao4 yi3 she4 qu1 ju1 min2 shen1 fen4 can1 xuan3|600
+/data/bznsyp/Wave/000616.wav|ba3 hai2 zi5 niao4 hai2 dei3 chui1 xu1 xu1 cai2 xing2|600
+/data/bznsyp/Wave/003482.wav|wo3 nian2 fang1 er4 ba1 shang4 wei4 hun1 pei4|600
+/data/bznsyp/Wave/006708.wav|mi3 la1 mai4 si1 gao1 ceng2 ren4 wei2 di2 shi4 ni2 de5 jin4 ling4 chao1 yue4 yuan2 ben3 de5 xie2 yi4|600
+/data/bznsyp/Wave/003078.wav|chen4 si1 jia1 li4 ning2 zhuan3 mian4 shi2 bao3 biao1 geng4 yi4 shi2 qing2 bu5 zi4 jin1 kai1 xin1 da4 xiao4|600
+/data/bznsyp/Wave/006078.wav|wo3 men5 yao4 shi3 ge4 zhong2 fu3 bai4 chou3 e4 de5 xian4 xiang4 bei4 guang3 da4 qun2 zhong4 suo3 tuo4 qi4|600
+/data/bznsyp/Wave/003049.wav|ran2 hou4 lao2 ban3 kai1 che1 meng3 dao4 you4 wang3 qian2 chong1|600
+/data/bznsyp/Wave/005207.wav|mu4 qian2 gai1 mo2 xing2 zhan3 shi4 zai4 si1 ta3 wan4 ge2 da4 xue2 kao2 gu3 bo2 wu4 guan3 nei4|600
+/data/bznsyp/Wave/003753.wav|ju4 xi1 mo4 er3 xi1 zai4 zong2 tong2 fu3 wei4 tan2 ta3 wei2 he2 a1 nan2 ju3 xing2 shou4 xun1 yi2 shi4|600
+/data/bznsyp/Wave/005581.wav|sui1 ran2 jia4 ge2 gao1 ang2 dian4 shi4 ta3 que4 yi4 zhi2 bu4 que1 guang3 gao4 shang1|600
+/data/bznsyp/Wave/001905.wav|tian1 qi4 yu4 bao4 zhi3 shuo1 jin1 tian1 you2 yu3|600
+/data/bznsyp/Wave/004088.wav|ya1 jie4 bei4 gao4 ren2 de5 bu4 jin2 you3 fa2 jing3 tong2 shi2 hai2 you3 wu2 jing3|600
+/data/bznsyp/Wave/004558.wav|liang2 zhe3 jun1 wei4 tou4 lu4 xiao1 xi5 lai2 yuan2 dan4 fou3 ren4 xiao1 xi5 lai2 zi4 yi4 hai1|600
+/data/bznsyp/Wave/004957.wav|hai2 gou3 quan2 shen1 fu4 gai4 zhe5 rong2 mao2 lian3 hen2 duan3|600
+/data/bznsyp/Wave/006787.wav|xian4 chang3 de5 jia1 bin1 fei1 chang2 zan4 tong2 guo1 jin1 de5 kou1 men2 lun4|600
+/data/bznsyp/Wave/003245.wav|you3 le5 ta1 de5 bang1 zhu4 wang4 yuan3 jing4 bian4 ke2 yi3 jiang1 fei1 chang2 an4 de5 xing1 xing5 pai1 she4 xia4 lai2|600
+/data/bznsyp/Wave/004958.wav|zhe4 chang3 kua4 nian2 ye4 wan3 hui4 geng4 xiang4 yi4 chang3 si1 ren2 pai4 dui4|600
+/data/bznsyp/Wave/006433.wav|zui4 yin3 ren2 zhu4 mu4 de5 yao4 suan4 shi4 zong2 li2 fu3 ban4 gong1 da4 lou2 men2 kou3 na4 shi2 lai5 ping2 fang1 mi3 de5 shui3 dao4 tian2|600
+/data/bznsyp/Wave/001385.wav|nan2 you3 shi4 xu2 ting2 wei2 yi1 de5 bang1 shou3|600
+/data/bznsyp/Wave/007371.wav|shu4 gan4 shang4 zhan1 le5 hui4 wu4 de5 yi1 fu5 re3 de5 ji3 tiao2 gou3 pao3 guo4 qu4 tian3|600
+/data/bznsyp/Wave/006581.wav|lv4 shi1 ti2 xing2 wo3 cong2 huang2 niu2 shou3 zhong1 mai3 piao4 shi4 wei2 fa3 xing2 wei2|600
+/data/bznsyp/Wave/005787.wav|yi1 lou2 ru4 hu4 de5 lv4 se4 zha4 lan2 shi4 fang2 dao4 men2 qian2 di4 mian4 shang4 liu2 you3 yi4 tan1 xue4 ji4|600
+/data/bznsyp/Wave/001153.wav|mo4 yu2 he2 xia1 ren2 yi2 yang4 guan4 yong4 jia3 quan2 jin4 pao4|600
+/data/bznsyp/Wave/000097.wav|xiao3 wen2 jie2 quan2 shen1 ku1 shou4 ru2 chai2|600
+/data/bznsyp/Wave/003323.wav|ma2 yi3 ma2 yi3 huang2 chong2 de5 da4 tui3|600
+/data/bznsyp/Wave/008408.wav|si1 cong1 xun2 liang4 er2 qu4 he2 bai2 pang4 gao1 re4 qing2 qie1 cuo1 nin2 jiu4 shi4 ni3 shi4 lu2 si1 cong1 ba5|600
+/data/bznsyp/Wave/009497.wav|shu4 ren2 xiong1 ke3 xi1 wan3 sheng1 le5 yi4 bai3 nian2 huo4 zhe2 zao3 sheng1 le5 yi4 bai3 nian2|600
+/data/bznsyp/Wave/003579.wav|wan2 quan2 mei2 you3 jian2 shao3 yi4 dianr3 shou1 fei4|600
+/data/bznsyp/Wave/006143.wav|jin1 wan3 xin1 qing2 ji1 dong4 de5 gao1 min3 re4 lei4 gun2 gun3|600
+/data/bznsyp/Wave/005685.wav|ta1 xing2 rong2 chen2 zhi4 zhong1 jiu4 shi4 yi2 fu4 wu2 chi3 zui2 lian3|600
+/data/bznsyp/Wave/000369.wav|fan2 ci3 zhong2 zhong3 guo4 nian2 kou1 fa3 jian3 zhi2 bu2 sheng4 mei2 ju3|600
+/data/bznsyp/Wave/008407.wav|kai1 xin1 xia2 wo3 cong2 bu4 nan2 guo4 mei3 tian1 dou1 wei4 zhu3 ren2 dai4 lai2 zheng4 neng2 liang4|600
+/data/bznsyp/Wave/008860.wav|yu3 qi2 rang4 lao3 de5 shen1 zhe5 bo2 zi5 ai2 da3 bu4 ru2 rang4 xin1 ren2 ting3 zhe5 xiong1 tang2 qu4 pin1 sha1|600
+/data/bznsyp/Wave/009937.wav|pan4 jue2 hou4 yao2 mou3 qi1 zi3 hu2 mou3 bu4 fu2 ti2 qi3 shang4 su4|600
+/data/bznsyp/Wave/005384.wav|er2 xian4 zai4 hai2 shi4 qing2 ni3 jiang1 jian4 cha1 jin4 qiao4 li3 guan3 zhu4 ni3 na4 hao2 wu2 yong4 chu4 de5 she2 tou5 ba5|600
+/data/bznsyp/Wave/001378.wav|zai4 cheng2 zuo4 lan3 che1 shi2 ta1 xu1 yao4 ba3 hua2 xue2 ban3 fang4 zai4 yi4 pang2 bing4 jie3 kai1 hou4 hua2 xue3 xue1|600
+/data/bznsyp/Wave/005228.wav|wo2 xiang3 hui2 xue2 xiao4 sao2 sao3 mu4 na4 li3 mai2 zang4 le5 wo3 shi2 ji3 nian2 de5 qing1 chun1|600
+/data/bznsyp/Wave/009105.wav|shuang1 yang2 shui3 de5 yong4 tu2 shi4 gei3 niu2 ti2 niu2 er3 duo5 piao3 bai2|600
+/data/bznsyp/Wave/005781.wav|yi4 qi3 qu4 kan4 liu2 xing1 yu2 hao3 lang4 man4 ya5|600
+/data/bznsyp/Wave/001428.wav|fan3 shen1 jiang1 she2 lin1 qi3 xuan2 kong1 dou3 dong4|600
+/data/bznsyp/Wave/003029.wav|na4 feng1 gu2 lao3 de5 xin4 ye3 fen4 ru2 huang2 he4 zhi4 jin1 mei2 you3 yi4 dian3 hui2 yin1|600
+/data/bznsyp/Wave/009368.wav|ji1 zhang3 hai2 shuo1 zhong1 guo2 ren2 tai4 rong2 yi4 gao3 dian1 la5 gao4 su4 ta1 shi4 mian3 fei4 de5 ji2 ke3|600
+/data/bznsyp/Wave/009519.wav|wen2 xun4 hou4 lv3 zong1 yin1 li4 ji2 tiao4 xia4 che1 zhen1 cheng2 bei1 qie4 de5 su4 shuo1 da3 dong4 le5 zhi4 yuan4 zhe3 men2|600
+/data/bznsyp/Wave/003696.wav|wang2 bing1 da3 cuo4 le5 suan4 pan5 mei2 guo4 ji3 tian1 hou2 yong3 fu4 you4 gu4 ji4 chong2 yan3|600
+/data/bznsyp/Wave/007771.wav|yi2 liang4 hei1 se4 jiao4 che1 you4 ce4 che1 tou2 jiang1 juan3 lian2 men2 zhuang4 ao1 le5|600
+/data/bznsyp/Wave/002728.wav|lv3 ci4 ti2 xing3 bu4 biao1 de5 jin4 zhi3 gua4 bian3|600
+/data/bznsyp/Wave/007113.wav|tan2 dao4 hao2 you3 ting2 feng1 yu3 bo2 zhi1 you2 ke3 neng2 li2 hun1 shou1 chang3|600
+/data/bznsyp/Wave/004518.wav|shao4 lin2 shan1 men2 qian2 shao4 lin2 si4 zhi1 ke4 seng1 yan2 kai1 fa3 shi1 zai4 ci3 ying2 hou4|600
+/data/bznsyp/Wave/003585.wav|ta1 men5 liang3 ge5 ren2 wo2 da3 bu4 ying2 nan2 dao4 ai2 da3 ya5|600
+/data/bznsyp/Wave/009333.wav|fen1 mian3 chi2 xiang4 ge5 da4 yu4 gang1 you3 zuo4 dian4 jiao3 dian4 liang3 ce4 hai2 you3 ba2 shou3|600
+/data/bznsyp/Wave/005222.wav|bu4 wo3 shi4 shuo1 ni2 tu3 jiu4 xiang4 qin2 ling3 bing1 ma2 yong3|600
+/data/bznsyp/Wave/000238.wav|jin3 liang4 ceng4 ge4 zhong3 shang1 wu4 ying4 chou5|600
+/data/bznsyp/Wave/001427.wav|lin2 tong2 xue2 ze2 yan3 ji2 shou3 kuai4 xun4 su4 jiang1 qiang2 wen3 nan2 zhuai4 kai1|600
+/data/bznsyp/Wave/005762.wav|hu2 de5 di4 xi2 fu4 liu2 bing3 ju2 he2 zhou1 ye4 zhong1 de5 er2 zi5 xing4 cun2|600
+/data/bznsyp/Wave/002786.wav|gou4 mai3 de5 jing1 shi4 fang2 neng2 fou3 yong4 yu2 zi4 zhu4 yi3 wai4 de5 yong4 tu2|600
+/data/bznsyp/Wave/002224.wav|yi2 shi4 shang4 fei4 sen1 you2 si1 ka2 bi3 ji2 tuan2 yu3 sheng1 wu4 yi1 yao4 yuan2 qian1 shu3 he2 zuo4 xie2 yi4|600
+/data/bznsyp/Wave/007767.wav|zao1 shou4 zhong4 chuang1 de5 lv3 you2 hang2 ye4 bing4 bu2 qi4 nei3|600
+/data/bznsyp/Wave/004805.wav|dian4 chang3 da4 yan1 cong1 pai2 chu1 dan4 huang2 se4 fei4 qi4|600
+/data/bznsyp/Wave/006920.wav|ting2 jian4 shi4 jian4 bian4 cheng2 feng1 shui3 men2 bao4 dao4 hou4 wang2 yin2 feng1 geng4 shi4 zuo4 le5 wei3 zheng4|600
+/data/bznsyp/Wave/005423.wav|hua1 cheng2 guang2 chang3 de5 ye4 wan3 deng1 guang1 cui3 can4|600
+/data/bznsyp/Wave/006780.wav|jin1 tian1 chu1 qu4 qu3 kuai4 di4 zai4 hui2 xue2 xiao4 de5 lu4 shang4 chai1 kai1 bao1 zhuang1 zhun3 bei4 diu1 jin4 la1 ji1 tong3|600
+/data/bznsyp/Wave/009326.wav|zui4 jin4 gan3 jue2 ta1 xiao1 ting2 yi4 xie1 le5 wo2 ye3 jue2 de5 wo3 ke2 yi3 chu1 lai2 le5|600
+/data/bznsyp/Wave/005324.wav|wu2 gong1 nu4 qi4 hou3 shen4 zhi4 shan1 he2 yao2|600
+/data/bznsyp/Wave/003389.wav|liao2 kuo4 de5 jiang1 mian4 zhi4 ci2 dou3 ran2 shou1 zhai3|600
+/data/bznsyp/Wave/002655.wav|zhong1 guo2 tiao2 zheng3 le5 juan3 yan1 shui4 fu4|600
+/data/bznsyp/Wave/004111.wav|zai4 qing1 dao3 bu4 fen5 ru2 qi3 yin1 jian3 ce4 yan2 ge2 er2 ting2 chan3|600
+/data/bznsyp/Wave/005303.wav|ta1 ou2 er3 tai2 tou2 kan4 kan5 du2 zhe3 dan4 dan4 yi2 xiao4|600
+/data/bznsyp/Wave/003653.wav|guang3 zhou1 shi4 hui4 bu2 hui4 ye3 che4 xiao1 jie1 dao4 ban4|600
+/data/bznsyp/Wave/001075.wav|qi2 ji2 sui3 geng4 han2 you3 de5 bei4 yan4 dao4 you3 e4 jun1 xian3 shi4 e4 jun1 shang4 nao3|600
+/data/bznsyp/Wave/007134.wav|bao4 liao4 cheng2 wei2 ming2 zui3 men5 ji4 xu4 shou1 long3 guan1 zhong4 shou1 shi4 lv4 de5 wang2 pai2|600
+/data/bznsyp/Wave/008703.wav|ni3 kuai4 le4 suo2 yi2 wo3 kuai4 le4|600
+/data/bznsyp/Wave/007012.wav|ke2 ni3 men5 zhe4 xie1 ming2 ming2 zhi1 dao4 shi2 qing2 de5 ren2 zen2 ke3 ru2 ci2 hen3 xin1|600
+/data/bznsyp/Wave/005328.wav|ta1 pie3 guo4 tou2 qu4 mu4 guang1 ding1 zhe5 da4 hai3|600
+/data/bznsyp/Wave/004480.wav|dong1 fang1 hong2 guang2 chang3 ai1 dao4 huo2 dong4 xian4 chang3|600
+/data/bznsyp/Wave/000539.wav|ke3 neng2 ye3 jiu4 xie3 le5 gei3 yu4 you3 ting1 ting1 chang4 chang4|600
+/data/bznsyp/Wave/002817.wav|ta1 men5 de5 guan1 xi5 tong2 yang4 you2 nv3 tong2 de5 diao4 diao5|600
+/data/bznsyp/Wave/004980.wav|da2 dian3 de5 dao4 bu2 dao4 wei4 jiang1 zhi2 jie1 ying2 xiang3 dao4 xiao1 shou4 e2|600
+/data/bznsyp/Wave/003950.wav|wai4 hui4 zhan4 kuan3 jian2 shao3 de5 zhi2 jie1 yuan2 yin1 shi4 kua4 jing4 zi1 ben3 liu2 chu1|600
+/data/bznsyp/Wave/009495.wav|jiao4 shi4 li3 yi2 you2 ji3 ge4 ren2 shu3 jia4 de5 lian4 bi3 zuo4 wen2 gang1 fa1 xia4 lai5|600
+/data/bznsyp/Wave/009947.wav|zuo2 wan3 hua2 xi1 du1 shi4 bao4 ji4 zhe3 dian4 hua4 cai2 fang3 le5 yin3 qi2|600
+/data/bznsyp/Wave/008852.wav|wo3 cai2 bu2 yao4 bei4 bie2 ren2 cao1 zong4 ne5|600
+/data/bznsyp/Wave/007946.wav|song4 shi4 ping2 ren3 bu2 zhu4 you4 qu4 ca1 le5 yi2 ge5 shen1 hui2 lai5 hou4 wen4 ni3 men5 you3 shui2 shui4 zhao2 le5|600
+/data/bznsyp/Wave/002701.wav|ke3 shi4 che1 ceng4 bu2 guo4 qu4 yo5|600
+/data/bznsyp/Wave/003581.wav|mian4 dui4 suo3 luo2 si1 de5 ming2 tou2 yang2 jiong2 wei3 ye3 bu2 shi4 mei2 you3 dan1 you1|600
+/data/bznsyp/Wave/003415.wav|qiu2 qian1 ren4 yi4 lian3 wei2 nan2 shuo1 wo3 shi4 shi5 ba5|600
+/data/bznsyp/Wave/007032.wav|zhe4 bu2 shi4 ming2 xian3 de5 bu4 zun1 shou3 wai4 jiao1 xie2 yi4 ma5|600
+/data/bznsyp/Wave/006542.wav|sui4 yue4 jue2 dui4 bu2 shi4 sha1 zhu1 dao1 er2 shi4 yi4 ming2 you1 xiu4 de5 si4 yang3 yuan2|600
+/data/bznsyp/Wave/004625.wav|ke3 jian4 ai4 de5 guo4 cheng2 shi4 duan3 zan4 de5 er2 ai4 de5 hui2 yi4 shi4 wu2 qiong2 de5|600
+/data/bznsyp/Wave/001037.wav|xu2 ruo4 xuan1 gan1 ga4 di1 tou2 xiao4 er2 bu4 da2|600
+/data/bznsyp/Wave/006216.wav|mei2 you3 ming2 xian3 you4 yin1 hai2 zi5 tu1 ran2 kai1 shi3 ke2 sou4 tong2 shi2 yan3 fen1 mi4 wu4 zeng1 duo1|600
+/data/bznsyp/Wave/000698.wav|er2 ta1 ji3 wei4 peng2 you5 gang1 qiao2 ye3 dao4 le5|600
+/data/bznsyp/Wave/007886.wav|a1 yi2 jing1 ya4 de5 wen4 wo3 shi4 shen2 me5 che1|600
+/data/bznsyp/Wave/000993.wav|ceng2 chu1 yan3 dian4 ying3 zuo4 pin3 ding3 zhen1 he2 liu4 yue4 li2 hao3 yang2 guang1|600
+/data/bznsyp/Wave/002853.wav|er4 shi4 qie4 shi2 ti2 gao1 shui3 zi1 yuan2 li4 yong4 xiao4 lv4|600
+/data/bznsyp/Wave/004785.wav|dang4 wan3 jiu4 ba3 zhe4 shuai4 ge1 gei3 shui4 le5 xin1 li3 wu2 bi3 de5 shu1 chang4|600
+/data/bznsyp/Wave/003479.wav|xiao3 bing1 wo3 tong4 ku3 de5 wu3 zhu4 le5 lian3|600
+/data/bznsyp/Wave/003447.wav|shi2 yong4 zhi2 wu4 you2 zhong1 yi4 ban1 bu4 han2 dan3 gu4 chun2 huo4 han2 liang4 ji2 di1|600
+/data/bznsyp/Wave/006288.wav|zai4 deng4 xin1 hua2 jing1 chang2 deng1 lu4 de5 hu2 lu5 si1 zhuan1 ye4 wang3 zhan4 shang4 dao4 nian4 tie3 zi5 bu2 duan4 geng1 xin1|600
+/data/bznsyp/Wave/003849.wav|ran2 er2 zhe4 yang4 zhao2 nv3 er2 ru2 tong2 da4 hai3 lao1 zhen1|600
+/data/bznsyp/Wave/009863.wav|zhe4 feng1 kuang2 de5 yi2 mu4 ye2 xu3 zhi2 you2 deng3 dao4 da4 chao2 tui4 qu4 luo2 yong2 zhe3 cai2 hui4 fu2 chu1 shui3 mian4|600
+/data/bznsyp/Wave/000148.wav|xiao1 ke4 zai4 kong1 tiao2 chang3 xie4 wan2 huo4 you2 yuan2 lu4 fan3 hui2 cun4 tan1 gang3|600
+/data/bznsyp/Wave/009955.wav|ka3 zha1 fei1 bu4 luo4 shi4 tong3 zhi4 yi3 zao1 yu4 bu4 luo4 nei4 hong4|600
+/data/bznsyp/Wave/004259.wav|fang3 fu2 dian3 yi4 zhi1 yan1 gang1 gang1 ran2 zhe5 xi1 le5 yi4 kou3 jiu4 mie4 le5 zui2 li3 zhi2 you3 na4 kou3 yan1 de5 yu2 wei4|600
+/data/bznsyp/Wave/000094.wav|ma3 xun4 wei2 yu3 yang2 yi2 deng3 gong4 du4 sheng1 ri4|600
+/data/bznsyp/Wave/006791.wav|zhe4 gai3 bian4 le5 ha1 po4 zheng4 fu3 shang4 tai2 chu1 qi1 da4 tan2 ren2 quan2 er2 re2 nao3 zhong1 guo2 de5 diao4 men2|600
+/data/bznsyp/Wave/007399.wav|yu2 ci3 tong2 shi2 nie4 shu4 bin1 an4 ye3 yi4 zhi2 zheng4 zai4 diao4 cha2|600
+/data/bznsyp/Wave/009364.wav|bu4 neng2 jiang1 zheng4 fu3 ying1 dang1 cheng2 dan1 de5 bu3 tie1 zuo4 wei2 cai2 zheng4 bao1 fu5 shuai2 gei3 lao2 bai3 xing4|600
+/data/bznsyp/Wave/006974.wav|shi2 pin3 an1 quan2 biao1 zhun3 bao3 zheng4 an1 quan2 shi4 di3 xian4|600
+/data/bznsyp/Wave/004931.wav|ba2 yin3 xing2 gou3 yong4 dao4 huan2 bao3 de5 gai4 nian4 zhong1 zai4 cheng2 du1 hai2 shi4 di4 yi1 ci4|600
+/data/bznsyp/Wave/005998.wav|mang2 mang2 de5 ye4 zhi2 you3 ye2 bai3 he2 zai4 tu3 lu4 zhe5 fen1 fang1|600
+/data/bznsyp/Wave/002818.wav|huo4 fu1 man4 he2 ke1 wa2 mu3 shen4 zhi4 fa1 sheng1 guo4 zheng1 chao3|600
+/data/bznsyp/Wave/000696.wav|ta4 jin4 jian1 yu4 de5 da4 men2 zun1 yan2 yi3 che4 di3 lun2 luo4|600
+/data/bznsyp/Wave/008993.wav|dan4 jin4 duan4 shi2 jian1 tian1 qi4 zhen1 de5 hen3 qing1 tou4 shuang2 lang3 ke2 yi3 fang4 xin1 de5 shai4 yi1 wu4|600
+/data/bznsyp/Wave/009558.wav|jin4 ru4 qi4 che1 shi2 dai4 yi3 lai2 ren2 men5 si4 hu1 yi2 ke4 ye3 li2 bu4 kai1 gun2 gun3 de5 che1 lun2|600
+/data/bznsyp/Wave/005365.wav|zhong2 zhong3 de5 shi4 jian4 yin2 qi2 gang3 ren2 bu4 man3|600
+/data/bznsyp/Wave/006399.wav|liang3 nan2 zi3 da4 gai4 hai2 mei2 hui2 guo4 shen2 lai2 ne5 jiu4 dou1 bei4 lu1 jin4 le5|600
+/data/bznsyp/Wave/006328.wav|jian3 zhi2 shi4 yi2 ge5 ren2 ding2 liang3 ge5 ren2 yong4|600
+/data/bznsyp/Wave/008077.wav|fei4 huo2 liang4 shui3 ping2 chu1 xian4 shang4 sheng1 guai2 dian3|600
+/data/bznsyp/Wave/005649.wav|qi2 zhong1 heng2 kua4 bei3 huan2 cen2 cun1 lu4 duan4 di4 xia4 shui2 guan3 gang1 hao3 shi4 chu1 xian4 di4 xian4 de5 lu4 duan4|600
+/data/bznsyp/Wave/001278.wav|min2 guo2 shi2 wan4 qing4 dang4 pu4 shuai1 bai4 guan1 men2 dian4 pu4 qian2 gai4 le5 xiao3 fang2 zhe1 zhu4 wan4 qing4 er4 zi4|600
+/data/bznsyp/Wave/006579.wav|dai4 xiao3 hai2 tai4 lei4 le5 shen2 me5 dou1 bu4 dong3 hai2 zong3 yao4 da4 ren2 pei2 zhe5 wan2|600
+/data/bznsyp/Wave/002405.wav|zhang1 bo1 shen1 xing2 ai2 xiao3 shuo1 hua4 sheng1 yin1 bu2 da4|600
+/data/bznsyp/Wave/008607.wav|guo2 jia1 tong3 ji4 ju2 er4 ling2 yi1 ling2 nian2 de5 shu4 ju4 wei2 ling2 dian3 si4 ba1 yi1|600
+/data/bznsyp/Wave/002881.wav|ying1 guo2 yu2 lun4 ren4 wei2 mei3 guo2 xian3 shi4 le5 yao4 pie3 kai1 ying1 guo2 cu4 jin4 bei3 ai4 he2 ping2 de5 zi1 tai4|600
+/data/bznsyp/Wave/009992.wav|na4 nv3 hair2 wei3 qu1 de5 shuo1 wo3 yi4 hui2 tou2 jian4 ni2 yi3 jing1 jin4 qu4 le5 wo3 bu4 gan3 jin4 qu4 a5|600
+/data/bznsyp/Wave/000978.wav|shou3 cheng2 jiang4 shi4 tong2 chou2 di2 kai4 yu4 xue4 fen4 zhan4|600
+/data/bznsyp/Wave/004466.wav|kong3 xian1 sheng5 wai4 sheng5 mei2 you3 shen2 me5 shi4 zhi3 shi4 ku4 zi5 bei4 che3 po4 le5|600
+/data/bznsyp/Wave/002807.wav|yi1 shi4 zhe4 xie1 zi4 fen2 zhe2 si3 de5 yuan1 wang4|600
+/data/bznsyp/Wave/003691.wav|zuo2 tian1 jing3 fang1 xiang4 mei2 ti3 tong1 bao4 le5 lin4 mou3 dao4 qie4 an4 de5 zhen1 po4 qing2 kuang4|600
+/data/bznsyp/Wave/007205.wav|wo3 pi2 qi4 chao1 ji2 hao3 bu2 hui4 ji2 de5|600
+/data/bznsyp/Wave/005046.wav|zui4 jin4 zhe4 zuo4 hao2 zhai2 zheng4 zai4 jing1 diao1 xi4 zhuo2|600
+/data/bznsyp/Wave/008123.wav|hai2 yin1 wei4 mei2 qian2 zhong4 gu3 ming2 xiang1 cong2 lai2 bu4 mai3 wa4 zi5 ye3 bu4 chuan1|600
+/data/bznsyp/Wave/008581.wav|mai4 ke4 lei2 wen2 shi4 de2 ke4 sa4 si1 zhou1 ren2 chu1 shen1 yu2 jun1 ren2 jia1 ting2|600
+/data/bznsyp/Wave/000947.wav|sun1 xu4 guang1 zai4 wei4 yi2 hu4 nong2 jia1 an1 zhuang1 ma4 zha5 yang3 zhi2 chang3 jian1 kong4 qi4|600
+/data/bznsyp/Wave/000233.wav|chuang1 wai4 yi2 pian4 yin1 mai2 zhe4 yu3 xiang4 shi4 yong2 yuan3 xia4 bu4 wan2 le5|600
+/data/bznsyp/Wave/005628.wav|ao4 yun4 sheng4 huo3 chuan2 di4 de5 shi4 yi4 zhong3 li2 xiang3 he2 jing1 shen5 kan4 si4 li2 wo3 men5 hen3 yao2 yuan3|600
+/data/bznsyp/Wave/005216.wav|xue3 hou4 de5 bei3 jing1 kong1 qi4 qing1 xin1 le5 xu3 duo1 ta4 xue3 shang2 jing2 zhe3 luo4 yi4 bu4 jue2|600
+/data/bznsyp/Wave/005171.wav|ke3 gang1 zha3 le5 yi4 yan3 na4 jiu4 cheng2 le5 yi4 chang3 meng4|600
+/data/bznsyp/Wave/004555.wav|zhe4 ci4 kuai4 di4 hua4 zuo4 ta1 zhi3 shi4 jiang1 juan4 zhou2 zhi2 jie1 fang4 jin4 hua4 tong2 li3|600
+/data/bznsyp/Wave/002706.wav|zai4 jia1 ren2 de5 zhi2 niu4 xia4 han2 zhi4 peng2 jie4 diao4 le5 mei3 zhou1 pa2 bai2 yun2 shan1 de5 yin3|600
+/data/bznsyp/Wave/003111.wav|na4 chi2 kong3 chen4 tuo1 xia4 de5 hua1 mei3 de5 bu4 de2 liao3|600
+/data/bznsyp/Wave/009783.wav|di4 er4 zhan4 shi4 er4 yue4 de5 nong2 xin1 bei1|600
+/data/bznsyp/Wave/005213.wav|qin2 fa2 you3 shi4 gu1 gua2 lao3 ren2 yi4 sheng1 wei4 hun1 wu2 zi2 nv3|600
+/data/bznsyp/Wave/004140.wav|wei2 qiang2 zha4 lan5 xiu4 ji4 ban1 ban1|600
+/data/bznsyp/Wave/004413.wav|tu2 zhong1 lia3 ren2 yi4 you2 wei4 jin4 you4 xiang1 yue1 yi4 qi3 kai1 fang2|600
+/data/bznsyp/Wave/008143.wav|zai4 chuo1 chuan1 zhi3 hui4 yan2 mian4 diu1 shi1 bu2 dai4 biao2 wo3 mei2 you2 zhun3 bei4|600
+/data/bznsyp/Wave/005360.wav|zui4 zhong1 liang3 ren2 shang1 ding4 yi3 zao2 bi4 tou1 qian2 de5 fang1 shi4 jin4 xing2 zha4 pian4|600
+/data/bznsyp/Wave/003841.wav|zhen1 de5 shi4 yu3 ren2 huo4 jiong3 ran2 you3 bie2 liang3 bu5 xiang1 gan1 ma5|600
+/data/bznsyp/Wave/003059.wav|zhu2 kao2 zhe2 yan3 jing5 mi1 zhe5 xiang4 shi4 zai4 tiao1 xi1 shuai4 kan4 shui2 dou4 de5 zui4 meng2 jian3 shui2|600
+/data/bznsyp/Wave/007656.wav|mai4 ke4 la1 lun2 fa1 biao3 le5 zhu3 ti2 yan2 jiang3|600
+/data/bznsyp/Wave/007512.wav|zhi1 hou4 ta1 kao2 qu2 dao3 you2 zheng4 cheng2 wei2 gong2 bei2 kou3 an4 zhong1 lv3 de5 dao3 you2|600
+/data/bznsyp/Wave/000520.wav|zhang1 ru2 pao4 shou2 dou3 wu2 fa2 xie3 zi4 yin1 ci3 zui4 hou4 en4 zhi3 mo2 dai4 ti4 qian1 zi4|600
+/data/bznsyp/Wave/004242.wav|ta1 de5 qi2 yi4 zhi1 chu4 zai4 yu2 yong4 cai3 se4 fen2 bi3 zai4 di4 shang4 zuo4 hua4 er2 qie3 hua4 sha2 xiang4 sha2|600
+/data/bznsyp/Wave/004657.wav|yu4 ting1 zhan3 shi4 le5 kong2 zi3 zhou1 you2 lie4 guo2 shi2 si4 ge4 chun1 qiu1 de5 kan2 ke3 jing1 li4|600
+/data/bznsyp/Wave/009208.wav|nao4 le5 ban4 tian1 nin2 gan3 qing2 shi4 ye4 cha1|600
+/data/bznsyp/Wave/005159.wav|wei4 le5 wen3 zhu4 zhe4 ming2 nan2 zi3 wei4 xian1 sheng5 yun2 xu3 qi2 jin4 lai2|600
+/data/bznsyp/Wave/009398.wav|na3 ge4 nv3 hai2 zi5 ru2 shang4 hai3 de5 xue3 ye3 suan4 ta1 wan2 le5|600
+/data/bznsyp/Wave/004759.wav|bie2 ti2 le5 he2 ni2 sao3 zi5 kuai4 li2 le5|600
+/data/bznsyp/Wave/003478.wav|li3 song1 shuo1 zhi2 nv3 tao2 meng4 ting2 guai1 qiao2 dong3 shi4 xue2 xi2 cheng2 ji4 ye3 te4 bie2 hao3|600
+/data/bznsyp/Wave/005388.wav|ou1 zhou1 yu3 hang2 fang2 wu4 ji2 tuan2 shi4 ou1 zhou1 kong1 ke4 gong1 si1 de5 mu3 gong1 si1|600
+/data/bznsyp/Wave/007587.wav|zao3 shang4 yao4 chu3 cun2 hao3 yi4 tian1 de5 neng2 liang4 ne5 suo2 yi3 lai2 dian3 dou4 jiang1 he2 you2 tiao2 bu2 cuo4|600
+/data/bznsyp/Wave/003583.wav|zuo2 ri4 yi2 fan4 ge3 jin1 shui3 tong4 ku1 liu2 ti4|600
+/data/bznsyp/Wave/007077.wav|shou3 ji1 cha4 dian3 jiu4 bei4 ta1 men5 mo4 shou1 lou5|600
+/data/bznsyp/Wave/007140.wav|wo3 mei2 shuo1 dun4 ji1 wo3 shi4 shuo1 dong4 ji1|600
+/data/bznsyp/Wave/009974.wav|qi2 jian1 lian2 po4 liu4 dian3 liu4 liu4 dian2 wu3 liu4 dian3 si4 liu4 dian3 san1 wu2 deng3 duo1 ge4 zhong4 yao4 guan1 kou3|600
+/data/bznsyp/Wave/001591.wav|hei1 mian2 xian4 cu1 cao1 wu2 tan2 xing4 rou2 cuo1 hou4 hui4 da4 liang4 tuo1 luo4 xian1 wei2 yi4 duan4|600
+/data/bznsyp/Wave/004780.wav|ke3 shi4 zhong2 zhong2 yin3 xing4 fu2 li4 que4 wu3 hua1 ba1 men2 yu4 yan3 yu4 lie4|600
+/data/bznsyp/Wave/001307.wav|bu4 he1 ban3 lan2 gen1 yi2 ge4 chuan2 ran2 lia3|600
+/data/bznsyp/Wave/004691.wav|yuan3 chu4 shi4 yu4 yu4 cong1 cong1 de5 da4 sen1 lin2 he2 ben1 xiang4 da4 xi1 yang2 de5 ya4 ma3 sun1 he2|600
+/data/bznsyp/Wave/008153.wav|yao4 bu2 duan4 hang1 shi2 nong2 ye4 ji1 chu3|600
+/data/bznsyp/Wave/003196.wav|jin1 tian1 wan3 shang4 zao4 xue3 ji1 hui4 kai1 yi4 xiu3|600
+/data/bznsyp/Wave/007227.wav|sui2 hou4 nan2 zi3 jing4 zai4 zhong4 mu4 kui2 kui2 zhi1 xia4 shun3 xi1 tuo2 niao3 xue4 ye4|600
+/data/bznsyp/Wave/002623.wav|lao3 gong1 wo3 shuai1 huai4 yi4 zhi1 wan3 jue2 ding4 cheng2 fa2 zi4 ji3|600
+/data/bznsyp/Wave/000637.wav|wo3 yue1 ta1 qu4 kan4 gou2 zhan3|600
+/data/bznsyp/Wave/002890.wav|you3 zhi1 qing2 zhe3 qing3 su4 zhi4 dian4 ba1 liu4 si4 yao1 er4 jiu2 wu3 ling2|600
+/data/bznsyp/Wave/001560.wav|xing2 ji3 ji2 yu3 tong2 xing2 gong4 mian3|600
+/data/bznsyp/Wave/005891.wav|yue4 mo4 qian2 bu2 gou4 hua1 la5 wo3 de5 gong1 zi1|600
+/data/bznsyp/Wave/008240.wav|zhi1 hou4 wo2 yi2 guang3 gao4 mo2 ter4 de5 shen1 fen4 zai4 yi4 neng2 jie4 da3 pin1|600
+/data/bznsyp/Wave/003026.wav|jiu4 shi4 xiang3 hun4 xiao2 yi4 zhong3 gai4 nian4|600
+/data/bznsyp/Wave/005398.wav|jian4 le5 mian4 yao4 duo1 quan4 quan5 qi1 zi3 bu4 neng2 zai4 gan4 sha3 shi4 le5|600
+/data/bznsyp/Wave/004877.wav|zuo2 ri4 zai4 dong4 wu4 yuan2 de5 yu4 ying1 shi4 yu4 ying1 xiang1 zhong1 han1 tai4 ke3 ju1 de5 hu2 bao3 bao5 niu1 niu5|600
+/data/bznsyp/Wave/003058.wav|te4 jing3 tai2 le5 yi2 kuai4 zhong4 xing2 dun4 pai2 jin4 ru4 lou2 nei4|600
+/data/bznsyp/Wave/008383.wav|shou3 xian1 yao4 you3 ge4 hao3 shen1 ti3 qi2 ci4 hai2 yao4 fu4 chu1 nu3 li4|600
+/data/bznsyp/Wave/000348.wav|suo3 mai4 yang2 jiu3 jie1 wei2 jia2 jiu3|600
+/data/bznsyp/Wave/002336.wav|zhe4 zhong3 shu1 kan4 le5 lang1 ge5 yao4 de5 ma5|600
+/data/bznsyp/Wave/000442.wav|xu4 li4 ya4 xi1 bei3 bu4 cheng2 zhen4 ma3 rui4 te4 a1 er2 niu3 man4 zao1 dao4 hong1 zha4|600
+/data/bznsyp/Wave/002464.wav|jiu4 shi4 jiao4 wo3 ming2 zi5 er2 yi3 ya5|600
+/data/bznsyp/Wave/009245.wav|bing1 mian4 shang4 ye3 zhu2 jian4 re4 nao4 qi3 lai2|600
+/data/bznsyp/Wave/009476.wav|dan4 zai4 si4 nve4 de5 sha1 chen2 sha1 bao4 mian4 qian2 ji4 hua4 bian4 cheng2 tan2 hua1 yi2 meng4|600
+/data/bznsyp/Wave/001850.wav|chun1 feng1 you4 de2 yi4 zhang3 zhong1 wo4 qian2 kun1 huo1 chu1 wo3 yi2 ge4 zao4 fu2 yi4 qun2 ren2|600
+/data/bznsyp/Wave/008909.wav|wo3 bu2 shi4 tian1 tian1 dou1 tu2 fen2 di3|600
+/data/bznsyp/Wave/004997.wav|ge1 er3 ba1 qiao2 fu1 zai4 hai3 shen1 wai2 jiang3 hua4 yi4 zhi2 hui2 bi4 zhe4 ge5 wen4 ti2|600
+/data/bznsyp/Wave/006021.wav|yi4 ming2 jiao1 jing3 ji4 xia4 yang2 hua2 de5 che1 pai2 he2 pen1 biao1 hao4|600
+/data/bznsyp/Wave/002270.wav|luo2 han2 ri4 qian2 zai4 fa3 guo2 can1 jia1 ga1 na4 dian4 ying3 jie2|600
+/data/bznsyp/Wave/007396.wav|suan4 le5 ni3 shuo1 zen3 yang4 jiu4 zen3 yang4 ba5 wo3 wu2 suo3 wei4 le5|600
+/data/bznsyp/Wave/002858.wav|dan4 cong2 zhou1 si4 kai1 shi3 mei2 yu3 you4 jiang1 zai4 du4 juan2 tu3 er2 lai2|600
+/data/bznsyp/Wave/006955.wav|shi4 wei1 zhe3 ye2 zu3 se4 le5 ke1 jia1 bang1 ba1 ao4 lu3 luo2 ji2 bo1 tuo1 xi1 deng3 cheng2 shi4 de5 jie1 dao4|600
+/data/bznsyp/Wave/003150.wav|zheng4 shi4 yin1 wei4 lu4 chun1 long2 tian1 xing4 hao4 dong4 de5 xing4 ge2 cai2 yi2 xia4 zi5 bei4 bo2 le4 xiang1 zhong4|600
+/data/bznsyp/Wave/006086.wav|si1 ji1 xu2 mou3 meng2 cai3 you2 men2 shuai3 kai1 fang1 mou3 dai4 zhe5 qian2 kai1 zou3 le5|600
+/data/bznsyp/Wave/001634.wav|shi1 zhi1 hao2 li2 miu4 yi3 qian1 li3|600
+/data/bznsyp/Wave/008195.wav|ru2 jin1 zhe4 zhong2 jiong3 jing4 bei4 qiao3 miao4 rao4 guo4 le5|600
+/data/bznsyp/Wave/009606.wav|ban4 nian2 zou3 yi4 zhuan3 shi2 chuan2 jiu2 da3 lan4|600
+/data/bznsyp/Wave/005877.wav|dan4 shi4 fa4 xing2 hai2 yao4 gai3 jin4 yi4 dian3|600
+/data/bznsyp/Wave/007569.wav|chang2 chu1 men2 huo2 dong4 da4 ye5 de5 xin1 qing2 ye3 yue4 lai2 yue4 kai1 lang3|600
+/data/bznsyp/Wave/002491.wav|gang2 dao3 nan2 qu1 shen1 shui3 wan1 wang4 xiang4 nan2 lang3 shan1 de5 shang4 kong1 chu1 xian4 lou4 dou3 yun2|600
+/data/bznsyp/Wave/009553.wav|liang3 guo2 jing1 mao4 he2 zuo4 de5 bu2 duan4 kuo4 da4 shi2 mei3 zhong1 shuang1 fang1 huo4 yi4|600
+/data/bznsyp/Wave/000561.wav|jia3 qiang2 hui1 wu3 bang4 qiu2 gun4 chong1 zai4 shen1 qian2 lun1 bang4 ji1 da3 hong2 liang4|600
+/data/bznsyp/Wave/002626.wav|wo3 men2 jing1 chang2 jiang3 zhu1 mu4 lang2 ma3 feng1 you3 yi2 ge5 po1 hen2 dou3 you3 yi2 ge5 po1 bi3 jiao4 an1 quan2|600
+/data/bznsyp/Wave/008145.wav|ruo4 wo3 fang4 qi4 le5 shou3 zhong1 xian4 cheng2 de5 shi2 wu4 zai4 qu4 zhui1 qiu2 kan4 bu2 jian4 de5 dong1 xi5 na4 wo2 qi3 bu4 cheng2 sha3 gua1 le5 ma5|600
+/data/bznsyp/Wave/005714.wav|zhe4 ju4 sui2 kou2 bian3 di1 de5 hua4 wai1 da3 zheng4 zhao2 wu2 cheng2 bei4 guo4 shen1 yi2 xiao4 shuo1 wo3 hui4 ma5|600
+/data/bznsyp/Wave/000867.wav|kao2 gu3 dui4 zai4 mu4 zang4 zhong1 fa1 xian4 xi4 zui3 tao2 weng4 deng3 wen2 wu4|600
+/data/bznsyp/Wave/006035.wav|jin3 ji2 qing2 kuang4 qing3 bo1 yao1 er4 er4|600
+/data/bznsyp/Wave/009268.wav|wo3 men5 shi4 xing1 xing5 you4 er2 yuan2 de5 xiao3 peng2 you5|600
+/data/bznsyp/Wave/004646.wav|hao2 wu2 ji1 hui4 shu1 jie3 de5 bei1 ai1 ne5|600
+/data/bznsyp/Wave/004988.wav|chuan2 shou4 shi2 yong4 ji4 neng2 bang1 zhu4 nong2 min2 zhang3 wo4 tuo1 pin2 zhi4 fu4 de5 ben2 ling3|600
+/data/bznsyp/Wave/004143.wav|wu2 jing3 zhan4 shi5 bang1 mang2 sao2 xue3|600
+/data/bznsyp/Wave/002155.wav|jian3 er2 yan2 zhi1 mei2 you3 ren2 bi2 ni3 geng4 liao2 jie2 zheng3 ge4 ye4 wu4|600
+/data/bznsyp/Wave/002742.wav|xiong2 yu4 er5 he2 guo1 song1 lin2 de5 lv4 shi1 zuo4 de5 ye3 shi4 wu2 zui4 bian4 hu4|600
+/data/bznsyp/Wave/000928.wav|er2 lei2 nuo4 ci2 shi1 hun1 hou4 ye2 ba3 bu4 luo4 ke4 dang1 cheng2 bi4 feng1 gang3|600
+/data/bznsyp/Wave/006117.wav|dao4 shu3 di4 san1 feng1 rang4 ren2 yan3 qian2 yi2 liang4 ta1 lai2 zi4 shou3 du1 de5 lu3 xun4 wen2 xue2 yuan4|600
+/data/bznsyp/Wave/004509.wav|zhi3 yao4 shao1 wei1 pi1 lou4 pei1 tai1 jiu4 hui4 beng1 kui4|600
+/data/bznsyp/Wave/006293.wav|qi2 zhong1 fen1 cun4 de5 na2 nie1 hai2 zhen1 xu1 yao4 huo3 hou5|600
+/data/bznsyp/Wave/009137.wav|ci3 wai4 da1 shou4 bei4 jiao4 ting2 li4 yong4 li3 cai2 chan2 pin3 gao1 xi1 lan2 chu3 de5 xian4 xiang4 ye3 jiang1 bei4 e4 zhi4|600
+/data/bznsyp/Wave/009237.wav|wei4 he2 mei2 you3 yi4 jia1 zhong1 guo2 qi3 ye4 zuo4 wei2 ben3 jie4 ya4 yun4 hui4 de5 zan4 zhu4 shang1 ne5|600
+/data/bznsyp/Wave/009795.wav|bao4 ming2 shi2 zhao4 ming2 yi4 dian3 hou4 menr2 ye3 mei2 zou3 guai1 guai1 zai4 ren2 qun2 zhong1 pai2 dui4 ling3 hao4|600
+/data/bznsyp/Wave/005592.wav|shan1 shan1 bei4 gan3 dong4 zai4 an4 yi4 shou3 dang1 chu1 jiu4 gai1 ai4 ni3 zhi2 yan4 mu4 zuo4 ci2 ren2 de5 cai2 hua2|600
+/data/bznsyp/Wave/009616.wav|jia4 gei3 zhe4 me5 ge4 ren2 wo3 zhe4 bei4 zi5 ye3 suan4 mei2 zhi3 wang4 le5|600
+/data/bznsyp/Wave/004962.wav|shi1 ren2 yi4 ting1 dun4 shi2 ba2 yu2 yu3 xiang2 de5 yuan4 hen4 wang4 ji4 la1 zhu4 she4 zhang3 de5 shou3 bai4 tuo1 le5|600
+/data/bznsyp/Wave/002498.wav|shou4 ci3 ying2 xiang3 mei3 yuan2 ye3 cheng2 wei2 xiang1 bo1 bo5|600
+/data/bznsyp/Wave/000880.wav|er2 jin4 liang3 nian2 zhe4 gu3 xuan4 feng1 yue4 gua1 yue4 meng3|600
+/data/bznsyp/Wave/006966.wav|bao3 hu4 hao2 wu3 yi2 qing1 shan1 lv4 shui3 cai2 you3 mei2 hao3 xing4 fu2 de5 wei4 lai2|600
+/data/bznsyp/Wave/006361.wav|yu2 shi4 yang2 yong3 zhan2 zhuan3 lai2 dao4 le5 he2 fei2|600
+/data/bznsyp/Wave/003810.wav|xing2 li2 da3 bao1 chu4 lv3 ke4 men5 zai4 mang2 zhe5 kun2 bang3 xing2 li3 an1 jian3 ru4 kou2 ye3 zhi4 xu4 jing3 ran2|600
+/data/bznsyp/Wave/004796.wav|hang2 zhou1 yi2 dui4 lao3 fu1 qi1 chang2 zai4 li3 fa4 dian4 tao1 er3 duo5 jie2 guo3 tao1 chu1 le5 xing4 bing4|600
+/data/bznsyp/Wave/008795.wav|ta1 yao4 shi4 wo3 de5 peng2 you5 wo3 jiu4 quan4 ta1 ren4 le5|600
+/data/bznsyp/Wave/007019.wav|wang1 feng1 xiong2 jiu4 shi4 zhe4 yang4 wang4 wo3 de5 gong1 zuo4 zhe5 zhi2 zhi4 lei4 dao3 zai4 gong1 zuo4 gang3 wei4 shang4|600
+/data/bznsyp/Wave/009651.wav|fu4 gui4 zhou1 juan1 kuan3 shai4 diao4 liang3 ceng2 pi2|600
+/data/bznsyp/Wave/001108.wav|luo4 kuan2 xian3 shi4 wei2 xian1 yang2 chen2 cun1 dang3 zhi1 bu4 cun1 wei3 hui4 bing4 gai4 you3 xiang1 ying4 gong1 zhang1|600
+/data/bznsyp/Wave/006310.wav|huo4 zhe3 ta1 men5 zai4 jia3 liao4 zhong1 chan1 jin4 zhen1 liao4 rang4 ren2 zhen1 jia3 nan2 bian4|600
+/data/bznsyp/Wave/009658.wav|ta1 men5 ben2 xiao3 li4 wei1 zui4 nan2 jing1 shou4 shi4 chang3 de5 zhen4 dang4|600
+/data/bznsyp/Wave/001534.wav|ta1 men5 fen1 bie2 huo4 de2 ao4 si1 ka2 ying3 di4 he2 ying3 hou4 ti2 ming2|600
+/data/bznsyp/Wave/005096.wav|si4 nian2 qian2 cheng2 nan2 na4 pian4 ao1 tu1 bu4 ping2 za2 cao3 cong2 sheng1 de5 huang1 shan1 po1 bu2 jian4 le5|600
+/data/bznsyp/Wave/000948.wav|you2 gai3 qi4 zui4 huo3 re4 shi2 you2 gai3 zhuang1 zi1 zhi4 de5 ge4 da4 wei2 xiu1 chang3 dou1 xu1 yao4 ti2 qian2 yu4 yue1|600
+/data/bznsyp/Wave/008384.wav|cheng2 du1 niao2 yu3 lin2 yuan2 lai2 zhun3 bei4 kai1 zhan3 de5 you2 ke4 qi2 tuo2 niao3 xiang4 mu4 ye3 bu4 gao3 le5|600
+/data/bznsyp/Wave/008083.wav|chen2 ming2 liang4 zai4 ting2 shen3 zhong1 ye3 cheng2 ren4 ta1 ben3 ren2 ou2 er2 ye3 xi1 shi2 du2 pin3|600
+/data/bznsyp/Wave/009997.wav|jin1 tian1 kuai4 di4 yuan2 na2 zhe5 yi2 ge4 kuai4 di4 zai4 ban4 gong1 shi4 han3 qin2 wang2 shi4 na3 ge4 you3 ta1 kuai4 di4|600
+/data/bznsyp/Wave/005189.wav|si4 shi4 lv2 guan3 ye4 shang4 chuan2 xin4 xi1 bu4 gui1 fan4|600
+/data/bznsyp/Wave/006214.wav|sui2 ji2 yin3 lai2 dao3 you2 qi3 hong4 you2 dao3 you2 zuo4 zai4 ma3 lu4 shang4 chang3 mian4 yi2 du4 hun4 luan4|600
+/data/bznsyp/Wave/008862.wav|yi2 huir4 cong2 lu4 bei3 you4 pao3 lai2 yi4 ming2 nan2 zi3 yi2 xia4 cuan1 jin4 chu1 zu1 che1|600
+/data/bznsyp/Wave/001387.wav|dan4 xu3 jin4 heng1 reng2 man3 zu2 yu2 xian4 zhuang4|600
+/data/bznsyp/Wave/000933.wav|ta1 jiang3 ke4 re2 nao3 wan4 zai3 xian4 xian4 wei3 shu1 ji5 chen2 xiao3 ping2 de5 shi4 qing5 ceng2 hong2 tou4 wang3 luo4|600
+/data/bznsyp/Wave/007001.wav|yi1 teng2 rang2 yi1 shi2 fen1 kan4 hao3 mo4 lin2 dui4 yi2 dong4 shi4 chang3 de5 pan4 duan4|600
+/data/bznsyp/Wave/002596.wav|ta1 yi3 shi4 di4 er4 ci4 qin1 lin2 yan2 tian2 le5|600
+/data/bznsyp/Wave/001836.wav|zhi3 yao4 gou3 yi2 jiao4 geng3 su4 lin2 jiu4 dei2 qi3 lai2 chou2 chou3 kan4 shi4 bu2 shi4 lai2 le5 wai4 ren2|600
+/data/bznsyp/Wave/003574.wav|ming2 tian1 hui2 lao3 jia1 kan4 kan5 lao3 fu4 qin5 da4 ren5 he2 wa2 wa5 wan2 ji3 tian1 zai4 shuo1|600
+/data/bznsyp/Wave/009298.wav|da4 mian4 ji1 gan1 luo3 de5 he2 dao4|600
+/data/bznsyp/Wave/003051.wav|wei4 shen2 me5 yun1 bu2 dui4 wei4 kou3 ma5|600
+/data/bznsyp/Wave/008362.wav|ri4 ben2 nv3 xing1 ze2 kao1 ying1 long2 hua2|600
+/data/bznsyp/Wave/003296.wav|bu2 guo4 meng4 xiang3 zhe5 yi2 ye4 bao4 fu4 de5 ta1 kai1 shi3 chao2 gu3 bu2 liao4 xue4 ben3 wu2 gui1|600
+/data/bznsyp/Wave/005023.wav|yi4 kai1 shi2 hen3 man2 heng4 bing4 qie3 bu4 gei2 wo3 tui4|600
+/data/bznsyp/Wave/006679.wav|san1 shi4 jin4 yi2 bu4 zuo4 hao3 tong1 feng1 wa3 si1 guan2 li3 gong1 zuo4|600
+/data/bznsyp/Wave/004037.wav|wo3 huo4 de2 le5 xiao3 shuai1 shuai1 ren2 xun1 zhang1 yi4 mei2 ni3 neng2 gao4 su4 wo3 zhe4 shi4 wei4 shen2 me5 mie1|600
+/data/bznsyp/Wave/009469.wav|jin1 nian2 jiu4 you3 lv2 you3 jian4 yi4 jin3 kuai4 li4 fa3 jiang1 lv3 you2 ri4 jia4 qi1 chang2 tai4 hua4|600
+/data/bznsyp/Wave/000163.wav|zui4 hou4 mo3 diao4 kou2 jiao3 tuo4 mo5 zuo4 niao3 shou4 san4|600
+/data/bznsyp/Wave/003520.wav|kai1 yuan2 gong1 si1 da3 zhe5 ji1 guan1 de5 pai2 zi5 keng1 pian4 gu4 ke4|600
+/data/bznsyp/Wave/003310.wav|hu4 shi4 zai4 zhao4 liao4 chan2 zi3 hou4 de5 pang4 ma1|600
+/data/bznsyp/Wave/001617.wav|fen1 san4 si1 ji1 zhu4 yi4 li4 wa5|600
+/data/bznsyp/Wave/000358.wav|xie4 wen3 yuan1 tai2 tou2 wen4 wo2 zen3 me5 le5|600
+/data/bznsyp/Wave/002603.wav|bu2 yuan4 shuo1 hua4 de5 ming2 xing1 wei3 yuan2 dao4 ye2 sheng3 shi4 yuan4 yi4 shuo1 de5 na4 shi4 zi4 tao2 ku3 chi1|600
+/data/bznsyp/Wave/004714.wav|you3 shi2 hou4 yi2 ge4 wei1 yan2 song3 ting1 de5 jia3 xin4 xi5 jiu4 neng2 rang4 guan1 yuan2 shen1 bai4 ming2 lie4|600
+/data/bznsyp/Wave/009673.wav|wo3 na2 dao1 jiu4 kan3 le5 zhao4 zuo4 hai3 yi4 dao1|600
+/data/bznsyp/Wave/002503.wav|gong1 yuan2 yi1 san1 qi1 er4 nian2 zhu1 yuan2 zhang1 jiu4 pai4 yang2 zai4 chu1 shi3 liu2 qiu2|600
+/data/bznsyp/Wave/002906.wav|zou1 xian1 sheng5 jie4 bei4 de5 pie1 le5 ta1 yi4 yan3|600
+/data/bznsyp/Wave/003208.wav|yan1 zhao4 du1 shi4 bao4 shang4 kan1 fa1 de5 yan2 pei4 dong1 jiu4 shi4 wo3|600
+/data/bznsyp/Wave/007206.wav|xian4 zhai1 lu4 zheng2 li3 yi2 jing3 shi4 hou4 ren2|600
+/data/bznsyp/Wave/007593.wav|ni2 zen3 me5 de2 zui4 ta1 le5 kuai4 qu4 gei3 ta1 pei2 pei2 bu2 shi4 ba5|600
+/data/bznsyp/Wave/005533.wav|zhao2 ji2 yo5 xian4 zai4 you4 mei2 you3 ban4 fa3|600
+/data/bznsyp/Wave/004266.wav|bu2 yao4 luan4 wen4 nv3 hai2 zi5 de5 nian2 ling2 la5|600
+/data/bznsyp/Wave/001337.wav|gai1 hei1 ban1 bei4 luo2 si1 jiao4 shou4 cheng1 wei2 zui4 e4 de5 yuan1 sou3|600
+/data/bznsyp/Wave/001172.wav|zhu1 yu4 bin1 de5 zuo2 shou3 wei2 qing1 wei1 shang1|600
+/data/bznsyp/Wave/006788.wav|zuo2 ri4 wu3 hou4 kuang2 feng1 bao4 yu3 ye3 xi2 ji1 le5 sheng3 hui4 chang2 sha1|600
+/data/bznsyp/Wave/001593.wav|ting1 ma1 ma5 shuo1 yi4 tian1 yi4 ping2 guo3 yi1 sheng1 yuan3 li2 wo3|600
+/data/bznsyp/Wave/000217.wav|xu1 ding4 qing2 kan4 wei3 yuan2 ti2 an4 wu2 yi1 zou4 xiao4 yin3 wu2 shu4 fang2 nu2 jing4 zhe2 yao1|600
+/data/bznsyp/Wave/008115.wav|ta1 men5 de5 ti3 li4 hai2 neng2 jing1 de5 qi3 duo1 shao3 ci4 zhe1 teng5 ne5|600
+/data/bznsyp/Wave/007333.wav|zuo2 ri4 xing1 sha1 shui3 du4 he2 xiang4 jiao1 ba4 shui3 ba4 xia4 mian5 bo1 tao1 gun2 gun3|600
+/data/bznsyp/Wave/001736.wav|gan1 qing4 jia5 zhe4 me5 lao2 kao4 wang2 jin1 ming2 bian4 fang4 xin1 de5 zai4 fu3 bai4 lu4 shang4 yue4 zou3 yue4 yuan3|600
+/data/bznsyp/Wave/000076.wav|lao3 zu2 mu3 yi3 mou2 sha1 zui4 bei4 shou1 ya1|600
+/data/bznsyp/Wave/003668.wav|lie4 ling2 you4 jiao4 su1 men2 ling2 ming2 zong1 yang2 yan2 lv2 ye3 cheng1 si4 bu2 xiang4 chan3 zai4 dong1 nan2 ya4 ji2 zhong1 guo2|600
+/data/bznsyp/Wave/005351.wav|zhou1 mei3 ci4 dou1 gei3 qi1 zi3 he1 wang2 dong1 jin4 zi4 ji3 da2 dian3 kai1 shui3 pao4 man2 tou5 jiu4 xian2 cai4|600
+/data/bznsyp/Wave/007245.wav|yi1 sheng1 a5|600
+/data/bznsyp/Wave/009542.wav|mu4 qian2 chen2 mou3 yin1 she4 xian2 gu4 yi4 sun2 hui3 gong1 si1 cai2 wu4 bei4 jing3 fang1 xing2 ju1|600
+/data/bznsyp/Wave/004173.wav|gai1 tai2 fu4 yun2 nan2 de5 ke1 pu3 bu4 zhu3 ren4 zhang1 yang2 biao3 shi4 xi1 wang4 guan1 ce4 gong1 zuo4 yi2 qie4 shun4 li4|600
+/data/bznsyp/Wave/007278.wav|huang2 gua1 chao3 ji1 dan4|600
+/data/bznsyp/Wave/004996.wav|ji4 zhe3 sui2 hou4 xun2 wen4 ying2 ye4 yuan2 zhe4 tao4 can1 yi3 shi4 fou3 wei2 quan2 shi2 mu4 de5|600
+/data/bznsyp/Wave/009891.wav|nan2 you3 shi4 zhe4 yang4 wo3 ji4 de5 wo3 shi4 zai4 yi2 ge4 yue4 se4 meng2 long2 de5 wan3 shang4 xiang4 ni3 qiu2 de5 hun1|600
+/data/bznsyp/Wave/008651.wav|mu4 qian2 huan4 gu3 shi4 yi4 zhong2 ke3 xing2 de5 cao1 zuo4 ce4 lve4|600
+/data/bznsyp/Wave/006434.wav|zi4 cong2 nai3 niu2 si3 qu4 wo2 zhi3 neng2 kao4 da2 dian2 duan3 gong1 he2 jie4 zhai4 guo4 ri4 zi5|600
+/data/bznsyp/Wave/006982.wav|xin1 chun1 qi1 jian1 bu4 shao3 dian4 pu4 xiu1 ye4 que4 cheng2 wei2 zei2 ren2 de5 zuo4 an4 mu4 biao1|600
+/data/bznsyp/Wave/002830.wav|zhe4 yang4 de5 yi4 zheng4 shi4 she2 ben3 zhu2 mo4|600
+/data/bznsyp/Wave/000300.wav|zhe4 pa4 shi4 yao5 kao2 kao3 dang1 di4 zheng4 fu3 le5|600
+/data/bznsyp/Wave/005302.wav|nian1 hua1 si4 yi3 dong1 de5 hu2 tongr4 dao4 lu4 bing4 bu5 suan4 zhai3 dan4 liang3 pang2 que4 ting2 man3 le5 si1 jia1 che1|600
+/data/bznsyp/Wave/000001.wav|ka2 er2 pu3 pei2 wai4 sun1 wan2 hua2 ti1|600
+/data/bznsyp/Wave/001833.wav|zhe4 ye2 gei3 mao4 ling2 yong3 ling2 deng3 wei4 kai1 fang4 de5 di4 wang2 ling2 qin3 zeng1 tian1 le5 geng4 duo1 shen2 mi4 se4 cai3|600
+/data/bznsyp/Wave/000050.wav|he4 li4 he2 yin4 du4 da4 heng1 a1 lang2 nai4 er3 yi3 jing1 fen1 ju1 shu4 yue4|600
+/data/bznsyp/Wave/004241.wav|bing4 mei2 you3 kong2 zi3 de5 bei4 zhui1 peng3 he2 re4 zhong1 du4 gao1 a5|600
+/data/bznsyp/Wave/002010.wav|shuo1 zhe4 duan4 hua4 shi2 ta1 you2 dian3 dou2 dou3 huo1 huo1 ji1 hu1 dai4 zhe5 ai1 qiu2 de5 yi4 wei4|600
+/data/bznsyp/Wave/006392.wav|zuo2 tui3 quan2 zhe5 ya1 zai4 you4 tui3 shang4 mian4|600
+/data/bznsyp/Wave/002907.wav|xiao3 jiang1 pie2 pie2 zui3 shi4 yi4 ji4 zhe3 kan4 wang3 ling4 yi5 ge5 fang1 xiang4|600
+/data/bznsyp/Wave/002159.wav|lao3 lang2 he2 ye4 bei4 gao1 xiao3 song1 de5 ci2 qu3|600
+/data/bznsyp/Wave/008003.wav|zha4 yan3 yi2 kan4 xiang2 qi3 de5 shi4 guang3 zhou1 de5 qu1 hao4 ling2 er4 ling2|600
+/data/bznsyp/Wave/004167.wav|ying4 cai3 er2 biao3 shi4 zhe4 yi4 tian1 ju3 xing2 hun1 li3 hen2 you3 yi4 yi5|600
+/data/bznsyp/Wave/004636.wav|peng2 you5 liu1 bing1 wo2 ye3 quan4 guo4 ye3 zhi2 you3 quan4|600
+/data/bznsyp/Wave/000516.wav|jia4 shi3 sao2 xue3 che1 xing2 shi3 dao4 zhao4 gong1 kou3 qiao2 hou4 miao2 wei1 diao4 tou2 wang3 hui2 zou3|600
+/data/bznsyp/Wave/005131.wav|fang2 wu1 zeng4 yu3 guang1 you2 biao3 shi4 shi4 bu2 gou4 de5|600
+/data/bznsyp/Wave/000581.wav|kong2 jia3 ju1 shou3 chang1 li2 na4 han3|600
+/data/bznsyp/Wave/008418.wav|bu2 lun4 zuo4 ren4 he2 shi4 ta1 dou1 bu4 ke3 neng2 diu1 diao4 zi4 wo3|600
+/data/bznsyp/Wave/001928.wav|nin2 za3 zhi1 dao4 wo3 shi4 gu1 er2 de5|600
+/data/bznsyp/Wave/007931.wav|ta1 zhuang4 shi5 de5 shen1 ban3 you3 hei1 de5 pi2 fu1 xiao3 ping2 tou2 xia4 liang3 zhi1 yan3 jing5 jiong2 jiong2 you3 shen2|600
+/data/bznsyp/Wave/008168.wav|wo3 jun1 shi2 xian4 hou4 qin2 xian4 dai4 hua4 you3 mei2 you3 shi2 jian1 biao3|600
+/data/bznsyp/Wave/002868.wav|dong1 dong5 de5 shou3 yin1 kun2 bang3 gou4 cheng2 zhong4 shang1|600
+/data/bznsyp/Wave/004469.wav|ping2 shi2 yu3 lin2 ju1 men5 da2 dian2 xiao3 ma2 jiang4 shu1 ying2 xian4 du5 zhi3 zai4 ji3 kuai4 qian2|600
+/data/bznsyp/Wave/008975.wav|dian3 xin5 jin1 ri4 hai2 tui1 chu1 dian3 xin5 tong1 xun4 lu4 dian3 xin5 he2 tong2 bu4 deng3 xin1 gong1 neng2|600
+/data/bznsyp/Wave/000688.wav|ru4 xia4 yi3 lai2 yu2 shui3 chong1 pei4 li4 yu2 zuo4 wu4 sheng1 zhang3 fa1 yu4|600
+/data/bznsyp/Wave/009528.wav|lin2 ju1 fan3 ying4 dang1 shi2 wu1 nei4 ming2 huo3 bu2 da4 dan4 shi4 nong2 yan1 qiang4 ren2|600
+/data/bznsyp/Wave/003320.wav|tong2 ri4 min2 min2 ye3 bei4 zhua1 huo4|600
+/data/bznsyp/Wave/004748.wav|zhong1 li4 ti2 zhu3 dong4 lou3 zhe5 xing2 nan2 yan3 ru2 yi2 dui4 xin1 hun1 fu1 qi1 fei1 chang2 en1 ai4|600
+/data/bznsyp/Wave/004055.wav|mei3 tian1 yong4 xin1 zuo4 fu3 shi2 gei3 ta1 chi1|600
+/data/bznsyp/Wave/006375.wav|dan4 a1 ling2 dun4 xian4 zai4 que4 sheng1 cheng1 ta1 dang1 chu1 li2 zhi2 shi2 chu3 yu2 ji2 qi2 ang1 zang1 de5 zhuang4 kuang4|600
+/data/bznsyp/Wave/007858.wav|ju4 xing2 mao3 ding1 wen3 gu4 le5 ji1 keng1 dian4 ding4 le5 ji1 chu3|600
+/data/bznsyp/Wave/007228.wav|dui4 ci3 ta1 xiao4 na4 pin2 dian2 hao3 bu4 zhang3 chong2 er5|600
+/data/bznsyp/Wave/006067.wav|ta1 jing1 chang2 hen2 ti3 tie1 de5 wen4 da4 jia1 yao4 bu2 yao4 chi1 zhe4 ge5 chang2 chang5 na4 ge5 te4 bie2 xi4 xin1|600
+/data/bznsyp/Wave/000962.wav|lao3 zhu1 mi1 zhe5 yan3 zhun3 bei4 ji4 xu4 da2 dun3|600
+/data/bznsyp/Wave/006168.wav|ben3 shi4 ji1 ceng2 zheng4 gai3 qian2 lu4 kan2 ke3 wei4 bu3|600
+/data/bznsyp/Wave/003710.wav|shou4 nve4 cheng2 du4 yue4 gao1 ji1 yin1 bian4 hua4 yue4 da4|600
+/data/bznsyp/Wave/009514.wav|jiu4 shi4 bi3 jiao4 xi3 huan1 xie2 dian3 dong1 xi5 ma5|600
+/data/bznsyp/Wave/006681.wav|na3 ge4 ling2 dao2 gan3 yu2 qi3 yong4 yi2 ge4 man2 kou3 yu2 ci2 de5 xiao3 zheng4 ke4 ne5|600
+/data/bznsyp/Wave/008148.wav|wo3 kan4 guo4 ni3 he2 wu2 zhuo2 xi1 de5 xue2 jing3 san1 hen2 xi3 huan1|600
+/data/bznsyp/Wave/004911.wav|mai3 de5 gu3 piao4 you4 die1 ting2 le5 mei2 you3 na4 ge5 ming4 a5|600
+/data/bznsyp/Wave/001585.wav|da4 hai3 shen1 chu4 zao2 yi2 mao3 zu2 le5 jinr4 de5 zuan4 tou5 zhong1 yu2 zuan1 ru4 le5 di4 ceng2 zhi1 zhong1|600
+/data/bznsyp/Wave/000277.wav|guo1 chou2 chou3 li4 ji2 ti2 chu1 mai4 gei3 jiu4 ma1 qin2 gui4 ying1|600
+/data/bznsyp/Wave/001951.wav|zhe4 jiang1 hui4 xiao1 chu2 zhong1 wen2 dian4 nao2 ruan3 jian4 yu3 wai4 wen2 ruan3 jian4 hu4 bu4 jian1 rong2 de5 zhang4 ai4|600
+/data/bznsyp/Wave/002593.wav|wu2 chuan1 zheng4 fu2 wang3 shi4 zhang3 xin4 xiang1 cheng2 bai3 she4|600
+/data/bznsyp/Wave/007635.wav|zi1 xun2 dian4 hua4 wei2 liu4 er4 ling2 wu3 jiu3 yao1 yao1 qi1|600
+/data/bznsyp/Wave/008540.wav|cao1 zong4 jian4 pan2 de5 shou3 yong4 lai2 ban1 yun4 sha1 dai4 shi4 fou3 jue2 de5 kui1|600
+/data/bznsyp/Wave/005659.wav|ma3 hua4 teng2 bei4 ping2 wei2 er4 ling2 yi1 wu3 zhong1 guo2 zui4 ju4 ying2 xiang3 li4 wu3 shi2 wei4 shang1 jie4 ling3 xiu4|600
+/data/bznsyp/Wave/004485.wav|shen4 zhi4 tai2 chu1 zi4 jia1 xi2 fur4 bi4 xian2|600
+/data/bznsyp/Wave/001001.wav|cai4 shao4 fen1 pai1 tuo1 ye3 bu2 ren4 la5|600
+/data/bznsyp/Wave/002621.wav|ci3 ci4 huan2 du3 zong1 he2 cuo4 shi1 dui4 gong1 che1 tong2 yang4 ti2 chu1 yan2 ge2 xian4 zhi4|600
+/data/bznsyp/Wave/008662.wav|mu4 qian2 zheng4 shi4 ta1 men5 cong2 hai2 kou3 su4 chang2 jiang1 er2 shang4 chan2 luan3 fan2 zhi2 de5 gao1 feng1 qi1|600
+/data/bznsyp/Wave/006473.wav|ta1 men5 chuan2 chuan2 xiang1 lian2 shou2 wei3 xian2 jie1 zu3 cheng2 le5 hao4 hao4 dang4 dang4 de5 chuan2 dui4|600
+/data/bznsyp/Wave/005118.wav|zhi2 dao4 min2 jing2 gan3 dao4 quan4 shuo1 hou4 na4 wei4 hou4 niao2 lao3 ren2 cai2 bu4 qing2 yuan4 de5 zou3 kai1|600
+/data/bznsyp/Wave/004924.wav|zi4 cong2 gen1 zhe5 feng2 gong3 shang4 le5 chun1 wan3 ta1 zai4 wai4 huo2 dong4 jiu4 jing1 chang2 da3 zhe5 feng2 gong3 de5 zhao1 pai2|600
+/data/bznsyp/Wave/006632.wav|zhang1 rui3 shuo1 wai4 gong1 hai2 te4 bie2 xi3 huan1 guang4 jie1 jing1 chang2 dao4 chun1 xi1 lu4 guang4|600
+/data/bznsyp/Wave/008574.wav|zui4 zhong1 jie2 guo3 shi4 xie4 hong2 qiang2 ying2 le5 ling4 yi4 jia1 tao3 zhai4 gong1 si1 bei4 nian2 zou3|600
+/data/bznsyp/Wave/005865.wav|ni2 xi3 wan2 shou3 zen3 me5 bu4 ca1 gan1 a5 dou1 shi4 shui3|600
+/data/bznsyp/Wave/005387.wav|cong2 shi2 jiu3 nian2 qian2 jian4 chang3 zhi4 jin1 wu1 shui3 yi4 zhi2 pai2 fang4 dao4 wang4 yu2 he2 zhong1|600
+/data/bznsyp/Wave/004428.wav|tai4 yang5 zhao4 zai4 qiang2 jiao3 de5 ji1 xue3 shang4 shai4 hua4 le5 de5 xue2 shui3 shun4 zhe5 xiao3 gou1 liu2 xiang4 yuan4 wai4|600
+/data/bznsyp/Wave/000504.wav|xiao4 hua5 hai2 fen1 yan2 se4 ma5|600
+/data/bznsyp/Wave/006435.wav|dan4 zhe4 shi4 ge5 cuo4 jue2 jiu4 you2 ru2 tuo2 niao2 ba3 tou2 mai2 cang2 zai4 sha1 zi5 li3 yi2 yang4|600
+/data/bznsyp/Wave/000483.wav|shou4 xing1 yang2 qian1 hua4 juan1 chu1 liang3 qian1 yuan2 chou1 jiang3 shang4 tai2 shi2 yi2 mian4 chi1 tian2 pin3 yi2 mian4 chou1 jiang3|600
+/data/bznsyp/Wave/008474.wav|zhi4 yu2 sang1 li2 ju3 xing2 de5 xi4 jie2 ta1 zhi3 yao4 wen4 xu3 guan4 wu3 yin1 shi4 ta1 quan2 li4 da2 dian3|600
+/data/bznsyp/Wave/007987.wav|ta1 mei2 mao5 shu4 qi3 lai2 shuang1 bi4 hu4 bao4 ju4 jue2 bie2 ren2 kao4 jin4|600
+/data/bznsyp/Wave/006478.wav|wo3 ba4 chang2 shuo1 shi4 gou2 shi3 hu2 le5 yan3 jing5 cai2 kan4 shang4 wo3 ma1 de5 ni2 ye3 shi4 ma5|600
+/data/bznsyp/Wave/000022.wav|yao2 lan2 pai2 gai4 wei2 jian4 ying1 er2 pei4 fang1 nai2 fen3|600
+/data/bznsyp/Wave/007127.wav|mei3 ci4 dao4 mei3 guo2 dou1 yao4 qu4 la1 si1 wei2 jia1 si1 de5 du2 chang3|600
+/data/bznsyp/Wave/008989.wav|hai3 guan1 zong2 shu3 ji1 ji2 tuo4 zhan3 he2 you1 hua4 jia1 gong1 mao4 yi4 de5 chan3 ye4 jie2 gou4 tiao2 zheng3 deng2 deng3|600
+/data/bznsyp/Wave/004732.wav|er2 ying2 li4 yu4 jing3 geng4 shi2 yu3 run4 shi2 pin3 de5 gu3 jia4 xue3 shang4 jia1 shuang1|600
+/data/bznsyp/Wave/000851.wav|zhe4 shi4 zheng3 zhi4 yang2 hui4 lu4 de5 yi2 ben4 zhao1 dan4 ken3 ding4 you3 yong4|600
+/data/bznsyp/Wave/000658.wav|gai1 cun2 dan1 ke3 liu2 tong1 zhuan3 rang4 zi4 you2 mai3 mai4|600
+/data/bznsyp/Wave/004289.wav|zhe4 bei4 hou4 qian1 chu1 ge2 yu3 sheng4 da4 zhi1 jian1 de5 jiu1 ge2 yi2 an4|600
+/data/bznsyp/Wave/005784.wav|shang4 ci4 lai2 xin1 jia1 po1 ye3 jian4 guo4 mian4 de5 lao3 peng2 you5 ne5|600
+/data/bznsyp/Wave/007433.wav|wang3 zhan4 guan2 li3 yuan2 de5 quan2 xian4 geng4 da4 ke3 dui4 ping2 lun4 jin4 xing2 you3 xiao4 guan2 li3|600
+/data/bznsyp/Wave/001344.wav|you3 zhi1 qing2 zhe3 lian2 xi4 yao1 san1 wu3 jiu2 jiu3 san1 yao1 wu2 wu2 wu3 ba1|600
+/data/bznsyp/Wave/000391.wav|dong1 nuan3 xia4 liang2 de5 yao2 dong4 bei4 yi2 dao4 dao4 lie4 feng4 tun1 shi4|600
+/data/bznsyp/Wave/003353.wav|wo3 de5 ya1 sui4 qian2 ma1 ma5 bang1 wo3 cun2 yin2 hang2 li3 jiu4 shi4 zhe4 me5 mei2 le5 de5|600
+/data/bznsyp/Wave/002143.wav|wu2 zha2 gui3 dao4 de5 gui2 zhen3 ben3 shen1 shi4 hun4 ning2 tu3 jiao1 guan4 er2 cheng2 er2 lu4 ji1 ye3 bu2 yong4 sui4 shi2|600
+/data/bznsyp/Wave/007137.wav|yi4 sheng4 huai2 de5 xiu1 lu4 gong1 ju4 hen2 jian3 dan1 zuan1 zi5 chu2 tou5 qiao1 chu2 he2 bo4 ji5|600
+/data/bznsyp/Wave/006560.wav|lian2 xi4 dian4 hua4 liu4 si4 er4 yao1 er4 si4 liu4 yao1 huo4 yao1 er4 san1 er4 ling2|600
+/data/bznsyp/Wave/003192.wav|chuang3 xia4 da4 huo4 hou4 hou2 jian4 yong3 tao2 dao4 guang3 dong1 tou2 ben4 qin1 ren2|600
+/data/bznsyp/Wave/009922.wav|yi4 zhong2 biao3 shi4 shang1 pin3 suo2 you3 quan2 de5 cai2 wu4 zheng4 quan4 ye3 cheng1 shang1 pin3 zheng4 quan4 ru2 ti2 huo4 dan1 jiao1 huo4 dan1|600
+/data/bznsyp/Wave/004557.wav|wang2 nv3 shi4 ci3 shi2 gan3 dao4 yan3 qian2 yi4 hei1 nao3 dai4 dun4 shi2 yun1 le5 qi3 lai2|600
+/data/bznsyp/Wave/009006.wav|yin1 ci3 zhi3 neng2 yi3 zui4 ben4 de5 fang1 shi4 bu2 duan4 yi2 luan3 ji1 shi2|600
+/data/bznsyp/Wave/002642.wav|ying2 wan1 zhen4 yao2 po1 shan1 peng2 hu4 qu1 gai3 zao4 xiang4 mu4 xi4 shi4 zhong4 dian3 gong1 cheng2|600
+/data/bznsyp/Wave/006654.wav|si1 ji1 chen2 fa1 cheng2 yao1 bu4 shou4 shang1 li3 qiu1 xian1 mei2 you3 shou4 shang1|600
+/data/bznsyp/Wave/000320.wav|wo3 men5 yi4 zhi2 dou1 ren4 wei2 tu4 xie2 you3 xue4 yan4|600
+/data/bznsyp/Wave/004113.wav|chu1 ru4 you3 che1 dai4 bu4 che1 xing2 zi4 xuan3 hai2 you3 bao2 ma3 o5|600
+/data/bznsyp/Wave/007120.wav|yin1 ci3 hai2 dei3 zhu4 yi4 fang2 yu4 lei2 dian4 he2 lei2 yu3 da4 feng1 deng3 qiang2 dui4 liu2 tian1 qi4|600
+/data/bznsyp/Wave/003750.wav|ti2 dao4 cheng2 po2 po5 pi1 chuang2 de5 shi4 zhang1 quan2 you3 bu4 tong2 shuo1 fa3|600
+/data/bznsyp/Wave/000753.wav|xia4 si4 yue4 gui3 si4 liu2 bei4 cu2 yu2 yong3 an1 gong1|600
+/data/bznsyp/Wave/001818.wav|mei3 tian1 lian2 zhou2 zhuan4 shi4 de5 bi3 da4 ren5 hai2 lei4|600
+/data/bznsyp/Wave/008452.wav|cao2 cheng2 gei3 ji4 zhe3 suan4 le5 zhe4 yang4 yi4 bi3 zhang4|600
+/data/bznsyp/Wave/006580.wav|da4 yue1 wan3 shang4 shi2 yi1 dian2 zuo3 you4 huo3 kai1 shi3 xiang4 san1 shi2 si4 lou2 man4 yan2|600
+/data/bznsyp/Wave/007703.wav|wo3 ying1 gai1 duo1 zan3 xie1 qian2 wei4 hai2 zi5 men5 mai3 yi4 xie1 ben3 zi5|600
+/data/bznsyp/Wave/000677.wav|rang4 yao2 yi4 er4 ren2 de5 wei1 li4 gong4 tong2 fa1 hui1|600
+/data/bznsyp/Wave/003657.wav|qu4 chuai3 mo2 bie2 ren5 shi4 zen3 me5 yan3 xi4 de5|600
+/data/bznsyp/Wave/009164.wav|bu4 fa1 biao3 yi4 jian4 jin2 biao3 shi4 zhi1 chi2|600
+/data/bznsyp/Wave/004212.wav|er2 cong2 ce4 mian4 kan4 shi2 xiao3 tian1 tian2 yi2 you3 ming2 xian3 tu1 qi3 de5 xiao3 du4 nan3|600
+/data/bznsyp/Wave/008743.wav|ta1 cou4 jin4 guan1 cha2 hou4 jing4 fa1 xian4 nu2 bi3 hai2 huo2 zhe5|600
+/data/bznsyp/Wave/006818.wav|cun1 zhong1 da4 duo1 shu4 zuo1 fang5 yi3 ting2 chan3|600
+/data/bznsyp/Wave/006860.wav|ling4 yi1 shi2 san1 sui4 gu3 xing4 shao4 nian2 zai4 shi4 gu4 zhong1 yu4 nan4|600
+/data/bznsyp/Wave/000558.wav|an4 tu2 suo3 ji4 yi1 yang4 hua4 hu2 lu5|600
+/data/bznsyp/Wave/002696.wav|ren2 men5 dan1 xin1 tong1 zhang4 zou3 shi4 shi1 kong4 hui4 zhao1 zhi4 geng4 yan2 li4 de5 hong2 guan1 jin3 suo1 zheng4 ce4|600
+/data/bznsyp/Wave/008160.wav|dai3 tu2 jian4 nan2 yi3 tao2 tuo1 reng1 xia4 pi2 bao1 ji4 xu4 tao2 cuan4|600
+/data/bznsyp/Wave/004608.wav|tang2 hai3 bin1 yun2 nan2 meng2 hai3 chen2 sheng1 cha2 chang3 fu4 zong3 jing1 li3|600
+/data/bznsyp/Wave/004085.wav|la1 bi3 ye1 hou4 hui3 ting1 cong2 le5 zhei4 yang4 de5 jian4 yi4|600
+/data/bznsyp/Wave/009556.wav|guo4 qu4 ji3 shi2 nian2 yan2 hai3 zhi1 suo2 yi3 fa1 zhan3 xun4 su4 jiu4 shi4 yin1 wei4 jin4 xiang4 wu4 liu2 bian4 li4|600
+/data/bznsyp/Wave/003843.wav|sun1 xiao3 wen2 she4 ji4 de5 gai4 nian4 biao3 zai4 du2 miao3 ying2 jie1 ao4 yun4 de5 dao4 lai2|600
+/data/bznsyp/Wave/005409.wav|bu2 niao3 ren2 tong4 de5 diu1 xia4 nian2 gan1 ge1 zi5 li4 ji2 jing1 pao3 le5|600
+/data/bznsyp/Wave/000226.wav|yi2 wang3 chang2 sai1 che1 de5 gang2 ding3 ze2 hen3 chang4 shun4|600
+/data/bznsyp/Wave/000702.wav|da4 lian2 gang3 ji2 tuan2 mu4 ling2 tie2 hai3 lian2 yun4 xiang4 mu4 qi3 dong4|600
+/data/bznsyp/Wave/000640.wav|lun2 huan4 qiu2 yuan2 zhen1 de5 you3 bi4 yao4 ma5|600
+/data/bznsyp/Wave/007759.wav|shen1 wei2 tai4 guo2 hua2 qiao2 hou4 yi4 de5 ta1 wei4 ci2 gan3 dao4 wu2 bi3 zi4 hao2 yu3 guang1 rong2|600
+/data/bznsyp/Wave/005084.wav|gai1 an4 zai4 fa3 lv4 shang4 de5 shou3 duan4 yi3 jing1 qiong2 jin4 zan4 wu2 fa3 zhi2 xing2|600
+/data/bznsyp/Wave/007386.wav|yu2 shi4 ba3 xiao2 mang3 she2 dai4 hui2 jia1|600
+/data/bznsyp/Wave/009461.wav|shi4 ma5 li3 zhi4 qing1 shuo1 zhe5 pi4 gu5 you4 na3 yi2 cun4|600
+/data/bznsyp/Wave/004795.wav|tai4 ping2 lun2 xia4 chen2 hen3 kuai4 kong3 huang1 de5 ren2 qun2 kai1 shi2 wang3 jiu4 sheng1 ting2 pao3|600
+/data/bznsyp/Wave/006852.wav|zhe4 shi4 liu2 xia4 zhong1 guo2 meng3 long2 zu2 ji4 de5 kong3 long2 de5 fu4 yuan2 tu2|600
+/data/bznsyp/Wave/008621.wav|lao3 ba4 shuo1 shi4 a5 bu4 neng2 pian1 xin1 ni3 ge1 zai4 gan4 ma2|600
+/data/bznsyp/Wave/004142.wav|li4 run4 ke3 guan1 jing4 zheng1 ye2 hen3 ji1 lie4|600
+/data/bznsyp/Wave/008008.wav|tong2 shi2 dui4 yue4 juan4 dian3 shi2 xing2 quan2 cheng2 duo1 jiao3 du4 jian1 kong4|600
+/data/bznsyp/Wave/005990.wav|xian4 zai4 deng3 zhe5 san4 san4 jia1 ju4 weir4 xia4 yue4 jiu4 ban1 jin4 qu4|600
+/data/bznsyp/Wave/004765.wav|yi4 xie1 dan2 xiao3 de5 dian4 zhu3 wang2 wang3 yuan4 yi4 chu1 qian2 an1 fu3 si1 xia4 liao3 jie2|600
+/data/bznsyp/Wave/001533.wav|ru2 you3 qi2 ta1 yi2 wen4 qing3 dian4 hua4 zi1 xun2 yao1 yao1 ba1 yao1 yao1 si4|600
+/data/bznsyp/Wave/003381.wav|chu2 fang2 de5 yi2 shan4 men2 yi3 jing1 xiu3 lan4|600
+/data/bznsyp/Wave/005973.wav|xiang3 yao4 wo3 tiao2 xi4 ni3 ma5|600
+/data/bznsyp/Wave/001342.wav|fu4 yan3 dong1 ji3 ci4 tong1 guo4 mei2 ti3 cheng2 qing1 nve4 yu2 shi4 jian4|600
+/data/bznsyp/Wave/005427.wav|bu4 lang3 tai4 tai5 yi4 fen1 qian2 ye3 mei2 na2 dao4|600
+/data/bznsyp/Wave/001254.wav|tong2 chang3 hai2 you3 ke1 jia1 yan4 chen2 ting2 ni1|600
+/data/bznsyp/Wave/001302.wav|mo4 qi1 shao4 nian2 qiong2 yao4 you3 xin4 xin1 o5|600
+/data/bznsyp/Wave/004270.wav|hu4 lian2 wang3 zheng4 run4 wu4 xi4 wu2 sheng1 de5 ying2 xiang3 zhong1 guo2 she4 hui4|600
+/data/bznsyp/Wave/000902.wav|ru2 quan2 ben1 yong3 de5 yuan2 you2 ri4 ye4 ben1 liu2 shi3 ou1 meng2 cheng2 yuan2 guo2 nan2 yi3 jie1 shou4|600
+/data/bznsyp/Wave/004437.wav|suo2 you3 de5 ting2 che1 chang3 dou1 zai4 zui4 jia1 wei4 zhi4 an1 pai2 you3 zhuan1 gong4 can2 ji5 ren2 shi3 yong4 de5 che1 wei4|600
+/data/bznsyp/Wave/009064.wav|ren2 men5 he5 wo3 men5 hai2 neng2 zai4 kai1 da4 long2 tou2 rang4 qing1 ling2 ling2 de5 zi4 lai2 shui3 zhou4 ye4 chang2 liu2 ma5|600
+/data/bznsyp/Wave/009560.wav|dui4 yu2 fan3 dui4 pai4 wo3 yi4 zhi2 jue2 de5 ta1 men5 hen3 ang1 zang1|600
+/data/bznsyp/Wave/004689.wav|ge1 qian3 de5 bai2 hai3 tun2 ti3 chang2 chao1 guo4 liang2 mi3|600
+/data/bznsyp/Wave/001552.wav|ye3 sheng1 dong4 wu4 you3 zi4 ran2 si3 wang2 lv4|600
+/data/bznsyp/Wave/009220.wav|yin1 wei4 wo3 zhen1 ji4 bu4 qing1 chu3 shui2 zai4 nar4|600
+/data/bznsyp/Wave/000668.wav|min2 nv2 gei3 nin2 qing3 an1 la5|600
+/data/bznsyp/Wave/002606.wav|lv3 tian1 xi3 zuo3 yi1 yu3 fu4 mu3 zai4 yi4 qi3|600
+/data/bznsyp/Wave/003558.wav|mei2 nv2 zhu3 bo1 du4 qin4 yi2 shou4 qi2 qin1 dian3 dan1 dang1 ci3 ci4 chang4 pian4 fa1 bu4 hui4 de5 zhu3 chi2|600
+/data/bznsyp/Wave/004443.wav|jia1 qiong2 rang4 liang3 ge5 xiao2 nv3 er2 zao2 zao3 chuo4 xue2 hai2 you2 ji3 wan4 yuan2 de5 wai4 zhai4|600
+/data/bznsyp/Wave/006070.wav|mu4 qian2 gong1 si1 ren2 gong1 cheng2 ben3 gong4 ji4 yue1 yi4 bai3 yi1 shi2 wan4|600
+/data/bznsyp/Wave/001434.wav|nian2 mo4 gu4 ding4 dian4 hua4 yong4 hu4 liang3 wan4 ba1 qian1 wu2 bai3 yi1 shi2 er4 wan4 hu4|600
+/data/bznsyp/Wave/009883.wav|shi2 ren4 shen1 zhen4 shi4 si1 fa3 ju2 fu4 ju2 zhang3 de5 xu2 jian4 shou4 ming4 she4 ji4 yi2 tao4 zheng4 gai3 fang1 an4|600
+/data/bznsyp/Wave/005926.wav|zhe4 shi4 shang4 hai2 you2 bi3 zhe4 geng4 nan2 chi1 de5 cai4 me5|600
+/data/bznsyp/Wave/005899.wav|zhe4 zai4 you3 bian1 zhi4 xian4 zhi4 yi2 ge4 luo2 bo5 yi2 ge4 keng1 de5 shi4 ye4 dan1 wei4 geng4 fu4 za2|600
+/data/bznsyp/Wave/003692.wav|chu1 pin3 fang1 ye2 biao3 shi4 zhi3 yao4 dian4 ying3 piao4 fang2 gei3 li4 jiu4 pai1 qie4 ting1 san1|600
+/data/bznsyp/Wave/007893.wav|de2 wo4 xia4 ke4 shou3 xian1 dui4 zhong1 guo2 ao4 yun4 hui4 de5 chou2 bei4 gong1 zuo4 da4 jia1 zan4 shang3|600
+/data/bznsyp/Wave/005910.wav|peng2 hong2 ba3 tu2 pian4 fu4 zhi4 guo4 lai2 jia1 shang4 biao1 ti2 zhe4 ba2 san2 hao3 guai4 yo5 you4 fa1 chu1 qu4|600
+/data/bznsyp/Wave/007933.wav|wei4 le5 tian2 bu3 xian1 qian2 de5 ju4 e2 kui1 kong1 zhang1 run4 zhang1 ce4 hua4 le5 zhe4 qi1 jia2 qiang3 jie2 an4|600
+/data/bznsyp/Wave/009653.wav|liu2 xian1 sheng5 gan1 ga4 de5 xiao4 le5 xiao4 jiang1 yan1 shou1 le5 hui2 qu4|600
+/data/bznsyp/Wave/004467.wav|yi2 zuo4 xia5 ta1 mo2 ceng4 ban4 tian1 bu4 zhi1 ru2 he2 kai1 kou3|600
+/data/bznsyp/Wave/001831.wav|er2 jie2 guo3 yu2 wo3 men5 de5 kan4 fa3 yi2 zhi4|600
+/data/bznsyp/Wave/001068.wav|lao3 shi1 ting1 hou4 pa1 yi4 er3 guang1 da2 wo2 lian3 shang4 jing4 che3 dan4 zhe4 shi4 wo3 die1|600
+/data/bznsyp/Wave/000991.wav|hua1 er2 san4 bo1 fen1 fang1 you3 yi4 chuan2 di4 wen1 nuan3 rang4 wo3 men2 huan1 yu2 zai4 yang2 yi4 xi1 wang4 de5 yi4 nian2|600
+/data/bznsyp/Wave/009191.wav|chong1 tu1 zhong1 qi2 zhong1 yi4 fang1 de5 bang1 shou3 wu4 jiang1 yi4 ming2 kan4 re4 nao5 de5 shi4 min2 da3 shang1|600
+/data/bznsyp/Wave/009769.wav|zhe4 ci4 zhu3 ren2 ba2 wo3 nan2 dao4 le5|600
+/data/bznsyp/Wave/003875.wav|mu3 qin1 yi4 sheng1 jian1 jiao4 yin3 lai2 lin2 ju5 ke1 heng1|600
+/data/bznsyp/Wave/005061.wav|fang4 xia4 dian4 hua4 cai2 shu4 fen1 zhong1 mu3 qin1 ya3 zhe5 sang3 zi5 de5 ku1 hou3 sheng1 yi3 jing1 xiang2 qi3|600
+/data/bznsyp/Wave/003957.wav|cong2 wai4 guan1 shang4 kan4 zheng4 chang2 de5 zao3 zi5 biao3 pi2 xi4 ni4 guang1 hua2 shao1 wei1 nie1 yi2 xia4 you3 tan2 xing4|600
+/data/bznsyp/Wave/000455.wav|zhi4 yun2 da4 shi1 ji2 xu1 kang2 qi3 da4 qi2 shou1 shi5 lan4 tan1 zi5|600
+/data/bznsyp/Wave/002310.wav|tou2 bu4 fang3 si4 san1 jiao3 xing2 you4 ru2 yi2 kuai4 lao4 tie3|600
+/data/bznsyp/Wave/004246.wav|zhao1 hui4 fu1 ren5 yu3 an1 bei4 jin4 san1 yi1 jiu3 ba1 qi1 nian2 jie2 hun1|600
+/data/bznsyp/Wave/008670.wav|ye1 lu4 sa1 leng3 shi4 you2 tai4 jiao4 ji1 du1 jiao4 he2 yi1 si1 lan2 jiao4 gong4 tong2 de5 sheng4 di4|600
+/data/bznsyp/Wave/004898.wav|fan3 zheng4 wo3 bu2 yuan4 xiang1 xin4|600
+/data/bznsyp/Wave/003466.wav|xie2 xiao3 shuo1 de5 ping2 shen2 me5 xie3 dao4 nan2 nv3 fen1 shou3 jiu4 dei3 ming4 ling4 lao3 tian1 ye2 diao4 ji3 ge5 yu2 dian3 xia4 lai5|600
+/data/bznsyp/Wave/003360.wav|zi3 xi4 kan4 neng2 kan4 dao4 jin1 shu3 dai4 si4 wu3 chu4 bei4 zhuang4 huo4 gua1 ca1 chan3 sheng1 de5 ao1 hen2|600
+/data/bznsyp/Wave/008453.wav|wo3 de5 lian2 mei3 tian1 dou1 xi3 de5 hen3 gan1 jing4 o5|600
+/data/bznsyp/Wave/006975.wav|nan2 you3 shang4 ce4 suo3 de5 shi2 hou4 wu2 liao2 fan1 kan4 wei1 bo2 jiu4 da3 suan4 shi4 shi5|600
+/data/bznsyp/Wave/001376.wav|wei4 le5 tuo1 yan2 shi2 jian1 hai2 te4 yi4 zuo4 le5 yi4 xiao3 pen2 gua1 pian4 tang1|600
+/data/bznsyp/Wave/009024.wav|you3 shi2 mang2 qi3 lai2 le5 mei2 ling2 qian2 yi4 lian2 ji3 tian1 dou1 bu4 shou1 wo3 qian2|600
+/data/bznsyp/Wave/008711.wav|zhi4 yuan4 zhe3 yi4 shou4 yi4 fei2 qian3|600
+/data/bznsyp/Wave/004023.wav|xin1 niang2 si1 di4 fen1 ni1 bai2 fu1 jin1 fa4|600
+/data/bznsyp/Wave/000939.wav|xiao4 yuan1 su4 yan2 mei2 mao5 jiao4 qian3 wu3 guan1 bu4 chu1 se4|600
+/data/bznsyp/Wave/000625.wav|wo3 shuo1 ni2 za2 na3 hu2 bu4 kai1 ti2 na3 hu2 wa5|600
+/data/bznsyp/Wave/007464.wav|ba3 wo4 hao2 luo3 du4 bi4 xu1 bu2 xie4 zhui1 qiu2 luo3 de5 yi4 shu4|600
+/data/bznsyp/Wave/009195.wav|ta1 bing4 bu4 zhi1 dao4 yi3 jing1 huai2 yun4 yi4 zhi2 yi3 wei2 shi4 zhang3 pang4 le5|600
+/data/bznsyp/Wave/000598.wav|ba3 na4 zhong3 luan4 xiang4 cong2 sheng1 de5 min2 zhu3 feng4 wei2 yang4 ban3 ma5|600
+/data/bznsyp/Wave/000098.wav|qin2 mou3 yong4 lian3 pen2 yao2 shui3 jiang1 huo3 pu1 mie4|600
+/data/bznsyp/Wave/001392.wav|bao4 kan1 kan1 zai3 yi4 xie1 duan2 xiao3 jing1 han4 jian4 jie3 du2 dao4 de5 you3 guan1 wang3 luo4 fang1 fang1 mian4 mian4 de5 yan2 lun4|600
+/data/bznsyp/Wave/003231.wav|hui2 ying4 de5 gan1 cui4 zhi2 jie1 li4 luo4|600
+/data/bznsyp/Wave/004486.wav|zuo2 tian1 you3 hang2 ban1 yin1 wu4 yan2 wu4 lv3 ke4 tang3 zai4 zuo4 yi3 shang4|600
+/data/bznsyp/Wave/000035.wav|yin2 chi1 mao3 liang2 wu2 yi4 yu2 yin3 zhen4 zhi2 ke3|600
+/data/bznsyp/Wave/000223.wav|guo2 yi3 min2 wei2 ben3 dang2 yi3 min2 wei2 ji1|600
+/data/bznsyp/Wave/008221.wav|xiao3 mei4 zui4 hou4 hai2 shi4 yong1 you3 le5 ban4 ge4 ya2 dian3 na4 de5 zhi4 hui4 jue2 yi4 he2 luo2 tian1 cheng2 fen1 shou3|600
+/data/bznsyp/Wave/001195.wav|jiao1 yi4 wu2 xu1 de2 dao4 ya2 hu2 gu3 dong1 pi1 zhun3|600
+/data/bznsyp/Wave/007774.wav|wang2 fei1 bu4 guan3 xian4 zai4 hai2 shi4 xiao3 shi2 hou4 dou1 hao2 ke3 ai4 o5|600
+/data/bznsyp/Wave/002629.wav|yan2 ge2 de5 shuo1 bu2 shi4 zou3 er2 shi4 pan1 deng1 er2 qu4 de5|600
+/data/bznsyp/Wave/008619.wav|ying1 ji2 li4 juan2 qi3 qie4 ting1 feng1 bao4 dong4 yao2 le5 mo4 duo1 ke4 fu4 zi3 zai4 ying1 guo2 de5 shang1 ye4 gen1 ji1|600
+/data/bznsyp/Wave/000921.wav|sui2 hou4 liang3 nan2 zi3 ti1 bie3 che1 men2 yang2 chang2 er2 qu4|600
+/data/bznsyp/Wave/007434.wav|hua4 wei4 luo4 yin1 hui4 chang2 li3 xiang2 qi3 le5 zhang3 sheng1|600
+/data/bznsyp/Wave/009393.wav|ge2 wei3 sheng4 ba3 che1 zi5 ting2 zai4 li2 ce4 suo3 jin4 de5 di4 fang5|600
+/data/bznsyp/Wave/003883.wav|wang1 feng1 le4 yi4 kan4 liang3 ge5 ren2 dou4 dou4 chu1 dian3 shi4 qing5 cai2 hao3 ne5|600
+/data/bznsyp/Wave/006600.wav|yu4 dao4 heng2 gen4 zai4 bo2 zi5 gao1 du4 de5 dian4 xian4 da4 jia1 yi3 jing1 neng2 gou4 mo4 qi4 de5 ti2 xing2 shan3 bi4|600
+/data/bznsyp/Wave/005389.wav|ta1 jie3 yue1 chun2 shu3 ge4 xing4 shi3 ran2 gen1 bie2 ren2 li4 peng3 mei2 shen2 me5 guan1 xi5|600
+/data/bznsyp/Wave/008464.wav|li2 zi5 dui4 chang2 yan2 jia3 zhuang4 xian4 zhong3 da4 bian4 mi4 yan4 shi2 xiao1 hua4 bu4 liang2 deng3 ji2 bing4 you3 yi2 ding4 liao2 xiao4|600
+/data/bznsyp/Wave/003413.wav|gai1 yuan4 yuan4 zhang3 yang2 kai1 qiao2 biao3 shi4 zhuang4 yuan5 zhi3 shi4 ou3 ran2 gao1 fen1 qun2 ti3 geng4 you3 shuo1 fu2 li4|600
+/data/bznsyp/Wave/003660.wav|xiang1 lu2 feng1 shan1 lu4 yan2 tu2 chu4 chu4 ke3 jian4 you2 ke4 luan4 reng1 de5 la1 ji1|600
+/data/bznsyp/Wave/005702.wav|wa3 jin1 ji1 gong1 yuan2 shi4 bo1 lan2 zui4 mei3 li4 de5 gong1 yuan2 zhi1 yi1|600
+/data/bznsyp/Wave/002252.wav|ci3 qian2 gai1 yuan2 duo1 ming2 nei4 bu4 ren2 shi4 tou4 lu4 yuan2 fang1 chang2 qi1 pao4 hu2 gu2 jiu3 qing3 ke4 song4 li3|600
+/data/bznsyp/Wave/002271.wav|wei2 sang1 de5 xiong2 xin1 shi4 rang4 zhong1 guo2 ying2 yang2 pin3 zou3 xiang4 wu3 da4 zhou1|600
+/data/bznsyp/Wave/005561.wav|zhe4 yang4 kan4 lai2 kun2 bang3 xiao1 shou4 cheng2 wei2 mo4 gao1 ku1 wei2 yi1 de5 xuan3 ze2|600
+/data/bznsyp/Wave/009848.wav|xing2 man3 shi4 fang4 hou4 de5 gao1 yi4 qiang2 bu4 si1 hui2 gai3 bing4 ran3 shang4 du3 bo2 de5 e4 xi2|600
+/data/bznsyp/Wave/005647.wav|nan2 dao4 dou1 yao4 deng3 dao4 he2 xiong2 mao1 yi2 yang4 ji1 jin4 jue2 ji4 cai2 zhi1 dao4 bao3 hu4 ma5|600
+/data/bznsyp/Wave/002094.wav|zong2 ti3 xiang4 mu4 yu4 ji4 zai4 er4 ling2 er4 er4 nian2 zhi1 qian2 wan2 cheng2|600
+/data/bznsyp/Wave/001165.wav|hai2 yong4 jin1 qi1 pan2 zhuang1 guo2 pin3 xian4 ke4 kou3 zhong1 ze2 shuo1 gong1 xi3 duo1 ru2 yi4|600
+/data/bznsyp/Wave/009600.wav|lao3 gong1 ren2 wen2 hua4 gong1 ji2 yi3 nan2 pian4 qu1 de5 di1 ai3 jian4 zhu4 jiang1 quan2 bu4 chai1 chu2|600
+/data/bznsyp/Wave/001574.wav|cun1 min2 zhao3 lai2 chang2 gan1 wang3 fen4 keng1 li3 pai1 da3 tong2 shi2 zai4 fen4 keng1 kou3 fang4 zhi4 yi2 ge4 lou3 kuang1|600
+/data/bznsyp/Wave/006936.wav|zhe4 shi4 wo2 sheng2 shou3 ci4 pai1 dao4 ye3 wai4 da4 xiong2 mao1 bei1 zhe5 bao3 bao5 xing2 zou3|600
+/data/bznsyp/Wave/005715.wav|lin2 shi2 ling2 qu3 sheng1 huo2 wu4 pin3 chu4 she4 zai4 zhong1 shu1 lou2 di4 si4 ceng2 de5 yue4 lan3 shi4 li3|600
+/data/bznsyp/Wave/002978.wav|jie2 zhi4 ji4 zhe3 fa1 gao3 shi2 qi4 wei4 yi3 ran2 san4 qu4 yi2 yun2 yi1 jiu4 long3 zhao4|600
+/data/bznsyp/Wave/002281.wav|li2 yong3 bo1 chou2 zhun3 di4 di5 du2 ju1 yi2 shi4 de5 ji1 hui4 dong4 le5 sha1 ji1|600
+/data/bznsyp/Wave/001767.wav|quan2 guo2 hua1 yang4 hua2 bing1 nv3 dan1 guan4 jun1 liu2 yan4 shi4 jin1 tian1 de5 di4 yi1 bang4 huo3 ju4 shou3|600
+/data/bznsyp/Wave/000564.wav|er4 fang2 zhang2 nv3 he2 chao1 qiong2 shou3 wo4 zhong4 quan2|600
+/data/bznsyp/Wave/006821.wav|zhang1 zi3 qiang2 he2 ye4 ji4 huan1 dou1 bu2 yong4 dao4 qian4 wo3 men5 shui2 you3 zi1 ge2 chu1 lai2 dao4 qian4 ya5|600
+/data/bznsyp/Wave/002011.wav|yi4 xie1 yin2 hang2 hai2 chu1 le5 wai1 zhao1|600
+/data/bznsyp/Wave/001824.wav|ben3 gong1 cheng2 hong2 guan1 zou3 xiang4 yu3 zhong1 mian2 guan3 dao4 yi2 zhi4|600
+/data/bznsyp/Wave/008413.wav|feng2 nian2 guo4 jie2 shi2 ni2 hong2 mei2 ye3 hui4 duo1 bao1 xie1 hun2 tun5 he2 bao1 zi5 song4 gei3 liu2 jie3|600
+/data/bznsyp/Wave/009946.wav|ling4 wai4 jie2 ke4 xun4 you3 wen2 chun2 xian4 yan3 xian4 mei2 mao5 de5 dong4 zuo4|600
+/data/bznsyp/Wave/000015.wav|wu2 yun2 bao2 nai3 nai5 tiao1 xuan3 pi2 pa2|600
+/data/bznsyp/Wave/000996.wav|ke3 xi1 xian1 tian1 ji1 chu3 bo2 ruo4 dei3 xian1 cong2 fan1 qie2 chao3 dan4 he2 tu3 dou4 si1 lian4 qi3|600
+/data/bznsyp/Wave/005090.wav|zhang1 lei2 lei3 xian4 zai4 xiang3 xian1 ba3 zi4 ji3 gai1 de2 de5 gong1 zi1 yao4 dao4 shou3|600
+/data/bznsyp/Wave/003748.wav|wo3 pa4 shui3 zai4 duo2 yu3 ne5|600
+/data/bznsyp/Wave/003885.wav|xiao3 chun1 mei2 you3 de2 zui4 ren2 men2 xin1 zi4 wen4 bu2 yong4 pa4|600
+/data/bznsyp/Wave/002581.wav|wei4 yu2 gong2 bei3 de5 zhu1 hai3 zhan4 you2 yu2 shou4 chai1 qian1 wen4 ti2 ying2 xiang3 gong1 qi1 yi4 zhi2 yan2 hou4|600
+/data/bznsyp/Wave/001688.wav|qi3 ye4 li4 run4 zeng1 zhang3 ya1 li4 jiao4 da4|600
+/data/bznsyp/Wave/008771.wav|de2 te4 le4 fu1 dui4 zhi3 kong4 gong4 ren4 bu2 hui4|600
+/data/bznsyp/Wave/008927.wav|zhe4 shi4 ji2 mi3 de5 di4 er4 ci4 mo2 tuo5 zhi1 lv3 ci3 qian2 ta1 ceng2 qi2 mo2 tuo5 che1 huan2 you2 guo4 yin4 du4|600
+/data/bznsyp/Wave/003077.wav|wo3 men5 guo2 fu4 min2 qiong2 ma5|600
+/data/bznsyp/Wave/006416.wav|wo2 yi3 jing1 yuan2 zou3 gao1 fei1 ni3 men5 jiu4 bu2 yao4 zai4 fei4 jin4 zhao2 wo3 le5|600
+/data/bznsyp/Wave/007320.wav|tian2 yuan2 shu1 cai4 zhou1 bu2 cuo4 ya5|600
+/data/bznsyp/Wave/004026.wav|gou4 wu4 guang2 chang3 zhi3 yun2 xu3 ren2 chu1 lai5 bu4 yun2 xu3 ren4 he5 ren2 jin4 ru4|600
+/data/bznsyp/Wave/009466.wav|qi2 ta1 de5 lai2 zi4 yu2 jing1 shen2 bing4 zhen2 suo3 huo4 yi1 yuan4|600
+/data/bznsyp/Wave/002396.wav|jin1 tian1 feng1 da4 huo3 miao2 cuan1 qi3 you2 wu3 liu4 mi3 gao1|600
+/data/bznsyp/Wave/009680.wav|zai4 ni3 tou2 zi1 zhi1 qian2 xi1 wang4 ni3 neng2 wan2 wan5 wo3 men5 de5 you2 xi4|600
+/data/bznsyp/Wave/005343.wav|duo1 shu4 yun1 dao3 de5 jing3 cha2 ye3 shi4 xue4 ya1 yi4 chang2 yu3 tian1 qi4 wu2 guan1|600
